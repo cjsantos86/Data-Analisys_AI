@@ -1,4 +1,4 @@
-,Munic�pio Acidente,Ano,M�s,Sexo,Turno Acidente,Tipo de Acidente,Meio de Locomoção da Vítima,Faixa Etária,Latitude Acidente,Longitude Acidente
+,Município Acidente,Ano,Mês,Sexo,Turno Acidente,Tipo de Acidente,Meio de Locomoção da Vítima,Faixa Etária,Latitude Acidente,Longitude Acidente
 0,Aguai,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,25-29,-22.0718932128,-46.9806802303
 1,Aguai,2016,12,Masculino,Madrugada,Choque,Automóvel,55-59,-22.0700309518,-47.0205842999
 2,Aguai,2016,12,Feminino,Noite,Atropelamento,Pedestre,75-79,Não Disponível,Não Disponível 
@@ -653,7 +653,7 @@
 651,Itu,2017,3,Masculino,Nao Disponivel,Atropelamento,Pedestre,60-64,-23.415683481,-47.257704264
 652,Itupeva,2016,12,Masculino,Tarde,Colisão,Motocicleta,35-39,-23.157748,-47.055807
 653,Ituverava,2017,3,Masculino,Noite,Atropelamento,Pedestre,Nao Disponivel,-20.254637757,-47.859143171
-654,Jaboticabal,2017,1,Masculino,Manhã,Outros,Motocicleta,60-64,-21.14133,-48385
+654,Jaboticabal,2017,1,Masculino,Manhã,Outros,Motocicleta,60-64,-21.14133,-48.385
 655,Jaboticabal,2017,2,Feminino,Noite,Colisao,Automovel,18-24,-21.233269243,-48.355800281
 656,Jaboticabal,2017,2,Feminino,Noite,Colisao,Automovel,60-64,-21.233269243,-48.355800281
 657,Jaboticabal,2017,2,Masculino,Noite,Colisao,Automovel,60-64,-21.233269243,-48.355800281
@@ -1647,7 +1647,7 @@
 1645,Sao Sebastiao Da Grama,2017,2,Masculino,Não Disponível,Colisao,Automovel,35-39,-21.7053928497,-46.8452406722
 1646,Sao Simao,2017,1,Masculino,Noite,Colisão,Motocicleta,30-34,-21.52777833,-47.642481023
 1647,Sao Simao,2017,3,Feminino,Tarde,Choque,Automovel,18-24,-21.460923,-47.451996
-1648,Sao Vicente,2016,12,Masculino,Manhã,Choque,Motocicleta,18-24,-23973,-46.390422
+1648,Sao Vicente,2016,12,Masculino,Manhã,Choque,Motocicleta,18-24,-23.973,-46.390422
 1649,Sao Vicente,2016,12,Masculino,Noite,Atropelamento,Pedestre,25-29,-23.9755454814,-46.4015783181
 1650,Sao Vicente,2016,12,Masculino,Tarde,Colisão,Motocicleta,25-29,-23.970309,-46.38422
 1651,Sao Vicente,2016,12,Masculino,Tarde,Choque,Automóvel,30-34,-23.95489,-46.461181
