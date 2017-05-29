@@ -19,8 +19,8 @@ class Infomapa():
         self.name = 'infomapa'
         self.df = None
         self._open_all_infomapa_csv()
-        self._normalize_strings()
-        #self.df.to_csv('infomapa.csv')
+        #self._normalize_strings()
+        self.df.to_csv('infomapa.csv')
 
 
     def _open_all_infomapa_csv(self):
@@ -32,12 +32,16 @@ class Infomapa():
         year = 2000
         while year < 2020:
             year += 1
-            for month in range(1,13):
+            for month in ['JANEIRO', 'FEVEREIRO', 'MARCO', 'ABRIL',
+                          'MAIO', 'JUNHO', 'JULHO', 'AGOSTO',
+                          'SETEMBRO', 'OUTUBRO', 'NOVEMBRO', 'DEZEMBRO']:
                 fname = self.name + '/'  # directory
-                fname += '-'.join([self.name, str(year), str(month).zfill(2)])
+                fname += '_'.join(['INFOMAPA', month, str(year), 'publicacao', 'csv'])
                 fname += '.csv'
                 if os.path.isfile(fname):
-                    total.append(pd.read_csv(fname, sep=';', header=0))
+                    df = pd.read_csv(fname, sep=';', header=1, index_col=0) \
+                           .dropna(axis=1, how='all').dropna(axis=0, how='all')
+                    total.append(df)
 
         self.df = pd.concat(total, ignore_index=True)
 
@@ -69,12 +73,14 @@ class Tempo():
 
 
 if __name__ == '__main__':
-    import seaborn as sns
-    import matplotlib.pyplot as plt
+    #import seaborn as sns
+    #import matplotlib.pyplot as plt
 
     df = Infomapa().df
 
-    plt.figure(1, figsize=(5*1.618, 5))
-    sns.kdeplot(df[Infomapa.header['ano']])
+    print(df.head())
 
-    sns.plt.show()
+    #plt.figure(1, figsize=(5*1.618, 5))
+    #sns.kdeplot(df[Infomapa.header['ano']])
+
+    #sns.plt.show()
