@@ -1,27 +1,15 @@
 import os
+import re
 import pandas as pd
 
 
 class Infomapa():
-    header = {'mnac' : 'Município Acidente',
-              'ano'  : 'Ano',
-              'mes'  : 'Mês',
-              'sexo' : 'Sexo',
-              'trnac': 'Turno Acidente',
-              'tpac' : 'Tipo de Acidente',
-              'mlv'  : 'Meio de Locomoção da Vítima',
-              'fxet' : 'Faixa Etária',
-              'lat'  : 'Latitude Acidente',
-              'lon'  : 'Longitude Acidente',
-             }
-
     def __init__(self):
         self.name = 'infomapa'
         self.df = None
         self._open_all_infomapa_csv()
-        self._normalize_strings()
-        #self.df.to_csv('infomapa.csv')
-
+        self._clean_columns()
+        self.df.to_csv(self.name + '/infomapa.csv')
 
     def _open_all_infomapa_csv(self):
         """ Open all CSV files from Infomapa data presents on current
@@ -32,30 +20,48 @@ class Infomapa():
         year = 2000
         while year < 2020:
             year += 1
-            for month in range(1,13):
-                fname = self.name + '/'  # directory
-                fname += '-'.join([self.name, str(year), str(month).zfill(2)])
+            for month in ['JANEIRO', 'FEVEREIRO', 'MARCO', 'ABRIL',
+                          'MAIO', 'JUNHO', 'JULHO', 'AGOSTO',
+                          'SETEMBRO', 'OUTUBRO', 'NOVEMBRO', 'DEZEMBRO']:
+                # directory
+                fname = self.name + '/'
+                # file name
+                fname += '_'.join(['INFOMAPA', month, str(year), 'publicacao', 'csv'])
                 fname += '.csv'
+                # check if such file exist
                 if os.path.isfile(fname):
-                    total.append(pd.read_csv(fname, sep=';', header=0))
+                    df = pd.read_csv(fname, sep=';', header=1, index_col=0) \
+                           .dropna(axis=1, how='all').dropna(axis=0, how='all')
+                    df.columns = ['MunAcidente', 'Ano', 'Mes', 'Sexo',
+                                  'Periodo', 'TipAcidente', 'Modal', 'FaixaEt',
+                                  'Latitude', 'Longitude']
+                    total.append(df)
 
+        # concatenates all files in an unique dataframe
         self.df = pd.concat(total, ignore_index=True)
 
-
-    def _normalize_strings(self):
+    def _clean_columns(self):
         """ Pass all strings inside self.df in lower case with the first
         character upper, sort database by cities, year and month and
         reset the index.
         """
 
-        for key in ['mnac', 'sexo', 'trnac', 'tpac', 'mlv']:
-            _key = Infomapa.header[key]
-            self.df[_key] = self.df[_key].str.title()
+        # Pass Latitude and Longitude columns to numeric
+        self.df['Latitude'] = pd.to_numeric(self.df['Longitude'], errors='coerce')
+        self.df['Longitude'] = pd.to_numeric(self.df['Longitude'], errors='coerce')
 
-        self.df = self.df.sort_values(by=[Infomapa.header['mnac'],
-                                          Infomapa.header['ano'],
-                                          Infomapa.header['mes'],])
-        self.df = self.df.reset_index(drop=True)
+        # Strip and normalize uppers and lowers for text columns.
+        for col in self.df.columns:
+            if self.df[col].dtype == 'object':
+                self.df[col] = self.df[col].str.strip().str.title()
+                self.df[col] = self.df[col].str.replace(r'N.o Dispon.vel', 'ND')
+                self.df[col] = self.df[col].str.replace(r'N.o Especificado', 'NE')
+                self.df[col] = self.df[col].str.normalize('NFKD') \
+                                   .str.encode('ascii', errors='ignore') \
+                                   .str.decode('utf-8')
+
+        # Set MunAcidente as index
+        self.df = self.df.set_index(['MunAcidente']).sort_index()
 
 
 class Multas():
@@ -69,12 +75,30 @@ class Tempo():
 
 
 if __name__ == '__main__':
-    import seaborn as sns
-    import matplotlib.pyplot as plt
+    #import seaborn as sns
+    #import matplotlib.pyplot as plt
 
     df = Infomapa().df
 
-    plt.figure(1, figsize=(5*1.618, 5))
-    sns.kdeplot(df[Infomapa.header['ano']])
+    #sampa = df.loc['Sao Paulo']
 
-    sns.plt.show()
+    #print(sampa.head())
+
+    #nd_pattern = re.compile(r'N.o Dispon.vel')
+
+    #s = 'Não Disponível'
+
+    #if nd_pattern.match(s):
+    #    print('match')
+    #else:
+    #    print('not')
+
+    for i in range(len(df.columns)):
+        for row in sorted(set(df[df.columns[i]])):
+            print(row)
+        print('\n')
+
+    #plt.figure(1, figsize=(5*1.618, 5))
+    #sns.kdeplot(df[Infomapa.header['ano']])
+
+    #sns.plt.show()
