@@ -56,6 +56,9 @@ class Infomapa():
                 self.df[col] = self.df[col].str.strip().str.title()
                 self.df[col] = self.df[col].str.replace(r'N.o Dispon.vel', 'ND')
                 self.df[col] = self.df[col].str.replace(r'N.o Especificado', 'NE')
+                self.df[col] = self.df[col].str.normalize('NFKD') \
+                                   .str.encode('ascii', errors='ignore') \
+                                   .str.decode('utf-8')
 
         # Set MunAcidente as index
         self.df = self.df.set_index(['MunAcidente']).sort_index()
@@ -77,9 +80,9 @@ if __name__ == '__main__':
 
     df = Infomapa().df
 
-    sampa = df.loc['Sao Paulo']
+    #sampa = df.loc['Sao Paulo']
 
-    print(sampa.head())
+    #print(sampa.head())
 
     #nd_pattern = re.compile(r'N.o Dispon.vel')
 
@@ -90,8 +93,10 @@ if __name__ == '__main__':
     #else:
     #    print('not')
 
-    #for row in sorted(set(df.index)):
-    #    print(row)
+    for i in range(len(df.columns)):
+        for row in sorted(set(df[df.columns[i]])):
+            print(row)
+        print('\n')
 
     #plt.figure(1, figsize=(5*1.618, 5))
     #sns.kdeplot(df[Infomapa.header['ano']])
