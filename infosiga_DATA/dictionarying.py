@@ -1,7 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-
+import seaborn as sns
+    
 
 df = pd.read_csv('infosiga.csv', encoding="latin-1", index_col=0)
 for col in df.columns:
@@ -24,7 +25,6 @@ for col in df.columns:
 
 #add a category in table
 df['Quantidade'] = 1
-print(df.columns)
 
 df.Sexo.replace({'NÃÂ£o DisponÃÂ­vel' : 'ND',
                   'Nao Disponivel' : 'ND',
@@ -68,34 +68,49 @@ df.Longitude.replace({'NÃÂ£o DisponÃÂ­vel' : 'ND',
 
 
 
-
-print(df.Longitude,df.Latitude)
-
-
-
-
 #s = df.loc['Modal']
 #print(s)
-
-df['Latitude'] = pd.to_numeric('Latitude', errors='coerce')
-#df['Longitude Acidente'] = pd.to_numeric(df['Longitude Acidente'], errors='coerce')                        
 
 #Indexing table
 df = df.set_index(['MunAcidente','Ano'])
 df.head()
 
-'''
+
 #Find a City
 sampa = df.loc['Sao Paulo']
-print(sampa)
+
 
 #New table with number of death
-df = df.groupby(level=0)['Quantidade'].agg({'Sum':np.sum})
-print(df)
+sampa = sampa.set_index(['TipAcidente'])
+sampa.head()
+sampa = sampa.groupby(level=0)['Quantidade'].agg({'Sum':np.sum})
 
+#how to get the values (index and columns)
+#print(sampa.index.values, sampa.Sum.values)
 
+pos = np.arange(len(sampa.index.values))
+
+bars = plt.bar(pos,sampa.Sum.values, align='center',linewidth=0, color='lightslategrey')
+bars[0].set_color('#1F77B4')
+plt.xticks(pos,sampa.index.values, alpha=0.8)
+plt.title('Meu Primeiro Graficuzinho')
+plt.tick_params(top='off', bottom='off',left='off',right='off',labelleft='off',labelbottom='on')
+
+for spine in plt.gca().spines.values():
+    spine.set_visible(False)
+    
+for bar in bars:
+    plt.gca().text(bar.get_x() + bar.get_width()/2, bar.get_height() - 5, str(int(bar.get_height())) + '%', 
+                 ha='center', color='w', fontsize=11)
+cols = ['m','g','r','b']
+plt.pie(sampa.Sum.values, labels=sampa.Sum, colors=cols, startangle=90,shadow=True,autopct='%1.1f%%')
+
+plt.show()
+#sampa.plot(kind = 'bar')
+
+#plt.show()
+'''
 #Mask [pequeno, Medio , Grande] apply in table above
-
 df = df.groupby(level=0)['Quantidade'].agg({'Sum':np.sum})
 df = df.groupby(level=0)['Sum'].agg({'Avg': np.average})
 print(pd.cut(df['Avg'], 3, labels=["Pequeno","Medio","Grande"]))
@@ -103,6 +118,5 @@ print(pd.cut(df['Avg'], 3, labels=["Pequeno","Medio","Grande"]))
 '''
 #Death per 100k Hab.
 df = df.groupby(level=0)['Quantidade'].agg({'Sum':np.sum})
-
 print(df)
 '''    
