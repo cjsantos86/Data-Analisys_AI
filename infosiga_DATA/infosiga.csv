@@ -1,0 +1,1810 @@
+index,Município Acidente,Ano,Mês,Sexo,Turno Acidente,Tipo de Acidente,Meio de LocomoÃ§Ã£o da VÃ­tima,Faixa EtÃ¡ria,Latitude Acidente,Longitude Acidente
+0,Aguai,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,25-29,-22.0718932128,-46.9806802303
+1,Aguai,2016,12,Masculino,Madrugada,Choque,AutomÃ³vel,55-59,-22.0700309518,-47.0205842999
+2,Aguai,2016,12,Feminino,Noite,Atropelamento,Pedestre,75-79,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+3,Aguai,2017,2,Feminino,Tarde,Colisao,Motocicleta,25-29,-22.066091,-46.978894
+4,Aguas De Lindoia,2017,1,Masculino,NÃ£o DisponÃ­vel,ColisÃ£o,AutomÃ³vel,18-24,-22.4610541928,-46.5921675127
+5,Aguas De Lindoia,2017,1,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,35-39,-22.478553,-46.635755
+6,Agudos,2017,3,Feminino,Noite,Outros,Motocicleta,18-24,-22.415350483,-49.005161188
+7,Altinopolis,2016,12,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,45-49,-21.099888,-47.518064
+8,Altinopolis,2017,3,Masculino,Noite,Outros,Motocicleta,35-39,-21.13371519,-47.565821236
+9,Aluminio,2017,2,Masculino,Tarde,Colisao,Motocicleta,25-29,-23.517351,-47.257311
+10,Alvares Machado,2016,12,Masculino,Noite,Atropelamento,Pedestre,30-34,-22.0825409609,-51.4512649556
+11,Alvares Machado,2017,1,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,75-79,-22.072623,-51.499193
+12,Americana,2016,12,Masculino,Madrugada,ColisÃ£o,Motocicleta,18-24,-22.731705,-47.306719
+13,Americana,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,25-29,-22.738734,-47.314535
+14,Americana,2016,12,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,45-49,-22.734138,-47.331921
+15,Americana,2017,1,Feminino,Tarde,ColisÃ£o,Motocicleta,40-44,-22.7585390704,-47.3156216461
+16,Americana,2017,3,Masculino,Manha,Colisao,Caminhao,45-49,-22.7585390704,-47.3156216461
+17,Americana,2017,3,Masculino,Tarde,Colisao,Motocicleta,50-54,-22.774802,-47.345654
+18,Americana,2017,3,Feminino,Tarde,Atropelamento,Pedestre,80 Ou Mais,-22.70446,-47.293229
+19,Amparo,2016,12,Feminino,Noite,ColisÃ£o,AutomÃ³vel,35-39,-22.7113744914,-46.8253508011
+20,Amparo,2016,12,Masculino,Noite,ColisÃ£o,AutomÃ³vel,40-44,-22.7113744914,-46.8253508011
+21,Amparo,2016,12,Feminino,ManhÃ£,Atropelamento,Pedestre,70-74,-22.699784,-46.769663
+22,Amparo,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,30-34,-22.6368014475,-46.8027202129
+23,Amparo,2017,1,Masculino,Tarde,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,70-74,-22.721048277,-46.785223535
+24,Amparo,2017,3,Masculino,Tarde,Outros,Motocicleta,30-34,-22.7113744914,-46.8253508011
+25,Amparo,2017,3,Masculino,Noite,Colisao,Motocicleta,40-44,-22.691851254,-46.725560845
+26,Analandia,2017,3,Masculino,Manha,Choque,Motocicleta,35-39,-22.1348196167,-47.6568414688
+27,Andradina,2017,1,Masculino,Madrugada,ColisÃ£o,Motocicleta,18-24,-20.865109877,-51.4158362236
+28,Andradina,2017,2,Masculino,Noite,Colisao,Motocicleta,18-24,-20.888534,-51.371309
+29,Andradina,2017,2,Masculino,Noite,Colisao,Motocicleta,40-44,-20.89581,-51.382692
+30,Andradina,2017,3,Masculino,Madrugada,Colisao,Bicicleta,18-24,-20.8755122554,-51.3882495995
+31,Andradina,2017,3,Masculino,Noite,Colisao,Motocicleta,18-24,-20.8789489146,-51.3790399858
+32,Angatuba,2016,12,Masculino,Tarde,Choque,AutomÃ³vel,18-24,-23.488161,-48.414204
+33,Angatuba,2017,2,Masculino,Noite,Nao Disponivel,Nao Disponivel,18-24,-23.5446032338,-48.2611197275
+34,Angatuba,2017,2,Masculino,NÃ£o DisponÃ­vel,Outros,Outros,65-69,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+35,Aparecida D'Oeste,2016,12,Masculino,NÃ£o DisponÃ­vel,Outros,Motocicleta,18-24,-20.4584738465,-50.8678935474
+36,Aracariguama,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,40-44,-23.4368590224,-47.09694921
+37,Aracatuba,2016,12,Masculino,Noite,Outros,Motocicleta,30-34,-21.213771,-50.473861
+38,Aracatuba,2016,12,Feminino,Tarde,ColisÃ£o,Motocicleta,40-44,-21.158238,-50.451139
+39,Aracatuba,2017,1,Feminino,Noite,ColisÃ£o,AutomÃ³vel,55-59,-21.1995572154,-50.5681113686
+40,Aracatuba,2017,2,Masculino,ManhÃ£,Nao Disponivel,Motocicleta,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+41,Aracatuba,2017,3,Masculino,Madrugada,Colisao,Motocicleta,18-24,-21.175026,-50.443756
+42,Aracatuba,2017,3,Masculino,Noite,Colisao,Bicicleta,35-39,-21.214766,-50.423798
+43,Aracoiaba Da Serra,2016,12,Masculino,Noite,NÃ£o Especificado,Motocicleta,18-24,-23.522083562,-47.6128153905
+44,Aracoiaba Da Serra,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,18-24,-23.574326,-47.604285
+45,Aracoiaba Da Serra,2017,3,Feminino,Madrugada,Outros,Motocicleta,0-17,-23.5386957187,-47.7119819165
+46,Aracoiaba Da Serra,2017,3,Masculino,Tarde,Nao Disponivel,Caminhao,55-59,-23.5309077066,-47.6293710334
+47,Aramina,2017,3,Masculino,Noite,Colisao,Automovel,50-54,-20.067599306,-47.788551787
+48,Araraquara,2016,12,Feminino,Tarde,NÃ£o Especificado,NÃ£o Especificado,30-34,-21.70954,-48.31452
+49,Araraquara,2016,12,Masculino,Noite,ColisÃ£o,Bicicleta,35-39,-21.804829,-48.112262
+50,Araraquara,2016,12,Masculino,ManhÃ£,Outros,Motocicleta,45-49,-21.797643,-48.172876
+51,Araraquara,2016,12,Masculino,Tarde,Choque,CaminhÃ£o,60-64,-21.847167382,-48.1379952706
+52,Araraquara,2017,1,Masculino,Tarde,Choque,Motocicleta,18-24,"-21.720623, -48.152574",-48.152586928
+53,Araraquara,2017,1,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,25-29,-21.7746636964,-48.1002101551
+54,Araraquara,2017,1,Masculino,Noite,Choque,Motocicleta,30-34,-21.752965,-48.182054
+55,Araraquara,2017,2,Masculino,Tarde,Choque,Bicicleta,25-29,-21.798782,-48.187576
+56,Araraquara,2017,2,Feminino,Noite,Colisao,Bicicleta,35-39,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+57,Araraquara,2017,2,Masculino,Noite,Colisao,Automovel,45-49,-21.7589566871,-48.074324715
+58,Araraquara,2017,2,Masculino,Noite,Colisao,Automovel,45-49,-21.7589566871,-48.074324715
+59,Araraquara,2017,3,Masculino,Nao Disponivel,Nao Disponivel,Nao Disponivel,30-34,NAO DISPONIVEL,NAO DISPONIVEL 
+60,Araraquara,2017,3,Masculino,Madrugada,Colisao,Caminhao,50-54,-21.8819267183,-48.0875003978
+61,Araras,2016,12,Feminino,Noite,Atropelamento,Pedestre,80 Ou Mais,-22.358193,-47.394629
+62,Araras,2016,12,NÃ£o DisponÃ­vel,Noite,ColisÃ£o,Bicicleta,NÃ£o DisponÃ­vel,-22.394188,-47.363788
+63,Araras,2017,1,Masculino,Madrugada,Outros,AutomÃ³vel,25-29,-22.3899,-47.3934
+64,Araras,2017,1,Masculino,Tarde,Outros,AutomÃ³vel,30-34,-22.360371,-47.400529
+65,Araras,2017,1,Feminino,ManhÃ£,Atropelamento,Pedestre,65-69,-22.35991,-47.375346
+66,Araras,2017,3,Masculino,Tarde,Choque,Motocicleta,18-24,-22.355755,-47.324731
+67,Araras,2017,3,Masculino,Madrugada,Outros,Motocicleta,40-44,-22.359204,-47.393281
+68,Araras,2017,3,Feminino,Manha,Outros,Bicicleta,60-64,NAO DISPONIVEL,NAO DISPONIVEL 
+69,Areiopolis,2016,12,Masculino,Noite,Atropelamento,Pedestre,60-64,-22.6784483377,-48.6853580982
+70,Areiopolis,2016,12,Masculino,Noite,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-22.6784483377,-48.6853580982
+71,Artur Nogueira,2016,12,Masculino,Noite,Atropelamento,Pedestre,40-44,-22.5823599063,-47.1801333787
+72,Artur Nogueira,2017,1,Masculino,Noite,ColisÃ£o,Bicicleta,30-34,-22.5481678776,-47.1709047092
+73,Aruja,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.427844,-46.357007
+74,Aruja,2017,2,Masculino,Noite,Atropelamento,Pedestre,30-34,-23.3971459182,-46.2928958335
+75,Aruja,2017,3,Masculino,Noite,Colisao,Motocicleta,35-39,-23.4265610311,-46.2802803936
+76,Aruja,2017,3,Masculino,Noite,Atropelamento,Pedestre,50-54,-23.3936950787,-46.2868751324
+77,Aruja,2017,3,Masculino,Madrugada,Atropelamento,Automovel,65-69,-23.4076923275,-46.3379311281
+78,Assis,2016,12,Feminino,Tarde,Atropelamento,Pedestre,0-17,-22.6812135347,-50.4401259254
+79,Assis,2016,12,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,25-29,-22.6973532833,-50.5137795172
+80,Assis,2016,12,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,50-54,-22.6973532833,-50.5137795172
+81,Assis,2017,1,Masculino,NÃ£o DisponÃ­vel,Outros,AutomÃ³vel,60-64,-22.667334,-50.408913
+82,Assis,2017,1,Masculino,Noite,ColisÃ£o,Bicicleta,65-69,-22.674715,-50.426909
+83,Assis,2017,2,Masculino,Noite,Colisao,Motocicleta,55-59,-22.679711,-50.435395
+84,Atibaia,2016,12,Masculino,Tarde,Atropelamento,Pedestre,65-69,-23.1597562936,-46.5735944964
+85,Atibaia,2017,1,Feminino,ManhÃ£,Atropelamento,Pedestre,0-17,-23.220667,-46.594557
+86,Atibaia,2017,1,Masculino,Tarde,Atropelamento,Pedestre,25-29,-23.0363195618,-46.5525240999
+87,Atibaia,2017,1,Masculino,Tarde,Outros,Motocicleta,30-34,-23.06744816,-46.6438777706
+88,Atibaia,2017,1,Masculino,Madrugada,ColisÃ£o,Motocicleta,NÃ£o DisponÃ­vel,-23.2336858171,-46.6021002328
+89,Atibaia,2017,2,Masculino,Noite,Outros,Automovel,0-17,-23.171718,-46.623692
+90,Atibaia,2017,2,Masculino,ManhÃ£,Choque,Motocicleta,25-29,-23.1020816585,-46.5685501276
+91,Atibaia,2017,2,Masculino,ManhÃ£,Nao Disponivel,Motocicleta,30-34,-21.5090965645,-50.2763459594
+92,Atibaia,2017,2,Masculino,Tarde,Colisao,Motocicleta,40-44,-23.0781345953,-46.5693021698
+93,Atibaia,2017,3,Masculino,Tarde,Colisao,Motocicleta,25-29,-23.14053,-46.581145
+94,Avanhandava,2016,12,Masculino,Noite,Atropelamento,Pedestre,55-59,-21.469854,-49.94022
+95,Avanhandava,2017,3,Masculino,Madrugada,Nao Disponivel,Motocicleta,18-24,NAO DISPONIVEL,NAO DISPONIVEL 
+96,Avare,2016,12,Feminino,Madrugada,ColisÃ£o,AutomÃ³vel,18-24,-23.0397627416,-48.8789996099
+97,Avare,2016,12,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,18-24,-23.0397627416,-48.8789996099
+98,Avare,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,50-54,-23.337138283,-46.836433411
+99,Avare,2017,3,Feminino,Noite,Colisao,Motocicleta,30-34,-23.115723008,-48.940260318
+100,Bariri,2017,1,Feminino,Noite,ColisÃ£o,AutomÃ³vel,25-29,-22.1310595577,-48.7395509831
+101,Barra Bonita,2017,3,Masculino,Manha,Colisao,Automovel,40-44,-22.450357,-48.521734
+102,Barra Do Chapeu,2016,12,Masculino,Tarde,Atropelamento,Pedestre,0-17,-24.470237,-49.024556
+103,Barra Do Chapeu,2016,12,Feminino,Tarde,Atropelamento,Pedestre,65-69,-24.470237,-49.024556
+104,Barra Do Turvo,2016,12,Masculino,Noite,ColisÃ£o,Onibus,55-59,-24.932829265,-48.2828524794
+105,Barra Do Turvo,2017,3,Masculino,Nao Disponivel,Outros,Outros,30-34,-24.9608284755,-48.4156349996
+106,Barretos,2016,12,Feminino,Tarde,ColisÃ£o,Motocicleta,0-17,-20.548553,-48.577003
+107,Barretos,2016,12,Masculino,NÃ£o DisponÃ­vel,NÃ£o Especificado,AutomÃ³vel,60-64,-20.4997665035,-48.5387048209
+108,Barretos,2017,1,Feminino,ManhÃ£,ColisÃ£o,Motocicleta,30-34,-20.556186,-48.569661
+109,Barretos,2017,2,Masculino,Noite,Colisao,Automovel,40-44,-20.6538562553,-48.549977379
+110,Barueri,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,30-34,-23.508363489,-46.8265182693
+111,Barueri,2016,12,Masculino,Madrugada,Outros,Motocicleta,45-49,-23.511635,-46.853703
+112,Barueri,2016,12,Masculino,Tarde,Atropelamento,Pedestre,65-69,-23.512864,-46.871068
+113,Barueri,2017,1,Masculino,Tarde,Choque,Motocicleta,30-34,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+114,Barueri,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,35-39,-23.5095012505,-46.8181609415
+115,Barueri,2017,2,Masculino,Tarde,Colisao,Motocicleta,40-44,-23.4962641034,-46.83613134
+116,Barueri,2017,2,Masculino,Tarde,Nao Disponivel,Motocicleta,40-44,-23.52344,-46.873991
+117,Barueri,2017,2,Masculino,ManhÃ£,Nao Disponivel,Nao Disponivel,45-49,-23.510238716,-46.910990997
+118,Barueri,2017,2,Masculino,Tarde,Nao Disponivel,Motocicleta,60-64,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+119,Barueri,2017,3,Masculino,Manha,Atropelamento,Pedestre,50-54,-23.5039939349,-46.8778957169
+120,Barueri,2017,3,Feminino,Tarde,Atropelamento,Pedestre,60-64,-23.502488,-46.878533
+121,Barueri,2017,3,Masculino,Manha,Choque,Automovel,70-74,-23.490785,-46.95453
+122,Barueri,2017,3,Masculino,Noite,Atropelamento,Pedestre,Nao Disponivel,-23.510317,-46.835604
+123,Bastos,2017,1,Masculino,Noite,Atropelamento,Pedestre,25-29,-21.9113896948,-50.710272949
+124,Bastos,2017,2,Masculino,Noite,Choque,Motocicleta,45-49,-21.940893,-50.645163
+125,Batatais,2017,1,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,50-54,-20.837334915,-47.6015241875
+126,Bauru,2016,12,Masculino,Noite,Outros,Motocicleta,0-17,-22.3383359321,-49.2930287561
+127,Bauru,2016,12,Masculino,ManhÃ£,Choque,Motocicleta,18-24,-22.3479285888,-49.0281914083
+128,Bauru,2016,12,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,40-44,-22.3230495958,-49.0523242608
+129,Bauru,2016,12,Masculino,Noite,ColisÃ£o,Bicicleta,50-54,-22.281685,-49.059717
+130,Bauru,2016,12,Feminino,Noite,Atropelamento,Pedestre,70-74,-22.332791,-49.086527
+131,Bauru,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,18-24,-22.305738,-49.052239
+132,Bauru,2017,1,Masculino,Madrugada,Choque,Motocicleta,30-34,-22.312283,-49.069696
+133,Bauru,2017,1,Masculino,NÃ£o DisponÃ­vel,Choque,Motocicleta,40-44,-22.2866372648,-49.0940972092
+134,Bauru,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-22.35965,-49.03834
+135,Bauru,2017,2,Masculino,Tarde,Atropelamento,Pedestre,0-17,-22.281862,-49.062675
+136,Bauru,2017,2,Feminino,Madrugada,Choque,Automovel,18-24,-22.320129277,-49.003695779
+137,Bauru,2017,2,Feminino,Madrugada,Outros,Motocicleta,25-29,-22.2999095352,-49.0655365748
+138,Bauru,2017,2,Masculino,Noite,Colisao,Motocicleta,30-34,-22.31952,-48.98145
+139,Bauru,2017,3,Masculino,Tarde,Colisao,Motocicleta,25-29,-22.2970368036,-49.1093436358
+140,Bebedouro,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,25-29,-20.9635314147,-48.4650114946
+141,Bebedouro,2016,12,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,45-49,-20.951123764,-48.4990166449
+142,Bebedouro,2016,12,Masculino,ManhÃ£,Choque,AutomÃ³vel,55-59,-20.958905,-48.486863
+143,Bebedouro,2017,1,Masculino,Noite,Choque,Motocicleta,30-34,-20.932579,-48.499755
+144,Bertioga,2016,12,Masculino,ManhÃ£,Atropelamento,Pedestre,18-24,-23.7585360456,-45.8715720096
+145,Bertioga,2017,1,Masculino,NÃ£o DisponÃ­vel,ColisÃ£o,AutomÃ³vel,18-24,-23.7565828743,-45.8522038035
+146,Bertioga,2017,1,Masculino,Noite,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,30-34,-23.7483948537,-46.0463361451
+147,Bertioga,2017,2,Masculino,Madrugada,Atropelamento,Pedestre,35-39,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+148,Bertioga,2017,2,Masculino,ManhÃ£,Atropelamento,Pedestre,50-54,-23.822982,-46.125309
+149,Bertioga,2017,2,Masculino,NÃ£o DisponÃ­vel,Colisao,Bicicleta,NÃ£o DisponÃ­vel,-23.7757555647,-45.9778075819
+150,Bertioga,2017,3,Masculino,Nao Disponivel,Nao Disponivel,Nao Disponivel,18-24,NAO DISPONIVEL,NAO DISPONIVEL 
+151,Bertioga,2017,3,Masculino,Tarde,Nao Disponivel,Nao Disponivel,18-24,NAO DISPONIVEL,NAO DISPONIVEL 
+152,Bertioga,2017,3,Feminino,Manha,Outros,Automovel,40-44,-23.79439,-46.050918
+153,Bertioga,2017,3,Masculino,Manha,Outros,Caminhao,40-44,-23.7776885368,-45.9682963839
+154,Bertioga,2017,3,Masculino,Tarde,Colisao,Motocicleta,55-59,-23.7827880283,-46.0577294631
+155,Birigui,2016,12,Masculino,Madrugada,Choque,Motocicleta,30-34,-21.265764,-50.327105
+156,Birigui,2016,12,Feminino,Tarde,ColisÃ£o,Motocicleta,50-54,-21.251856,-50.314779
+157,Birigui,2016,12,Feminino,ManhÃ£,Atropelamento,Pedestre,65-69,-21.296611,-50.323037
+158,Birigui,2017,1,Masculino,Tarde,Atropelamento,Pedestre,0-17,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+159,Birigui,2017,2,Masculino,Noite,Atropelamento,Motocicleta,35-39,-21.2571628064,-50.3296948009
+160,Birigui,2017,2,Masculino,Madrugada,Atropelamento,Automovel,40-44,-21.2862506609,-50.3579173183
+161,Birigui,2017,2,Masculino,ManhÃ£,Atropelamento,Pedestre,50-54,-21.287074,-50.351197
+162,Birigui,2017,2,Masculino,Noite,Outros,Bicicleta,50-54,-21.269563,-50.332168
+163,Biritiba Mirim,2016,12,Masculino,Noite,Atropelamento,Pedestre,65-69,-23.56632807,-46.0235001789
+164,Biritiba Mirim,2017,2,Masculino,Tarde,Atropelamento,Pedestre,60-64,-23.7093326764,-46.0618152314
+165,Biritiba Mirim,2017,3,Masculino,Madrugada,Colisao,Bicicleta,18-24,-23.576771,-46.038501
+166,Bocaina,2016,12,Masculino,ManhÃ£,Outros,Motocicleta,18-24,-22.15558,-48.542962
+167,Bocaina,2016,12,Feminino,Noite,ColisÃ£o,AutomÃ³vel,35-39,-22.0918145084,-48.4495466659
+168,Boituva,2017,1,Masculino,ManhÃ£,Outros,Bicicleta,60-64,-23.284485,-47.674137
+169,Bom Jesus Dos Perdoes,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,60-64,-23.144954,-46.467789
+170,Bom Jesus Dos Perdoes,2017,3,Masculino,Noite,Colisao,Automovel,35-39,-23.1252081831,-46.4692255511
+171,Bom Jesus Dos Perdoes,2017,3,Masculino,Noite,Colisao,Automovel,40-44,-23.1252081831,-46.4692255511
+172,Borborema,2016,12,Feminino,Tarde,ColisÃ£o,AutomÃ³vel,60-64,-21.6094177165,-49.140738027
+173,Borborema,2016,12,Masculino,Noite,NÃ£o Especificado,NÃ£o Especificado,60-64,-21.6094177165,-49.140738027
+174,Borborema,2017,1,Masculino,Tarde,ColisÃ£o,Bicicleta,0-17,-21.6265672678,-49.0842047144
+175,Botucatu,2016,12,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,30-34,-22.940214,-48.441162
+176,Botucatu,2016,12,Masculino,Tarde,NÃ£o Especificado,NÃ£o Especificado,30-34,-23.1443960187,-48.412679045
+177,Botucatu,2016,12,Masculino,Noite,ColisÃ£o,AutomÃ³vel,60-64,-22.87276,-48.433216
+178,Botucatu,2017,1,Masculino,Madrugada,ColisÃ£o,Motocicleta,35-39,-23.047476102,-48.477079807
+179,Braganca Paulista,2016,12,Masculino,Madrugada,ColisÃ£o,CaminhÃ£o,40-44,-22.9483288807,-46.4784557476
+180,Braganca Paulista,2016,12,Feminino,NÃ£o DisponÃ­vel,NÃ£o Especificado,NÃ£o Especificado,55-59,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+181,Braganca Paulista,2017,1,Masculino,ManhÃ£,Choque,Motocicleta,18-24,-22.8661534724,-46.625435047
+182,Braganca Paulista,2017,3,Masculino,Noite,Atropelamento,Pedestre,30-34,-22.9347271654,-46.5564403706
+183,Brauna,2017,2,Feminino,ManhÃ£,Choque,Automovel,18-24,-21.5090965645,-50.2763459594
+184,Brotas,2017,2,Masculino,Noite,Colisao,Automovel,60-64,-22.274357,-48.12003
+185,Brotas,2017,2,Masculino,Tarde,Choque,Automovel,65-69,-22.3368371928,-48.1100852158
+186,Buri,2016,12,Masculino,Noite,ColisÃ£o,AutomÃ³vel,0-17,-23.770381,-48.630878
+187,Buritama,2017,1,Masculino,Noite,NÃ£o DisponÃ­vel,Bicicleta,55-59,-21.051167317,-50.174362511
+188,Buritizal,2017,3,Masculino,Manha,Colisao,Motocicleta,25-29,-20.205248,-47.741209
+189,Cabreuva,2016,12,Masculino,Noite,Atropelamento,Pedestre,70-74,-23.306303,-47.131157
+190,Cabreuva,2017,3,Masculino,Noite,Atropelamento,Pedestre,45-49,-23.284374143,-47.128296725
+191,Cacapava,2016,12,Feminino,Tarde,Outros,Motocicleta,18-24,-23.1088016402,-45.7008709638
+192,Cacapava,2016,12,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,45-49,-23.081884082,-45.6613419512
+193,Cacapava,2016,12,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,55-59,-23.1692325211,-45.7079752167
+194,Cacapava,2016,12,Feminino,Tarde,ColisÃ£o,AutomÃ³vel,60-64,-23.1692325211,-45.7079752167
+195,Cacapava,2016,12,Feminino,Tarde,Atropelamento,Pedestre,65-69,-23.100173,-45.698352
+196,Cacapava,2016,12,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,70-74,-23.1692325211,-45.7079752167
+197,Cacapava,2017,1,Masculino,Noite,NÃ£o DisponÃ­vel,Motocicleta,18-24,-23.095292,-45.702276
+198,Cacapava,2017,1,Masculino,Noite,Atropelamento,Pedestre,40-44,-23.1088016402,-45.7008709638
+199,Cacapava,2017,1,Masculino,ManhÃ£,Choque,NÃ£o DisponÃ­vel,45-49,-23.0950044371,-45.68073401
+200,Cacapava,2017,2,Masculino,Madrugada,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.1062205003,-45.6970974134
+201,Cachoeira Paulista,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,18-24,-22.6500091712,-44.9587549649
+202,Cachoeira Paulista,2017,3,Masculino,Noite,Atropelamento,Pedestre,30-34,-22.671473,-45.024336
+203,Caieiras,2016,12,Masculino,Madrugada,ColisÃ£o,CaminhÃ£o,18-24,-23.3780834863,-46.7724285914
+204,Caieiras,2016,12,Masculino,Madrugada,ColisÃ£o,CaminhÃ£o,25-29,-23.3780834863,-46.7724285914
+205,Caieiras,2017,1,Feminino,Noite,Outros,AutomÃ³vel,30-34,-23.348933,-46.743502
+206,Caieiras,2017,1,Feminino,ManhÃ£,Atropelamento,Pedestre,35-39,-23.3594424621,-46.7486972476
+207,Caieiras,2017,1,Feminino,Noite,Outros,AutomÃ³vel,45-49,-23.348933,-46.743502
+208,Caieiras,2017,2,Masculino,ManhÃ£,Colisao,Motocicleta,25-29,-23.35109961,-46.799691982
+209,Caieiras,2017,2,Masculino,Tarde,Choque,Automovel,40-44,-23.379124,-46.709407
+210,Caieiras,2017,2,Masculino,ManhÃ£,Outros,Pedestre,55-59,-23.353292,-46.794812
+211,Caieiras,2017,3,Masculino,Noite,Atropelamento,Pedestre,50-54,-23.3669817925,-46.7520660225
+212,Caiua,2017,1,Feminino,Noite,ColisÃ£o,AutomÃ³vel,25-29,-21.84679858,-52.024815197
+213,Cajamar,2016,12,Masculino,Madrugada,Choque,AutomÃ³vel,30-34,-23.2980764731,-46.8614430489
+214,Cajamar,2016,12,Masculino,Noite,ColisÃ£o,AutomÃ³vel,60-64,-23.3272169978,-46.8244653192
+215,Cajamar,2017,3,Masculino,Noite,Colisao,Motocicleta,18-24,-23.344925356,-46.840928793
+216,Cajamar,2017,3,Masculino,Madrugada,Colisao,Caminhao,40-44,-23.3372982204,-46.8239281328
+217,Cajamar,2017,3,Masculino,Manha,Choque,Automovel,45-49,-23.288188967,-46.847215891
+218,Cajati,2016,12,Masculino,ManhÃ£,Choque,NÃ£o Especificado,NÃ£o DisponÃ­vel,-24.8582418678,-48.211381656
+219,Cajati,2016,12,Masculino,NÃ£o DisponÃ­vel,NÃ£o Especificado,Bicicleta,NÃ£o DisponÃ­vel,-24.730004785,-48.107580829
+220,Cajati,2017,2,Masculino,Noite,Choque,Motocicleta,18-24,-24.723514,-48.145189
+221,Cajati,2017,2,Masculino,ManhÃ£,Nao Disponivel,Nao Disponivel,40-44,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+222,Cajati,2017,2,Masculino,Noite,Atropelamento,Pedestre,50-54,-24.738105,-48.122328
+223,Cajati,2017,3,Masculino,Madrugada,Choque,Pedestre,35-39,-24.8937617489,-48.2360149506
+224,Cajati,2017,3,Masculino,Madrugada,Nao Disponivel,Nao Disponivel,45-49,-24.8891566137,-48.228731257
+225,Cajati,2017,3,Masculino,Madrugada,Choque,Caminhao,55-59,-24.8405391573,-48.2132162069
+226,Cajuru,2016,12,Masculino,Madrugada,Outros,NÃ£o Especificado,60-64,-21.273054701,-47.290552575
+227,Cajuru,2017,1,Masculino,Tarde,Outros,AutomÃ³vel,65-69,-21.2747423475,-47.2898649485
+228,Campinas,2016,12,Feminino,Madrugada,ColisÃ£o,AutomÃ³vel,18-24,-22.7808207053,-47.0253990039
+229,Campinas,2016,12,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,18-24,-22.906010734,-47.1060250468
+230,Campinas,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,18-24,-23.038594,-47.128018
+231,Campinas,2016,12,Masculino,Noite,ColisÃ£o,AutomÃ³vel,25-29,-22.9035265752,-47.008458319
+232,Campinas,2016,12,Masculino,Tarde,NÃ£o Especificado,Motocicleta,25-29,-22.849335,-47.126394
+233,Campinas,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,30-34,-22.871167,-47.155991
+234,Campinas,2016,12,Masculino,NÃ£o DisponÃ­vel,NÃ£o Especificado,Motocicleta,40-44,-22.906010734,-47.1060250468
+235,Campinas,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,45-49,-22.853174022,-47.043345497
+236,Campinas,2016,12,Masculino,Noite,Choque,AutomÃ³vel,55-59,-22.9468190978,-47.0897178492
+237,Campinas,2016,12,Masculino,Tarde,Choque,AutomÃ³vel,70-74,-22.993375,-47.116013
+238,Campinas,2016,12,Masculino,ManhÃ£,NÃ£o Especificado,AutomÃ³vel,75-79,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+239,Campinas,2016,12,Feminino,Noite,Atropelamento,Pedestre,80 Ou Mais,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+240,Campinas,2017,1,Feminino,Tarde,ColisÃ£o,Motocicleta,18-24,-22.938425427,-47.106594557
+241,Campinas,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,18-24,-22.84417419,-47.038399602
+242,Campinas,2017,1,Masculino,NÃ£o DisponÃ­vel,ColisÃ£o,Motocicleta,18-24,-22.9349,-47.18916
+243,Campinas,2017,1,Masculino,NÃ£o DisponÃ­vel,ColisÃ£o,Motocicleta,18-24,-22.951561,-47.121737
+244,Campinas,2017,1,Masculino,Noite,NÃ£o DisponÃ­vel,Motocicleta,18-24,-22.935437,-47.188361
+245,Campinas,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,30-34,-23.0462247623,-47.1376104239
+246,Campinas,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,35-39,-22.926507,-47.126129
+247,Campinas,2017,1,Masculino,Noite,Atropelamento,Pedestre,45-49,-22.8453703562,-47.0797443031
+248,Campinas,2017,1,Masculino,Noite,ColisÃ£o,Motocicleta,45-49,-22.897018,-47.107788
+249,Campinas,2017,1,Masculino,Madrugada,ColisÃ£o,Motocicleta,50-54,-22.97489022,-47.048333287
+250,Campinas,2017,1,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,55-59,-22.981249,-47.083034
+251,Campinas,2017,1,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,60-64,-22.752089,-46.989259
+252,Campinas,2017,1,Feminino,ManhÃ£,Atropelamento,Pedestre,65-69,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+253,Campinas,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-22.84417419,-47.038399602
+254,Campinas,2017,2,Masculino,Noite,Colisao,Motocicleta,0-17,-22.95748,-47.200031
+255,Campinas,2017,2,Masculino,Noite,Atropelamento,Pedestre,18-24,-22.7880632663,-47.030314024
+256,Campinas,2017,2,Masculino,Noite,Nao Disponivel,Nao Disponivel,18-24,-22.929896,-47.085601
+257,Campinas,2017,2,Masculino,Madrugada,Atropelamento,Pedestre,25-29,-22.9377416085,-47.0851882809
+258,Campinas,2017,2,Masculino,Madrugada,Outros,Motocicleta,25-29,-22.89849,-47.047332
+259,Campinas,2017,2,Masculino,ManhÃ£,Colisao,Motocicleta,25-29,-22.887396,-47.122145
+260,Campinas,2017,2,Masculino,Noite,Colisao,Bicicleta,25-29,-23.0521497598,-47.1433172281
+261,Campinas,2017,2,Masculino,Noite,Colisao,Caminhao,25-29,-23.037969374,-47.068855812
+262,Campinas,2017,2,Feminino,Noite,Colisao,Motocicleta,30-34,-22.883086695,-47.115441749
+263,Campinas,2017,2,Feminino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,50-54,-22.820342,-47.068068
+264,Campinas,2017,2,Masculino,Madrugada,Atropelamento,Pedestre,60-64,-22.91145011,-47.101403475
+265,Campinas,2017,2,Masculino,Noite,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-22.856012,-47.044429
+266,Campinas,2017,3,Masculino,Nao Disponivel,Atropelamento,Pedestre,18-24,-22.925179,-47.126993
+267,Campinas,2017,3,Masculino,Tarde,Choque,Motocicleta,25-29,-23.0308914881,-47.1142509304
+268,Campinas,2017,3,Masculino,Madrugada,Atropelamento,Pedestre,40-44,NAO DISPONIVEL,NAO DISPONIVEL 
+269,Campinas,2017,3,Masculino,Tarde,Atropelamento,Pedestre,40-44,-22.947271,-47.186595
+270,Campinas,2017,3,Masculino,Manha,Atropelamento,Pedestre,50-54,-22.915047536,-47.0662084025
+271,Campinas,2017,3,Masculino,Noite,Nao Disponivel,Nao Disponivel,50-54,NAO DISPONIVEL,NAO DISPONIVEL 
+272,Campinas,2017,3,Feminino,Madrugada,Atropelamento,Pedestre,55-59,-22.870513,-47.14127
+273,Campinas,2017,3,Feminino,Tarde,Colisao,Nao Disponivel,65-69,-23.031053,-47.114355
+274,Campo Limpo Paulista,2017,3,Masculino,Madrugada,Colisao,Automovel,18-24,-23.225822111,-46.773667178
+275,Campos Do Jordao,2016,12,Masculino,ManhÃ£,Atropelamento,Pedestre,50-54,-22.73475,-45.586773
+276,Campos Do Jordao,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,18-24,-22.717797,-45.570047
+277,Campos Novos Paulista,2017,3,Masculino,Tarde,Choque,Automovel,25-29,-22.70008,-50.034169
+278,Campos Novos Paulista,2017,3,Masculino,Tarde,Outros,Caminhao,30-34,-22.646041,-49.970405
+279,Cananeia,2017,3,Masculino,Madrugada,Outros,Automovel,35-39,-24.961036,-47.911167
+280,Canas,2017,3,Masculino,Madrugada,Outros,Motocicleta,25-29,-22.7123571653,-45.0517935424
+281,Candido Mota,2017,2,Masculino,Madrugada,Outros,Automovel,18-24,-22.7239614515,-50.3298393853
+282,Candido Mota,2017,3,Feminino,Noite,Colisao,Automovel,45-49,-22.7140759702,-50.3028250689
+283,Candido Mota,2017,3,Masculino,Noite,Colisao,Automovel,50-54,-22.7140759702,-50.3028250689
+284,Candido Mota,2017,3,Feminino,Noite,Colisao,Automovel,65-69,-22.7140759702,-50.3028250689
+285,Candido Mota,2017,3,Masculino,Noite,Colisao,Automovel,65-69,-22.7140759702,-50.3028250689
+286,Capao Bonito,2017,1,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,45-49,-24.1100887353,-48.4504564817
+287,Capao Bonito,2017,2,Masculino,NÃ£o DisponÃ­vel,Colisao,Motocicleta,50-54,-24.0047893813,-48.3231933664
+288,Capao Bonito,2017,2,Feminino,Tarde,Outros,Automovel,75-79,-23.960063054,-48.4318948202
+289,Capao Bonito,2017,3,Feminino,Tarde,Nao Disponivel,Automovel,25-29,-24.0340654967,-48.3487338527
+290,Capao Bonito,2017,3,Feminino,Noite,Colisao,Automovel,45-49,-23.964192853,-48.39573503
+291,Capao Bonito,2017,3,Feminino,Noite,Colisao,Automovel,70-74,-23.964192853,-48.39573503
+292,Capela Do Alto,2017,2,Masculino,ManhÃ£,Colisao,Motocicleta,35-39,-23.5509229514,-47.7665954873
+293,Caraguatatuba,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,18-24,-23.6146511699,-45.3845780187
+294,Caraguatatuba,2017,1,Masculino,Tarde,Atropelamento,Pedestre,18-24,-23.703208,-45.447767
+295,Caraguatatuba,2017,2,Masculino,Noite,Atropelamento,Pedestre,70-74,-23.693363772,-45.4424952574
+296,Caraguatatuba,2017,3,Masculino,Tarde,Colisao,Bicicleta,55-59,-23.711314,-45.442333
+297,Carapicuiba,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,18-24,-23.56565519,-46.8414466022
+298,Carapicuiba,2016,12,Masculino,Madrugada,ColisÃ£o,Motocicleta,30-34,-23.55566,-46.823586
+299,Carapicuiba,2016,12,Masculino,Noite,Atropelamento,Pedestre,40-44,-23.552063889,-46.820413889
+300,Carapicuiba,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,40-44,-23.5635154049,-46.820256328
+301,Carapicuiba,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,45-49,-23.5635154049,-46.820256328
+302,Carapicuiba,2016,12,Masculino,Noite,Atropelamento,Pedestre,80 Ou Mais,-23.549238,-46.840232
+303,Carapicuiba,2016,12,Masculino,Noite,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.540716667,-46.818063889
+304,Carapicuiba,2017,2,Masculino,ManhÃ£,Choque,Motocicleta,18-24,-23.523419444,-46.816522222
+305,Carapicuiba,2017,2,Feminino,ManhÃ£,Atropelamento,Pedestre,50-54,-23.523702,-46.820518
+306,Carapicuiba,2017,2,Masculino,Noite,Atropelamento,Pedestre,55-59,-23.522934,-46.854328
+307,Carapicuiba,2017,2,Masculino,Tarde,Atropelamento,Pedestre,80 Ou Mais,-23.526915,-46.835253
+308,Carapicuiba,2017,3,Masculino,Madrugada,Colisao,Motocicleta,35-39,-23.557615,-46.843041
+309,Carapicuiba,2017,3,Masculino,Manha,Colisao,Motocicleta,40-44,-23.520088,-46.856209
+310,Carapicuiba,2017,3,Feminino,Tarde,Colisao,Motocicleta,50-54,-23.524116,-46.83028
+311,Carapicuiba,2017,3,Feminino,Madrugada,Atropelamento,Pedestre,65-69,-23.552171,-46.825223
+312,Castilho,2016,12,Masculino,Noite,ColisÃ£o,AutomÃ³vel,25-29,-20.960575,-51.504924
+313,Catanduva,2016,12,Masculino,Madrugada,ColisÃ£o,Motocicleta,45-49,-21.151061,-48.989747
+314,Catanduva,2016,12,Feminino,Noite,Atropelamento,Pedestre,50-54,-21.127636,-49.007143
+315,Catanduva,2016,12,Masculino,Noite,ColisÃ£o,AutomÃ³vel,65-69,-21.2078366824,-48.9992205587
+316,Catanduva,2017,1,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,40-44,-21.2078366824,-48.9992205587
+317,Catanduva,2017,1,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,40-44,-21.2078366824,-48.9992205587
+318,Catanduva,2017,1,Masculino,Noite,Choque,NÃ£o DisponÃ­vel,50-54,-21.139494,-48.98336
+319,Catanduva,2017,3,Masculino,Nao Disponivel,Outros,Automovel,40-44,-21.164605,-48.98852
+320,Catanduva,2017,3,Masculino,Noite,Atropelamento,Pedestre,45-49,-21.140335,-48.953988
+321,Catanduva,2017,3,Feminino,Manha,Colisao,Automovel,50-54,-21.17051,-48.9731
+322,Catigua,2017,1,Feminino,Tarde,Outros,NÃ£o DisponÃ­vel,50-54,-21.0837699393,-49.0850945002
+323,Cedral,2016,12,Masculino,NÃ£o DisponÃ­vel,ColisÃ£o,Motocicleta,55-59,-20.9159561303,-49.2854583569
+324,Cedral,2017,3,Masculino,Nao Disponivel,Outros,Automovel,0-17,-20.913307,-49.265201
+325,Cedral,2017,3,Masculino,Madrugada,Atropelamento,Motocicleta,50-54,-20.917718,-49.293726
+326,Cerqueira Cesar,2017,1,Masculino,NÃ£o DisponÃ­vel,ColisÃ£o,Bicicleta,40-44,-22.9874977454,-49.2064300722
+327,Cerquilho,2016,12,Masculino,ManhÃ£,Choque,Motocicleta,30-34,-23.176007,-47.715687
+328,Cerquilho,2017,1,Masculino,Tarde,NÃ£o DisponÃ­vel,Motocicleta,30-34,-23.169241,-47.743398
+329,Cesario Lange,2017,3,Feminino,Noite,Colisao,Motocicleta,0-17,-23.2060857088,-47.946329498
+330,Clementina,2017,2,Feminino,Tarde,Colisao,Automovel,25-29,-21.529748,-50.435234
+331,Colina,2017,3,Masculino,Noite,Colisao,Bicicleta,45-49,-20.724074,-48.528934
+332,Conchas,2017,3,Masculino,Manha,Choque,Motocicleta,18-24,-23.022932,-48.01154
+333,Conchas,2017,3,Masculino,Noite,Atropelamento,Pedestre,75-79,-23.016972,-48.002521
+334,Cosmopolis,2017,1,Masculino,Noite,Choque,Motocicleta,18-24,-22.638883,-47.188274
+335,Cosmopolis,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,30-34,-22.640201,-47.18112
+336,Cosmopolis,2017,1,Masculino,Tarde,Atropelamento,Pedestre,75-79,-22.6485939239,-47.2056751066
+337,Cosmorama,2017,3,Masculino,Noite,Colisao,Automovel,50-54,-20.4938580789,-49.7889106939
+338,Cotia,2016,12,Masculino,Tarde,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.6032486988,-46.9214614714
+339,Cotia,2017,1,Feminino,Noite,Outros,AutomÃ³vel,18-24,-23.59910154,-46.918556555
+340,Cotia,2017,1,Masculino,Tarde,NÃ£o DisponÃ­vel,Motocicleta,18-24,-23.580701,-46.917552
+341,Cotia,2017,1,Masculino,Tarde,Atropelamento,Pedestre,50-54,-23.603270745,-46.917905967
+342,Cotia,2017,1,Masculino,Noite,Atropelamento,Pedestre,75-79,-23.6001210043,-46.9016568512
+343,Cotia,2017,2,Masculino,Tarde,Outros,Motocicleta,35-39,-23.603348,-46.919637
+344,Cotia,2017,2,Masculino,Tarde,Colisao,Automovel,60-64,-23.5812476066,-46.921080165
+345,Cotia,2017,3,Masculino,Noite,Nao Disponivel,Motocicleta,25-29,-23.600766,-46.859746
+346,Cotia,2017,3,Masculino,Noite,Colisao,Motocicleta,35-39,-23.6072317029,-46.9495537476
+347,Cotia,2017,3,Feminino,Madrugada,Choque,Automovel,55-59,-23.606114,-46.864747
+348,Cotia,2017,3,Masculino,Madrugada,Atropelamento,Pedestre,70-74,NAO DISPONIVEL,NAO DISPONIVEL 
+349,Cravinhos,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,50-54,-21.347747,-47.724582
+350,Cravinhos,2017,1,Masculino,NÃ£o DisponÃ­vel,Choque,AutomÃ³vel,40-44,-21.3156273583,-47.7352502947
+351,Cravinhos,2017,2,Masculino,Madrugada,Nao Disponivel,Motocicleta,25-29,-21.3156273583,-47.7352502947
+352,Cravinhos,2017,3,Feminino,Noite,Atropelamento,Pedestre,18-24,-21.3689833174,-47.7143609074
+353,Cruzeiro,2016,12,Masculino,Noite,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-22.602596377,-45.0108511145
+354,Cruzeiro,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,45-49,-22.5488850932,-45.0209203919
+355,Cubatao,2016,12,Feminino,Noite,Atropelamento,Pedestre,0-17,-23.922714,-46.423009
+356,Cubatao,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,0-17,-23.919591,-46.4238
+357,Cubatao,2016,12,Masculino,Madrugada,ColisÃ£o,Motocicleta,35-39,-23.9039562193,-46.4258969732
+358,Cubatao,2017,2,Masculino,ManhÃ£,Choque,Caminhao,45-49,-23.887042,-46.43463
+359,Cubatao,2017,2,Masculino,Tarde,Colisao,Motocicleta,45-49,-23.8910198985,-46.492102712
+360,Cubatao,2017,3,Feminino,Tarde,Colisao,Automovel,80 Ou Mais,-23.9006802521,-46.4540881768
+361,Cunha,2017,1,Feminino,Tarde,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,40-44,-23.1293323757,-44.9371990473
+362,Cunha,2017,2,Masculino,Noite,Colisao,Motocicleta,55-59,-23.043125,-44.942989
+363,Descalvado,2016,12,Masculino,Noite,ColisÃ£o,AutomÃ³vel,18-24,-21.908936,-47.587906
+364,Diadema,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,25-29,-23.731938,-46.620164
+365,Diadema,2016,12,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,25-29,-23.685344,-46.620642
+366,Diadema,2016,12,Masculino,Madrugada,Choque,Motocicleta,35-39,-23.712916,-46.600033
+367,Diadema,2016,12,Masculino,Noite,Choque,Motocicleta,50-54,-23.695414,-46.600621
+368,Diadema,2017,1,Feminino,Noite,Choque,Motocicleta,25-29,-23.6947172546,-46.6029869433
+369,Diadema,2017,1,Masculino,Noite,Choque,Motocicleta,25-29,-23.6947172546,-46.6029869433
+370,Diadema,2017,1,Masculino,Noite,Atropelamento,Pedestre,45-49,-23.678912,-46.583253
+371,Diadema,2017,1,Masculino,ManhÃ£,NÃ£o DisponÃ­vel,Bicicleta,55-59,-23.709003,-46.596904
+372,Diadema,2017,2,Masculino,Madrugada,Nao Disponivel,Nao Disponivel,18-24,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+373,Diadema,2017,2,Masculino,Noite,Atropelamento,Pedestre,35-39,-23.7155329902,-46.6047964895
+374,Diadema,2017,2,Masculino,Noite,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.674495771,-46.628288504
+375,Diadema,2017,3,Masculino,Tarde,Atropelamento,Pedestre,18-24,-23.706374,-46.599596
+376,Diadema,2017,3,Masculino,Tarde,Colisao,Motocicleta,35-39,-23.7190105868,-46.6280489841
+377,Diadema,2017,3,Masculino,Noite,Atropelamento,Pedestre,40-44,-23.6737178249,-46.6292903677
+378,Diadema,2017,3,Masculino,Tarde,Colisao,Motocicleta,40-44,-23.6815884062,-46.6102336432
+379,Dobrada,2017,2,Masculino,Noite,Colisao,Motocicleta,35-39,-21.550121,-48.384369
+380,Dracena,2017,2,Masculino,ManhÃ£,Atropelamento,Pedestre,65-69,-21.531979,-51.547835
+381,Dumont,2016,12,Masculino,ManhÃ£,ColisÃ£o,AutomÃ³vel,60-64,-21.2287368302,-47.9463170461
+382,Dumont,2017,1,Masculino,ManhÃ£,Outros,AutomÃ³vel,18-24,-21.2341726392,-47.9538233371
+383,Embauba,2017,1,Masculino,NÃ£o DisponÃ­vel,Outros,CaminhÃ£o,18-24,-20.992939,-48.853606
+384,Embu Das Artes,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,18-24,-23.6620185411,-46.8525164801
+385,Embu Das Artes,2017,1,Masculino,Noite,Atropelamento,Pedestre,45-49,-23.6829825045,-46.8584328215
+386,Embu Das Artes,2017,3,Masculino,Noite,Choque,Automovel,30-34,NAO DISPONIVEL,NAO DISPONIVEL 
+387,Embu Das Artes,2017,3,Nao Disponivel,Madrugada,Colisao,Automovel,Nao Disponivel,-23.6829825045,-46.8584328215
+388,Embu-Guacu,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,18-24,-23.8306356886,-46.852248861
+389,Embu-Guacu,2017,1,Masculino,Noite,NÃ£o DisponÃ­vel,AutomÃ³vel,40-44,-23.770423942,-46.7932172943
+390,Embu-Guacu,2017,1,Masculino,Noite,Outros,Bicicleta,45-49,-23.87687,-46.79373
+391,Embu-Guacu,2017,2,Masculino,Madrugada,Nao Disponivel,Nao Disponivel,18-24,-23.8663183436,-46.830943795
+392,Embu-Guacu,2017,2,Masculino,Madrugada,Outros,Motocicleta,18-24,-23.875483,-46.792429
+393,Embu-Guacu,2017,2,Masculino,ManhÃ£,Atropelamento,Pedestre,55-59,-23.7879372961,-46.8113339861
+394,Embu-Guacu,2017,2,Masculino,Madrugada,Nao Disponivel,Nao Disponivel,60-64,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+395,Espirito Santo Do Pinhal,2017,2,Masculino,ManhÃ£,Choque,Bicicleta,55-59,-22.198307,-46.762866
+396,Espirito Santo Do Pinhal,2017,3,Feminino,Tarde,Atropelamento,Pedestre,45-49,-22.1889006581,-46.7668925626
+397,Estiva Gerbi,2016,12,Masculino,Tarde,ColisÃ£o,Bicicleta,50-54,-22.271536,-46.955454
+398,Estrela Do Norte,2017,3,Masculino,Madrugada,Outros,Automovel,18-24,-22.486656,-51.669552
+399,Euclides Da Cunha Paulista,2017,1,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,30-34,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+400,Fartura,2016,12,Feminino,Tarde,Outros,Motocicleta,0-17,-23.3906413301,-49.5496208467
+401,Fartura,2017,1,Masculino,Tarde,ColisÃ£o,Bicicleta,0-17,-23.391335,-49.509051
+402,Fartura,2017,3,Feminino,Noite,Choque,Motocicleta,50-54,-23.3168267989,-49.4703470677
+403,Fernandopolis,2017,1,Feminino,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,Motocicleta,30-34,-20.303611,-50.254226
+404,Fernandopolis,2017,3,Masculino,Madrugada,Atropelamento,Pedestre,65-69,-20.265054,-50.246393
+405,Ferraz De Vasconcelos,2016,12,Masculino,Tarde,Outros,AutomÃ³vel,0-17,-23.557382,-46.363591
+406,Ferraz De Vasconcelos,2016,12,Masculino,Noite,ColisÃ£o,Pedestre,45-49,-23.556036,-46.38939
+407,Ferraz De Vasconcelos,2017,3,Nao Disponivel,Tarde,Outros,Motocicleta,25-29,-23.556762,-46.376559
+408,Ferraz De Vasconcelos,2017,3,Masculino,Manha,Atropelamento,Pedestre,50-54,NAO DISPONIVEL,NAO DISPONIVEL 
+409,Flora Rica,2016,12,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,75-79,-21.6608130785,-51.3749446302
+410,Floreal,2017,3,Feminino,Tarde,Choque,Automovel,0-17,-20.6776613316,-50.1533021367
+411,Franca,2016,12,Masculino,Noite,ColisÃ£o,Bicicleta,0-17,-20.52205,-47.379743
+412,Franca,2017,1,Masculino,NÃ£o DisponÃ­vel,Choque,AutomÃ³vel,25-29,-20.513942,-47.38125
+413,Franca,2017,1,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,45-49,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+414,Franca,2017,2,Feminino,ManhÃ£,Colisao,Motocicleta,18-24,-20.535045,-47.413116
+415,Franca,2017,2,Feminino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,80 Ou Mais,-20.513572,-47.387696
+416,Franca,2017,3,Masculino,Madrugada,Colisao,Automovel,30-34,-20.4961626719,-47.40684096
+417,Franca,2017,3,Masculino,Madrugada,Colisao,Bicicleta,60-64,-20.543754,-47.374861
+418,Franca,2017,3,Masculino,Noite,Colisao,Bicicleta,70-74,-20.483328,-47.402523
+419,Francisco Morato,2017,1,Masculino,Noite,NÃ£o DisponÃ­vel,Motocicleta,25-29,-23.292644,-46.707622
+420,Franco Da Rocha,2016,12,Masculino,Madrugada,NÃ£o Especificado,Motocicleta,18-24,-23.331473913,-46.726888876
+421,Franco Da Rocha,2017,1,Feminino,Madrugada,Atropelamento,Pedestre,35-39,-23.3219519849,-46.7536827187
+422,Franco Da Rocha,2017,3,Masculino,Manha,Outros,Motocicleta,18-24,-23.3331645606,-46.7195586174
+423,Franco Da Rocha,2017,3,Masculino,Tarde,Colisao,Motocicleta,35-39,-23.3136320656,-46.7569955772
+424,Garca,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,18-24,-22.200214,-49.650351
+425,General Salgado,2017,2,Feminino,NÃ£o DisponÃ­vel,Colisao,Automovel,35-39,-20.6446277259,-50.3839853963
+426,Guaimbe,2017,2,Masculino,Madrugada,Colisao,Automovel,25-29,-21.946852,-49.812947
+427,Guaira,2016,12,Masculino,ManhÃ£,ColisÃ£o,AutomÃ³vel,18-24,-20.3416427817,-48.3111346937
+428,Guapiacu,2017,3,Masculino,Madrugada,Outros,Motocicleta,45-49,-20.84152,-49.214094
+429,Guapiara,2016,12,Feminino,Noite,Atropelamento,Pedestre,70-74,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+430,Guapiara,2017,3,Masculino,Nao Disponivel,Nao Disponivel,Motocicleta,0-17,NAO DISPONIVEL,NAO DISPONIVEL 
+431,Guaraci,2017,2,Masculino,Madrugada,Outros,Automovel,35-39,-20.512654,-48.906921
+432,Guararapes,2017,2,Masculino,Tarde,Outros,Outros,0-17,-21.357312,-50.716444
+433,Guararapes,2017,2,Masculino,ManhÃ£,Colisao,Motocicleta,50-54,-21.2088038166,-50.6644010108
+434,Guararema,2017,2,Masculino,Noite,Choque,Bicicleta,0-17,-23.419094,-46.003156
+435,Guararema,2017,2,Masculino,Tarde,Atropelamento,Pedestre,75-79,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+436,Guararema,2017,3,Masculino,Madrugada,Nao Disponivel,Automovel,18-24,-23.419026,-46.003052
+437,Guaratingueta,2016,12,Masculino,Tarde,Atropelamento,Motocicleta,0-17,-22.776312,-45.183397
+438,Guaratingueta,2017,1,Masculino,Madrugada,Choque,AutomÃ³vel,25-29,-22.793263,-45.208494
+439,Guaratingueta,2017,2,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,50-54,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+440,Guaratingueta,2017,2,Feminino,Tarde,Atropelamento,Pedestre,55-59,-22.775857,-45.186606
+441,Guaratingueta,2017,3,Masculino,Manha,Atropelamento,Pedestre,18-24,-22.7740847628,-45.1375561628
+442,Guaratingueta,2017,3,Masculino,Madrugada,Nao Disponivel,Nao Disponivel,45-49,NAO DISPONIVEL,NAO DISPONIVEL 
+443,Guarei,2016,12,Masculino,Noite,ColisÃ£o,AutomÃ³vel,18-24,-23.3876695048,-48.1871472776
+444,Guarei,2017,2,Masculino,ManhÃ£,Atropelamento,Pedestre,70-74,-23.369698,-48.182049
+445,Guaruja,2016,12,Feminino,Tarde,Outros,Motocicleta,0-17,-23.924509501,-46.286014795
+446,Guaruja,2016,12,Masculino,Madrugada,Outros,CaminhÃ£o,18-24,-23.941679,-46.290472
+447,Guaruja,2016,12,Masculino,Tarde,Outros,Motocicleta,18-24,-23.924509501,-46.286014795
+448,Guaruja,2016,12,Masculino,Tarde,NÃ£o Especificado,Motocicleta,65-69,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+449,Guaruja,2016,12,Masculino,ManhÃ£,ColisÃ£o,Bicicleta,75-79,-23.940735413,-46.28060179
+450,Guaruja,2017,1,Feminino,ManhÃ£,ColisÃ£o,Motocicleta,25-29,-23.8979248257,-46.1892964405
+451,Guaruja,2017,1,Masculino,Tarde,Atropelamento,Pedestre,75-79,-23.990223,-46.285129
+452,Guaruja,2017,3,Masculino,Manha,Atropelamento,Motocicleta,18-24,-23.977829,-46.272337
+453,Guaruja,2017,3,Masculino,Noite,Colisao,Bicicleta,18-24,-23.975199926,-46.274567551
+454,Guaruja,2017,3,Masculino,Tarde,Outros,Motocicleta,35-39,NAO DISPONIVEL,NAO DISPONIVEL 
+455,Guaruja,2017,3,Masculino,Tarde,Colisao,Motocicleta,45-49,-23.941155,-46.291198
+456,Guarulhos,2016,12,Masculino,Madrugada,Choque,Motocicleta,0-17,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+457,Guarulhos,2016,12,Masculino,Madrugada,Choque,AutomÃ³vel,18-24,-23.464143,-46.526726
+458,Guarulhos,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,18-24,-23.40912,-46.408801
+459,Guarulhos,2016,12,Masculino,ManhÃ£,ColisÃ£o,AutomÃ³vel,25-29,-23.4818521026,-46.4587471014
+460,Guarulhos,2016,12,Masculino,Noite,ColisÃ£o,AutomÃ³vel,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+461,Guarulhos,2016,12,Masculino,Tarde,Outros,CaminhÃ£o,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+462,Guarulhos,2016,12,Feminino,ManhÃ£,Outros,Motocicleta,30-34,-23.4688643116,-46.5100336174
+463,Guarulhos,2016,12,Feminino,Madrugada,ColisÃ£o,Motocicleta,35-39,-23.431989,-46.43955
+464,Guarulhos,2016,12,Masculino,ManhÃ£,Atropelamento,Pedestre,35-39,-23.4802306131,-46.4491797865
+465,Guarulhos,2016,12,Masculino,Madrugada,NÃ£o Especificado,NÃ£o Especificado,50-54,-23.451862,-46.520366
+466,Guarulhos,2016,12,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,50-54,-23.467102,-46.535479
+467,Guarulhos,2016,12,Masculino,ManhÃ£,Atropelamento,Pedestre,70-74,-23.4684891944,-46.5153101899
+468,Guarulhos,2016,12,Feminino,Noite,Atropelamento,Pedestre,75-79,-23.438537,-46.524194
+469,Guarulhos,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.4474006793,-46.4548902544
+470,Guarulhos,2017,1,Feminino,Noite,ColisÃ£o,AutomÃ³vel,18-24,-23.4246468539,-46.4011303684
+471,Guarulhos,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,18-24,-23.4360340167,-46.4280029577
+472,Guarulhos,2017,1,Masculino,ManhÃ£,NÃ£o DisponÃ­vel,Motocicleta,18-24,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+473,Guarulhos,2017,1,Masculino,Madrugada,Choque,Motocicleta,25-29,-23.451737,-46.503545
+474,Guarulhos,2017,1,Masculino,Noite,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,30-34,-23.46118,-46.440869
+475,Guarulhos,2017,1,Masculino,ManhÃ£,Outros,AutomÃ³vel,35-39,-23.43765,-46.466771
+476,Guarulhos,2017,1,NÃ£o DisponÃ­vel,Noite,Choque,AutomÃ³vel,45-49,-23.4398577553,-46.4369475063
+477,Guarulhos,2017,1,Feminino,Madrugada,Choque,AutomÃ³vel,65-69,-23.4511608642,-46.4638677464
+478,Guarulhos,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,70-74,-23.403428,-46.416802
+479,Guarulhos,2017,1,Feminino,Noite,ColisÃ£o,AutomÃ³vel,NÃ£o DisponÃ­vel,-23.4246468539,-46.4011303684
+480,Guarulhos,2017,2,Feminino,Noite,Atropelamento,Pedestre,0-17,-23.440112,-46.556034
+481,Guarulhos,2017,2,Feminino,Madrugada,Atropelamento,Pedestre,18-24,-23.4685802842,-46.5162943298
+482,Guarulhos,2017,2,Masculino,Madrugada,Choque,Motocicleta,18-24,-23.4587047668,-46.4474876404
+483,Guarulhos,2017,2,Masculino,Noite,Colisao,Motocicleta,25-29,-23.4499657068,-46.4754151107
+484,Guarulhos,2017,2,Feminino,Noite,Choque,Motocicleta,30-34,-23.4646313734,-46.5293153187
+485,Guarulhos,2017,2,Masculino,Noite,Colisao,Motocicleta,30-34,-23.419354662,-46.3822770605
+486,Guarulhos,2017,2,Feminino,Tarde,Atropelamento,Pedestre,35-39,-23.464653,-46.529525
+487,Guarulhos,2017,2,Masculino,ManhÃ£,Atropelamento,Pedestre,35-39,-23.4211197127,-46.542943071
+488,Guarulhos,2017,2,Feminino,ManhÃ£,Colisao,Automovel,40-44,-23.397065,-46.39823
+489,Guarulhos,2017,2,Masculino,Noite,Colisao,Nao Disponivel,45-49,-23.402241,-46.470116
+490,Guarulhos,2017,2,Feminino,ManhÃ£,Outros,Pedestre,50-54,-23.4587644791,-46.4820268942
+491,Guarulhos,2017,2,Masculino,Noite,Atropelamento,Pedestre,50-54,-23.459475,-46.554609
+492,Guarulhos,2017,2,Masculino,Noite,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.4655597984,-46.500710416
+493,Guarulhos,2017,3,Masculino,Nao Disponivel,Choque,Motocicleta,18-24,-23.475965,-46.438435
+494,Guarulhos,2017,3,Masculino,Noite,Atropelamento,Pedestre,30-34,-23.457861,-46.530469
+495,Guarulhos,2017,3,Masculino,Noite,Colisao,Motocicleta,30-34,-23.4878005008,-46.5440180278
+496,Guarulhos,2017,3,Masculino,Manha,Atropelamento,Pedestre,50-54,-23.446412,-46.534194
+497,Guarulhos,2017,3,Feminino,Tarde,Atropelamento,Pedestre,55-59,-23.469763,-46.52243
+498,Guarulhos,2017,3,Feminino,Noite,Atropelamento,Pedestre,75-79,-23.460038822,-46.5224954407
+499,Guarulhos,2017,3,Masculino,Manha,Colisao,Automovel,75-79,-23.451476,-46.508555
+500,Guzolandia,2016,12,Masculino,Noite,ColisÃ£o,AutomÃ³vel,0-17,-20.6312933417,-50.7116614321
+501,Hortolandia,2016,12,Masculino,Tarde,Atropelamento,Pedestre,30-34,-22.8899141106,-47.1650134792
+502,Hortolandia,2016,12,Masculino,Tarde,Choque,AutomÃ³vel,35-39,-22.904224,-47.231543
+503,Hortolandia,2017,1,Feminino,Madrugada,Atropelamento,Pedestre,65-69,-22.9036357107,-47.2133439767
+504,Hortolandia,2017,2,Masculino,Madrugada,Outros,Automovel,45-49,-22.850753,-47.232291
+505,Hortolandia,2017,2,Masculino,Noite,Atropelamento,Pedestre,50-54,-22.87991963,-47.197146327
+506,Hortolandia,2017,3,Masculino,Noite,Atropelamento,Pedestre,50-54,-22.892328769,-47.1741468459
+507,Iacanga,2017,1,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,45-49,-21.8584297102,-49.0336780602
+508,Iaras,2016,12,Masculino,Noite,ColisÃ£o,CaminhÃ£o,45-49,-22.8554706793,-49.1727659065
+509,Iaras,2017,1,Masculino,NÃ£o DisponÃ­vel,Outros,AutomÃ³vel,45-49,-22.8927759203,-49.1208548344
+510,Ibate,2017,1,Masculino,Noite,Outros,AutomÃ³vel,0-17,-21.964497,-47.987143
+511,Ibira,2017,2,Feminino,Tarde,Colisao,Automovel,25-29,-21.0853375812,-49.2554658794
+512,Ibira,2017,2,Masculino,Tarde,Colisao,Automovel,45-49,-21.112865,-49.182099
+513,Ibiuna,2016,12,Masculino,Tarde,Choque,AutomÃ³vel,25-29,-23.6632623908,-47.218934377
+514,Ibiuna,2016,12,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,45-49,-23.6577160274,-47.1014101641
+515,Ibiuna,2016,12,Feminino,ManhÃ£,Atropelamento,Pedestre,60-64,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+516,Ibiuna,2016,12,Masculino,ManhÃ£,ColisÃ£o,AutomÃ³vel,60-64,-23.6586996559,-47.1883281101
+517,Ibiuna,2016,12,Feminino,ManhÃ£,ColisÃ£o,AutomÃ³vel,65-69,-23.6586996559,-47.1883281101
+518,Ibiuna,2016,12,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,70-74,-23.648554406,-47.1372607748
+519,Ibiuna,2016,12,Feminino,Noite,ColisÃ£o,AutomÃ³vel,75-79,-23.675137,-47.20551
+520,Ibiuna,2017,1,Feminino,Madrugada,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,30-34,-23.6550576146,-47.1200202009
+521,Ibiuna,2017,1,Masculino,Noite,Outros,AutomÃ³vel,35-39,-23.6859,-47.221923
+522,Ibiuna,2017,2,Masculino,Tarde,Colisao,Motocicleta,18-24,-23.6463250269,-47.2161031023
+523,Ibiuna,2017,3,Masculino,Madrugada,Atropelamento,Pedestre,35-39,-23.6590953986,-47.2240336394
+524,Ibiuna,2017,3,Masculino,Noite,Colisao,Automovel,40-44,-23.6919,-47.2216
+525,Igarata,2017,3,Masculino,Noite,Atropelamento,Pedestre,50-54,-23.2071386475,-46.1589847005
+526,Iguape,2017,2,Masculino,Noite,Colisao,Motocicleta,40-44,-24.5028452244,-47.5625748787
+527,Iguape,2017,2,Masculino,Noite,Colisao,Motocicleta,40-44,-24.5028452244,-47.5625748787
+528,Iguape,2017,3,Masculino,Noite,Outros,Motocicleta,35-39,-24.708081,-47.576319
+529,Iguape,2017,3,Masculino,Noite,Nao Disponivel,Nao Disponivel,55-59,NAO DISPONIVEL,NAO DISPONIVEL 
+530,Ilha Comprida,2017,2,Masculino,Tarde,Outros,Automovel,30-34,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+531,Ilha Solteira,2016,12,Masculino,Noite,NÃ£o Especificado,AutomÃ³vel,70-74,-20.383234,-51.059591
+532,Ilha Solteira,2017,2,Masculino,Madrugada,Nao Disponivel,Nao Disponivel,18-24,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+533,Indaiatuba,2016,12,Masculino,Noite,Atropelamento,Pedestre,18-24,-23.1407345527,-47.2463891423
+534,Indaiatuba,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,25-29,-23.1407345527,-47.2463891423
+535,Indaiatuba,2016,12,Masculino,Noite,ColisÃ£o,NÃ£o Especificado,25-29,-23.05535,-47.210104
+536,Indaiatuba,2016,12,Feminino,Noite,ColisÃ£o,Motocicleta,35-39,-23.1407345527,-47.2463891423
+537,Indaiatuba,2016,12,Masculino,Noite,Outros,Bicicleta,75-79,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+538,Indaiatuba,2017,1,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,30-34,-23.1492363309,-47.2537914752
+539,Indaiatuba,2017,1,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,35-39,-23.1492363309,-47.2537914752
+540,Indaiatuba,2017,1,Masculino,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,40-44,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+541,Indaiatuba,2017,1,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,45-49,-23.1492363309,-47.2537914752
+542,Indaiatuba,2017,1,Masculino,Noite,Outros,Motocicleta,45-49,-23.104242,-47.271826
+543,Indaiatuba,2017,1,Masculino,Noite,NÃ£o DisponÃ­vel,AutomÃ³vel,50-54,-23.10178,-47.209974
+544,Indaiatuba,2017,1,Feminino,ManhÃ£,Atropelamento,Pedestre,75-79,-23.101647,-47.212263
+545,Indaiatuba,2017,2,Masculino,Noite,Colisao,Motocicleta,18-24,-23.142296,-47.234689
+546,Indaiatuba,2017,2,Masculino,Noite,Outros,Motocicleta,25-29,-23.086279,-47.228387
+547,Indaiatuba,2017,2,Masculino,Noite,Colisao,Motocicleta,55-59,-23.129179,-47.254575
+548,Indaiatuba,2017,2,Masculino,ManhÃ£,Colisao,Bicicleta,65-69,-23.077751,-47.218495
+549,Indaiatuba,2017,2,Feminino,Noite,Atropelamento,Pedestre,70-74,-23.075117,-47.202567
+550,Indaiatuba,2017,3,Masculino,Noite,Atropelamento,Pedestre,35-39,-23.1048724692,-47.2013963481
+551,Indaiatuba,2017,3,Masculino,Noite,Colisao,Motocicleta,35-39,-23.098498,-47.275151
+552,Indaiatuba,2017,3,Masculino,Tarde,Colisao,Motocicleta,40-44,-23.113702,-47.218629
+553,Indaiatuba,2017,3,Masculino,Tarde,Colisao,Bicicleta,65-69,NAO DISPONIVEL,NAO DISPONIVEL 
+554,Indiana,2017,3,Masculino,Noite,Colisao,Motocicleta,18-24,-22.176776,-51.256355
+555,Ipaussu,2016,12,Masculino,Noite,Atropelamento,Pedestre,30-34,-23.0611666173,-49.6450840348
+556,Ipeuna,2016,12,Masculino,Tarde,Choque,CaminhÃ£o,25-29,-22.428815,-47.694733
+557,Ipigua,2016,12,Masculino,Noite,NÃ£o Especificado,Motocicleta,30-34,-20.7019359245,-49.3876973064
+558,Ipua,2017,1,Feminino,Noite,ColisÃ£o,Bicicleta,18-24,-20.438541,-48.026008
+559,Itabera,2017,1,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,55-59,-24.0696320771,-49.1182056423
+560,Itabera,2017,2,Feminino,Tarde,Atropelamento,Pedestre,0-17,-23.864228,-49.14337
+561,Itabera,2017,2,Masculino,Tarde,Colisao,Motocicleta,25-29,-23.859429612,-49.129749116
+562,Itabera,2017,3,Masculino,Tarde,Colisao,Motocicleta,Nao Disponivel,-24.0146772607,-49.1352693077
+563,Itai,2017,1,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,25-29,-23.4011005906,-49.0924339685
+564,Itajobi,2017,3,Masculino,Madrugada,Atropelamento,Automovel,60-64,-21.2908070358,-49.0378139934
+565,Itanhaem,2016,12,Masculino,Noite,Atropelamento,Pedestre,0-17,-24.2071024063,-46.8567278506
+566,Itanhaem,2016,12,Feminino,Tarde,NÃ£o Especificado,Motocicleta,30-34,-24.2118869084,-46.8646794384
+567,Itanhaem,2016,12,Masculino,Tarde,NÃ£o Especificado,Motocicleta,30-34,-24.2118869084,-46.8646794384
+568,Itanhaem,2016,12,Masculino,Noite,Outros,AutomÃ³vel,40-44,-24.1975178507,-46.8408469217
+569,Itanhaem,2017,1,Masculino,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,Motocicleta,40-44,-24.1832025848,-46.8169686616
+570,Itanhaem,2017,1,Masculino,Noite,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-24.2358126735,-46.9044308618
+571,Itanhaem,2017,2,Masculino,Tarde,Atropelamento,Pedestre,0-17,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+572,Itanhaem,2017,2,Masculino,Noite,Colisao,Bicicleta,40-44,-24.18128,-46.79851
+573,Itanhaem,2017,2,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,45-49,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+574,Itanhaem,2017,2,Masculino,ManhÃ£,Colisao,Bicicleta,75-79,-24.170771,-46.77645
+575,Itapecerica Da Serra,2016,12,Masculino,Tarde,Outros,Motocicleta,30-34,-23.716837,-46.851914
+576,Itapecerica Da Serra,2016,12,Masculino,Noite,Outros,Motocicleta,35-39,-23.69833,-46.852357
+577,Itapecerica Da Serra,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,45-49,-23.7603112678,-46.9039993479
+578,Itapecerica Da Serra,2016,12,Masculino,Noite,NÃ£o Especificado,Bicicleta,50-54,-23.691612117,-46.8181274717
+579,Itapecerica Da Serra,2016,12,Feminino,Madrugada,Outros,Motocicleta,NÃ£o DisponÃ­vel,-23.7185340791,-46.8822398568
+580,Itapecerica Da Serra,2017,2,Masculino,Noite,Colisao,Automovel,25-29,-23.687999033,-46.807078499
+581,Itapecerica Da Serra,2017,2,Feminino,NÃ£o DisponÃ­vel,Colisao,Motocicleta,30-34,-23.711675759,-46.84914383
+582,Itapecerica Da Serra,2017,2,Masculino,NÃ£o DisponÃ­vel,Choque,Bicicleta,45-49,-23.733137,-46.859473
+583,Itapecerica Da Serra,2017,2,Masculino,ManhÃ£,Atropelamento,Pedestre,75-79,-23.775654,-46.837857
+584,Itapecerica Da Serra,2017,3,Masculino,Noite,Atropelamento,Pedestre,0-17,-23.7445959551,-46.8997626346
+585,Itapecerica Da Serra,2017,3,Masculino,Tarde,Colisao,Automovel,40-44,-23.7285883937,-46.8458670043
+586,Itapecerica Da Serra,2017,3,Masculino,Noite,Atropelamento,Pedestre,Nao Disponivel,-23.6923605028,-46.8633276596
+587,Itapetininga,2017,3,Masculino,Noite,Choque,Motocicleta,18-24,-23.577412,-48.013234
+588,Itapetininga,2017,3,Masculino,Madrugada,Atropelamento,Pedestre,45-49,-23.6138866869,-48.0865248858
+589,Itapetininga,2017,3,Masculino,Noite,Colisao,Motocicleta,45-49,-23.618991667,-48.082063889
+590,Itapeva,2017,2,Masculino,Noite,Outros,Caminhao,18-24,-24.034096,-48.91514
+591,Itapeva,2017,3,Masculino,Manha,Colisao,Motocicleta,0-17,-23.96502086,-48.9333901923
+592,Itapeva,2017,3,Masculino,Manha,Colisao,Motocicleta,0-17,-23.96502086,-48.9333901923
+593,Itapeva,2017,3,Masculino,Tarde,Colisao,Caminhao,55-59,-23.9987277859,-48.9417884528
+594,Itapevi,2016,12,Masculino,NÃ£o DisponÃ­vel,Outros,AutomÃ³vel,55-59,-23.545663,-46.944216
+595,Itapevi,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,70-74,-23.518542745,-46.9404206748
+596,Itapevi,2017,2,Masculino,Tarde,Colisao,Motocicleta,18-24,-23.5355937029,-46.9396055062
+597,Itapevi,2017,3,Feminino,Manha,Atropelamento,Pedestre,65-69,-23.550578,-46.938013
+598,Itapira,2017,1,Masculino,ManhÃ£,ColisÃ£o,AutomÃ³vel,55-59,-22.3945,-46.7468
+599,Itapira,2017,1,Masculino,ManhÃ£,ColisÃ£o,AutomÃ³vel,70-74,-22.3945,-46.7468
+600,Itapira,2017,2,Masculino,ManhÃ£,Colisao,Motocicleta,25-29,-22.436974,-46.812607
+601,Itapira,2017,3,Masculino,Tarde,Colisao,Motocicleta,18-24,-22.3945,-46.7468
+602,Itapira,2017,3,Masculino,Nao Disponivel,Colisao,Motocicleta,50-54,-22.4529,-46.8078
+603,Itapira,2017,3,Masculino,Tarde,Outros,Caminhao,60-64,-22.404317,-46.82941
+604,Itapirapua Paulista,2017,3,Masculino,Manha,Colisao,Automovel,70-74,-24.483994,-49.220317
+605,Itapolis,2016,12,Masculino,Tarde,Choque,AutomÃ³vel,18-24,-21.653002,-48.763342
+606,Itapolis,2017,3,Masculino,Manha,Colisao,Automovel,18-24,-21.5130283584,-48.6702599711
+607,Itapui,2017,3,Masculino,Noite,Colisao,Motocicleta,45-49,-22.297947,-48.692094
+608,Itaquaquecetuba,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,18-24,-23.47105,-46.331681
+609,Itaquaquecetuba,2017,1,Masculino,Noite,Atropelamento,Pedestre,35-39,-23.484422339,-46.375880992
+610,Itaquaquecetuba,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,45-49,-23.493245252,-46.3603343944
+611,Itaquaquecetuba,2017,1,Masculino,Noite,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.42429,-46.341167
+612,Itaquaquecetuba,2017,2,Masculino,NÃ£o DisponÃ­vel,Outros,Motocicleta,18-24,-23.4727772909,-46.344344417
+613,Itaquaquecetuba,2017,2,Masculino,Madrugada,Atropelamento,Pedestre,30-34,-23.453041,-46.334375
+614,Itaquaquecetuba,2017,2,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Nao Disponivel,35-39,-23.4727772909,-46.344344417
+615,Itaquaquecetuba,2017,2,Masculino,Noite,Colisao,Bicicleta,45-49,-23.442382108,-46.301467481
+616,Itaquaquecetuba,2017,2,Masculino,Noite,Colisao,Automovel,60-64,-23.4638468735,-46.3341531067
+617,Itaquaquecetuba,2017,3,Feminino,Madrugada,Outros,Motocicleta,18-24,-23.497909032,-46.3550180408
+618,Itaquaquecetuba,2017,3,Masculino,Madrugada,Outros,Motocicleta,25-29,-23.497909032,-46.3550180408
+619,Itaquaquecetuba,2017,3,Masculino,Noite,Colisao,Automovel,35-39,-23.480216,-46.352207
+620,Itaquaquecetuba,2017,3,Masculino,Noite,Atropelamento,Pedestre,40-44,-23.493245252,-46.3603343944
+621,Itaquaquecetuba,2017,3,Masculino,Tarde,Nao Disponivel,Nao Disponivel,50-54,-23.498907,-46.349669
+622,Itarare,2017,1,Masculino,Tarde,ColisÃ£o,CaminhÃ£o,55-59,-23.9443108934,-49.3595604997
+623,Itarare,2017,3,Masculino,Nao Disponivel,Atropelamento,Pedestre,40-44,-24.1154257947,-49.3626848986
+624,Itatiba,2017,2,Masculino,ManhÃ£,Colisao,Motocicleta,40-44,-22.968495,-46.822862
+625,Itatiba,2017,2,Masculino,Tarde,Colisao,Automovel,50-54,-23.0132682011,-46.8212306009
+626,Itatiba,2017,2,Feminino,ManhÃ£,Colisao,Automovel,65-69,-22.9877587456,-46.7849595108
+627,Itatiba,2017,3,Masculino,Noite,Outros,Motocicleta,18-24,-23.026342,-46.83826
+628,Itatiba,2017,3,Masculino,Manha,Nao Disponivel,Motocicleta,35-39,-23.0210846152,-46.8424095188
+629,Itatinga,2017,2,Masculino,NÃ£o DisponÃ­vel,Colisao,Caminhao,35-39,-23.0647202153,-48.5291306176
+630,Itirapina,2017,1,Feminino,ManhÃ£,ColisÃ£o,AutomÃ³vel,50-54,-22.23411,-47.79466
+631,Itirapina,2017,1,Masculino,ManhÃ£,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,60-64,-22.284487,-47.901327
+632,Itirapina,2017,2,Feminino,ManhÃ£,Atropelamento,Pedestre,0-17,-22.250468,-47.82633
+633,Itirapina,2017,3,Masculino,Manha,Colisao,Motocicleta,25-29,-22.25542,-47.84528
+634,Itu,2016,12,Masculino,ManhÃ£,Outros,AutomÃ³vel,30-34,-23.3283874562,-47.325469097
+635,Itu,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,35-39,-23.3129497174,-47.3033196573
+636,Itu,2016,12,Masculino,Noite,NÃ£o Especificado,Motocicleta,35-39,-23.4074626533,-47.3390220272
+637,Itu,2016,12,Masculino,Noite,NÃ£o Especificado,Motocicleta,35-39,-23.2568368055,-47.3533573259
+638,Itu,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+639,Itu,2017,1,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,30-34,-23.280616,-47.306761
+640,Itu,2017,1,Masculino,Noite,Atropelamento,Pedestre,50-54,-23.3554653238,-47.3090336539
+641,Itu,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.3989412946,-47.3421743109
+642,Itu,2017,1,Masculino,Tarde,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+643,Itu,2017,2,Masculino,Madrugada,Colisao,Caminhao,35-39,-23.4181154745,-47.2538222623
+644,Itu,2017,2,Masculino,ManhÃ£,Outros,Motocicleta,40-44,-23.415683481,-47.257704264
+645,Itu,2017,2,Masculino,Noite,Choque,Automovel,45-49,-23.2594385154,-47.198694236
+646,Itu,2017,2,Masculino,Madrugada,Colisao,Caminhao,50-54,-23.4181154745,-47.2538222623
+647,Itu,2017,3,Masculino,Noite,Atropelamento,Pedestre,0-17,-23.2553441452,-47.2089214853
+648,Itu,2017,3,Masculino,Madrugada,Choque,Automovel,18-24,-23.262293,-47.29304
+649,Itu,2017,3,Feminino,Noite,Atropelamento,Pedestre,40-44,-23.3723052787,-47.3233143416
+650,Itu,2017,3,Masculino,Nao Disponivel,Colisao,Bicicleta,40-44,NAO DISPONIVEL,NAO DISPONIVEL 
+651,Itu,2017,3,Masculino,Nao Disponivel,Atropelamento,Pedestre,60-64,-23.415683481,-47.257704264
+652,Itupeva,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,35-39,-23.157748,-47.055807
+653,Ituverava,2017,3,Masculino,Noite,Atropelamento,Pedestre,Nao Disponivel,-20.254637757,-47.859143171
+654,Jaboticabal,2017,1,Masculino,ManhÃ£,Outros,Motocicleta,60-64,-21.14133,-48385
+655,Jaboticabal,2017,2,Feminino,Noite,Colisao,Automovel,18-24,-21.233269243,-48.355800281
+656,Jaboticabal,2017,2,Feminino,Noite,Colisao,Automovel,60-64,-21.233269243,-48.355800281
+657,Jaboticabal,2017,2,Masculino,Noite,Colisao,Automovel,60-64,-21.233269243,-48.355800281
+658,Jacarei,2016,12,Masculino,ManhÃ£,ColisÃ£o,Bicicleta,18-24,-23.3147588932,-45.9406588428
+659,Jacarei,2016,12,Feminino,ManhÃ£,Outros,AutomÃ³vel,25-29,-23.3072545098,-46.0430560301
+660,Jacarei,2016,12,Masculino,Madrugada,ColisÃ£o,Onibus,45-49,-23.3050162563,-46.0347772977
+661,Jacarei,2016,12,Masculino,Noite,Choque,CaminhÃ£o,55-59,-23.3215123276,-46.0977342586
+662,Jacarei,2016,12,Masculino,ManhÃ£,ColisÃ£o,Bicicleta,NÃ£o DisponÃ­vel,-23.3050162563,-46.0347772977
+663,Jacarei,2017,1,Masculino,Noite,ColisÃ£o,Motocicleta,18-24,-23.303117,-45.964191
+664,Jacarei,2017,1,Masculino,Tarde,Outros,Bicicleta,18-24,-23.3064085013,-45.9730939939
+665,Jacarei,2017,2,Feminino,Tarde,Atropelamento,Pedestre,70-74,-23.302778,-45.973403
+666,Jacarei,2017,3,Masculino,Manha,Colisao,Bicicleta,35-39,-23.2750683308,-45.9745098359
+667,Jacupiranga,2016,12,Masculino,ManhÃ£,Outros,AutomÃ³vel,25-29,-24.7151255888,-48.0323907514
+668,Jacupiranga,2016,12,Feminino,Madrugada,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-24.695786,-48.004029
+669,Jaguariuna,2016,12,Masculino,ManhÃ£,Atropelamento,Pedestre,80 Ou Mais,-22.693522,-46.991008
+670,Jaguariuna,2017,1,Masculino,Noite,Atropelamento,Pedestre,18-24,-22.6946429305,-47.012557632
+671,Jaguariuna,2017,3,Masculino,Tarde,Colisao,Motocicleta,25-29,-22.701184,-46.982716
+672,Jaguariuna,2017,3,Masculino,Noite,Outros,Caminhao,45-49,-22.7090187624,-46.9707417332
+673,Jales,2017,3,Masculino,Noite,Atropelamento,Pedestre,80 Ou Mais,-20.2605815537,-50.5475222316
+674,Jandira,2016,12,Feminino,ManhÃ£,Choque,Pedestre,30-34,-23.525099,-46.911142
+675,Jandira,2017,1,Masculino,Tarde,Atropelamento,Pedestre,60-64,-23.5343311987,-46.9042657093
+676,Jardinopolis,2017,2,Masculino,Madrugada,Colisao,Onibus,25-29,-20.9192344312,-47.8866889721
+677,Jardinopolis,2017,2,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-20.9278418329,-47.8840924601
+678,Jau,2016,12,Masculino,Tarde,Choque,Motocicleta,30-34,-22.287929,-48.539908
+679,Jau,2017,1,Feminino,Tarde,ColisÃ£o,AutomÃ³vel,18-24,-22.3458339801,-48.5723723141
+680,Jau,2017,1,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,18-24,-22.3458339801,-48.5723723141
+681,Jau,2017,1,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,35-39,-22.2561645345,-48.5562478965
+682,Jau,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,50-54,-22.286925,-48.546297
+683,Jau,2017,2,Masculino,ManhÃ£,Outros,Automovel,18-24,-22.25864,-48.54446
+684,Jau,2017,3,Feminino,Noite,Atropelamento,Pedestre,0-17,-22.328668,-48.545815
+685,Jau,2017,3,Masculino,Noite,Colisao,Automovel,30-34,-22.365834754,-48.5166663395
+686,Jau,2017,3,Masculino,Tarde,Atropelamento,Pedestre,75-79,-22.297676,-48.556545
+687,Joanopolis,2017,3,Masculino,Nao Disponivel,Colisao,Caminhao,45-49,-23.302894015,-46.572657367
+688,Joanopolis,2017,3,Masculino,Nao Disponivel,Colisao,Caminhao,45-49,-23.302894015,-46.572657367
+689,Joao Ramalho,2017,1,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,40-44,-22.2571292072,-50.7634530613
+690,Jose Bonifacio,2016,12,Masculino,Noite,Atropelamento,Pedestre,55-59,-21.048555,-49.690423
+691,Jose Bonifacio,2017,3,Masculino,Noite,Outros,Motocicleta,25-29,-21.1469286819,-49.8842630291
+692,Jose Bonifacio,2017,3,Masculino,Noite,Colisao,Motocicleta,55-59,-21.113202,-49.798848
+693,Julio Mesquita,2017,3,Masculino,Madrugada,Colisao,Automovel,25-29,-22.0132655173,-49.7671510605
+694,Jumirim,2017,3,Masculino,Manha,Outros,Motocicleta,25-29,-23.0869732499,-47.7817740591
+695,Jundiai,2016,12,Feminino,Noite,Atropelamento,Pedestre,18-24,-23.138148752,-46.929255115
+696,Jundiai,2016,12,Feminino,Noite,ColisÃ£o,AutomÃ³vel,18-24,-23.203562,-46.870665
+697,Jundiai,2016,12,Masculino,Noite,Outros,AutomÃ³vel,18-24,-23.2465028871,-46.8794268681
+698,Jundiai,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,30-34,-23.190279,-46.850813
+699,Jundiai,2016,12,Masculino,Madrugada,ColisÃ£o,Motocicleta,30-34,-23.198259,-46.885195
+700,Jundiai,2016,12,Masculino,ManhÃ£,ColisÃ£o,CaminhÃ£o,45-49,-23.1211045669,-46.989661739
+701,Jundiai,2016,12,Masculino,ManhÃ£,Atropelamento,Motocicleta,50-54,-23.192187,-46.888493
+702,Jundiai,2017,1,Masculino,Tarde,Choque,AutomÃ³vel,18-24,-23.203516738,-46.869365692
+703,Jundiai,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,18-24,-23.1892909431,-46.985931371
+704,Jundiai,2017,1,Masculino,Madrugada,Outros,AutomÃ³vel,30-34,-23.163150481,-46.877351187
+705,Jundiai,2017,1,Masculino,Noite,NÃ£o DisponÃ­vel,Motocicleta,35-39,-23.1268815031,-46.8239353431
+706,Jundiai,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,50-54,-23.189681,-46.88891
+707,Jundiai,2017,1,Feminino,ManhÃ£,Atropelamento,Pedestre,70-74,-23.18742,-46.887967
+708,Jundiai,2017,2,Masculino,Tarde,Atropelamento,Motocicleta,18-24,-23.190928,-46.952949
+709,Jundiai,2017,2,Masculino,Madrugada,Choque,Motocicleta,30-34,-23.210900509,-46.891751289
+710,Jundiai,2017,2,Masculino,Tarde,Outros,Automovel,40-44,-23.2015979918,-46.8922870178
+711,Jundiai,2017,3,Masculino,Tarde,Outros,Motocicleta,18-24,-23.1856956291,-46.8633559878
+712,Jundiai,2017,3,Feminino,Noite,Colisao,Motocicleta,25-29,-23.163150481,-46.877351187
+713,Jundiai,2017,3,Masculino,Tarde,Outros,Motocicleta,35-39,-23.27921,-46.848277
+714,Jundiai,2017,3,Masculino,Nao Disponivel,Nao Disponivel,Nao Disponivel,45-49,NAO DISPONIVEL,NAO DISPONIVEL 
+715,Jundiai,2017,3,Masculino,Madrugada,Atropelamento,Pedestre,60-64,-23.230639,-46.87295
+716,Jundiai,2017,3,Feminino,Noite,Atropelamento,Pedestre,Nao Disponivel,-23.1843679762,-46.9331551506
+717,Juquia,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,30-34,-24.3305882446,-47.6270389097
+718,Juquia,2017,1,Masculino,Noite,Atropelamento,Pedestre,0-17,-24.3322971163,-47.6068318744
+719,Juquitiba,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,45-49,-23.9033977938,-46.9911296564
+720,Juquitiba,2016,12,Masculino,Noite,Atropelamento,Pedestre,50-54,-23.8870481176,-46.9778541787
+721,Juquitiba,2017,1,Feminino,Tarde,Atropelamento,Pedestre,55-59,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+722,Juquitiba,2017,2,Feminino,Madrugada,Atropelamento,Pedestre,0-17,-23.9378145096,-47.0638164275
+723,Juquitiba,2017,2,Masculino,Noite,Colisao,Motocicleta,18-24,-23.866269,-47.093081
+724,Lagoinha,2017,2,Masculino,Tarde,Colisao,Motocicleta,0-17,-23.098542,-45.184976
+725,Lavinia,2017,3,Masculino,Tarde,Colisao,Bicicleta,75-79,-21.16989,-51.042083
+726,Lavrinhas,2017,2,Masculino,Tarde,Choque,Automovel,65-69,-22.5695875662,-44.8651305515
+727,Leme,2016,12,Masculino,Madrugada,ColisÃ£o,Bicicleta,NÃ£o DisponÃ­vel,-22.188922,-47.337304
+728,Leme,2017,2,Masculino,Noite,Colisao,Motocicleta,45-49,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+729,Leme,2017,3,Masculino,Noite,Colisao,Automovel,35-39,-22.148586511,-47.411015718
+730,Lencois Paulista,2017,2,Masculino,Tarde,Outros,Caminhao,45-49,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+731,Limeira,2016,12,Masculino,Tarde,Choque,AutomÃ³vel,30-34,-22.543657,-47.403996
+732,Limeira,2016,12,Feminino,Madrugada,ColisÃ£o,AutomÃ³vel,75-79,-22.563888,-47.399623
+733,Limeira,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,0-17,-22.554919,-47.412518
+734,Limeira,2017,1,Feminino,Noite,Atropelamento,Pedestre,40-44,-22.578252925,-47.366668582
+735,Limeira,2017,1,Masculino,Madrugada,NÃ£o DisponÃ­vel,Motocicleta,45-49,-22.543648,-47.404018
+736,Limeira,2017,1,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,50-54,-22.556303,-47.411092
+737,Limeira,2017,2,Feminino,ManhÃ£,Colisao,Motocicleta,40-44,-22.5468,-47.3601
+738,Limeira,2017,2,Masculino,Madrugada,Outros,Motocicleta,40-44,-22.583225,-47.409135
+739,Limeira,2017,2,Feminino,Tarde,Atropelamento,Pedestre,45-49,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+740,Limeira,2017,3,Masculino,Noite,Colisao,Automovel,30-34,-22.6313069744,-47.2935953826
+741,Limeira,2017,3,Masculino,Tarde,Colisao,Onibus,40-44,-22.623894674,-47.342845201
+742,Limeira,2017,3,Masculino,Noite,Atropelamento,Pedestre,45-49,-22.529694,-47.386737
+743,Limeira,2017,3,Masculino,Madrugada,Outros,Caminhao,55-59,-22.542639284,-47.460159659
+744,Limeira,2017,3,Nao Disponivel,Noite,Nao Disponivel,Automovel,60-64,-22.605426,-47.413383
+745,Limeira,2017,3,Masculino,Noite,Colisao,Automovel,65-69,-22.584968,-47.40054
+746,Lins,2016,12,Masculino,ManhÃ£,Outros,Motocicleta,25-29,-21.667145727,-49.7870772422
+747,Lins,2017,1,Masculino,Noite,Atropelamento,Pedestre,0-17,-21.6935745553,-49.7526750898
+748,Lins,2017,1,Masculino,Madrugada,ColisÃ£o,Motocicleta,35-39,-21.6798443907,-49.7696933656
+749,Lorena,2016,12,Masculino,Noite,Atropelamento,Pedestre,60-64,-22.7571043575,-45.1140050669
+750,Lorena,2016,12,Masculino,Noite,Atropelamento,Pedestre,65-69,-22.743873,-45.119306
+751,Lorena,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-22.6813523681,-45.1332001414
+752,Lorena,2017,3,Masculino,Noite,Colisao,Bicicleta,Nao Disponivel,-22.6951272744,-45.1220914567
+753,Louveira,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,30-34,-23.0988277,-46.9670629744
+754,Louveira,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,40-44,-23.0853016535,-46.9242300912
+755,Louveira,2017,2,Masculino,Tarde,Nao Disponivel,Automovel,70-74,-23.090420658,-46.97272718
+756,Louveira,2017,3,Masculino,Manha,Colisao,Motocicleta,18-24,-23.087892,-46.964628
+757,Lucelia,2016,12,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,35-39,-21.711232,-51.014047
+758,Lucelia,2016,12,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,40-44,-21.711232,-51.014047
+759,Lucelia,2016,12,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,45-49,-21.711232,-51.014047
+760,Lucelia,2017,2,Masculino,Madrugada,Atropelamento,Pedestre,60-64,-21.734144,-51.019656
+761,Lutecia,2017,3,Masculino,Noite,Colisao,Bicicleta,60-64,-22.3582634038,-50.4249608424
+762,Macatuba,2017,3,Feminino,Madrugada,Colisao,Automovel,30-34,-22.4426875286,-48.728010279
+763,Macatuba,2017,3,Masculino,Madrugada,Colisao,Automovel,60-64,-22.4426875286,-48.728010279
+764,Mairinque,2016,12,Feminino,Madrugada,ColisÃ£o,AutomÃ³vel,NÃ£o DisponÃ­vel,-23.4206626459,-47.2265267095
+765,Mairinque,2017,1,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,30-34,-23.530328178,-47.2332530739
+766,Mairinque,2017,2,Masculino,ManhÃ£,Nao Disponivel,Motocicleta,25-29,-23.529964025,-47.161097044
+767,Mairinque,2017,2,Masculino,ManhÃ£,Nao Disponivel,Motocicleta,25-29,-23.529964025,-47.161097044
+768,Mairipora,2016,12,Masculino,Tarde,NÃ£o Especificado,NÃ£o Especificado,18-24,-23.330255,-46.599577
+769,Mairipora,2016,12,Masculino,NÃ£o DisponÃ­vel,NÃ£o Especificado,CaminhÃ£o,60-64,-23.3836711593,-46.5645479059
+770,Mairipora,2016,12,Masculino,Noite,Outros,CaminhÃ£o,NÃ£o DisponÃ­vel,-23.3417916101,-46.5736399186
+771,Mairipora,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,18-24,-23.297391,-46.568853
+772,Mairipora,2017,1,Masculino,Tarde,Atropelamento,Pedestre,50-54,-23.2927368227,-46.5735926262
+773,Mairipora,2017,2,Masculino,NÃ£o DisponÃ­vel,Nao Disponivel,Nao Disponivel,75-79,-23.321005,-46.590132
+774,Mairipora,2017,3,Masculino,Madrugada,Atropelamento,Pedestre,25-29,-23.309298,-46.573756
+775,Manduri,2017,1,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,25-29,-23.015176,-49.269965
+776,Marilia,2017,1,Masculino,Tarde,Atropelamento,Pedestre,70-74,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+777,Marilia,2017,1,Masculino,Tarde,Atropelamento,Pedestre,75-79,-22.245454,-49.928513
+778,Marilia,2017,2,Masculino,Madrugada,Colisao,Motocicleta,30-34,-22.288545393,-50.0112947622
+779,Marilia,2017,2,NÃ£o DisponÃ­vel,Madrugada,Choque,Motocicleta,30-34,-22.213895,-49.942256
+780,Marilia,2017,2,Feminino,Madrugada,Atropelamento,Automovel,55-59,-22.073067356,-49.873650061
+781,Marilia,2017,3,Masculino,Noite,Colisao,Motocicleta,25-29,-22.2381197923,-49.9743549782
+782,Marilia,2017,3,Masculino,Tarde,Colisao,Automovel,70-74,-22.1744499805,-49.979728715
+783,Martinopolis,2016,12,Masculino,ManhÃ£,Outros,CaminhÃ£o,45-49,-22.074131,-51.122259
+784,Martinopolis,2017,1,Feminino,Noite,Atropelamento,Pedestre,70-74,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+785,Martinopolis,2017,1,Masculino,Noite,ColisÃ£o,AutomÃ³vel,80 Ou Mais,-22.200138,-51.184318
+786,Matao,2016,12,Feminino,Tarde,ColisÃ£o,Motocicleta,45-49,-21.597586,-48.368976
+787,Matao,2017,2,Masculino,Tarde,Atropelamento,Pedestre,40-44,-21.66768,-48.36503
+788,Maua,2016,12,Masculino,Madrugada,ColisÃ£o,Motocicleta,0-17,-23.671947,-46.4403
+789,Maua,2016,12,Masculino,Noite,Atropelamento,Pedestre,50-54,-23.6477954334,-46.4449310565
+790,Maua,2017,1,Feminino,Madrugada,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.711062876,-46.483665288
+791,Maua,2017,3,Masculino,Nao Disponivel,Outros,Motocicleta,0-17,-23.661934,-46.459326
+792,Mendonca,2016,12,Feminino,Noite,Choque,AutomÃ³vel,45-49,-21.2021311987,-49.5998861781
+793,Meridiano,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,65-69,-20.3542131307,-50.0998961244
+794,Miguelopolis,2017,3,Masculino,Manha,Colisao,Motocicleta,55-59,-20.19982,-48.034383
+795,Mineiros Do Tiete,2016,12,Masculino,NÃ£o DisponÃ­vel,Outros,AutomÃ³vel,30-34,-22.416741,-48.452932
+796,Mineiros Do Tiete,2017,1,Masculino,Noite,ColisÃ£o,AutomÃ³vel,50-54,-22.3905736725,-48.4156395206
+797,Miracatu,2016,12,Masculino,Noite,ColisÃ£o,AutomÃ³vel,50-54,-24.1174683239,-47.2674804073
+798,Miracatu,2016,12,Masculino,Noite,ColisÃ£o,NÃ£o Especificado,NÃ£o DisponÃ­vel,-24.1174683239,-47.2674804073
+799,Miracatu,2017,1,Masculino,ManhÃ£,Choque,Motocicleta,40-44,-24.2706139955,-47.4011029315
+800,Miracatu,2017,2,Feminino,Noite,Atropelamento,Pedestre,0-17,-24.3408587121,-47.4988166039
+801,Miracatu,2017,2,Masculino,Tarde,Atropelamento,Pedestre,55-59,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+802,Mirandopolis,2016,12,Feminino,ManhÃ£,Outros,Motocicleta,25-29,-21.044478389,-51.113259692
+803,Mirante Do Paranapanema,2017,2,Feminino,Madrugada,Colisao,Onibus,18-24,-22.4225187899,-52.1072760736
+804,Mirante Do Paranapanema,2017,2,Feminino,Madrugada,Colisao,Onibus,18-24,-22.4225187899,-52.1072760736
+805,Mirante Do Paranapanema,2017,2,Feminino,Madrugada,Colisao,Onibus,30-34,-22.4225187899,-52.1072760736
+806,Mirante Do Paranapanema,2017,2,Feminino,Madrugada,Colisao,Onibus,30-34,-22.4225187899,-52.1072760736
+807,Mirante Do Paranapanema,2017,2,Masculino,Madrugada,Colisao,Onibus,30-34,-22.4225187899,-52.1072760736
+808,Mirante Do Paranapanema,2017,2,Feminino,Madrugada,Colisao,Onibus,40-44,-22.4225187899,-52.1072760736
+809,Mirante Do Paranapanema,2017,2,Masculino,Madrugada,Colisao,Onibus,50-54,-22.4225187899,-52.1072760736
+810,Mirante Do Paranapanema,2017,2,Masculino,Madrugada,Colisao,Onibus,60-64,-22.4225187899,-52.1072760736
+811,Mirassol,2017,2,Masculino,ManhÃ£,Colisao,Automovel,70-74,-20.804156,-49.535184
+812,Mirassol,2017,3,Masculino,Tarde,Outros,Motocicleta,30-34,-20.808475398,-49.507119767
+813,Mirassol,2017,3,Feminino,Tarde,Colisao,Automovel,50-54,-20.9397220088,-49.5256490221
+814,Mirassol,2017,3,Masculino,Tarde,Colisao,Automovel,55-59,-20.9397220088,-49.5256490221
+815,Mirassolandia,2016,12,Feminino,Noite,Choque,AutomÃ³vel,18-24,-20.6326949222,-49.4488142132
+816,Mococa,2016,12,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,40-44,-21.549252,-46.963824
+817,Mococa,2017,1,Masculino,Noite,Choque,Motocicleta,40-44,-21.461436,-47.010102
+818,Mococa,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,80 Ou Mais,-21.475899,-46.998196
+819,Mococa,2017,2,Masculino,Madrugada,Atropelamento,Automovel,25-29,-21.437294299,-47.009600821
+820,Mococa,2017,3,Masculino,Noite,Atropelamento,Pedestre,0-17,NAO DISPONIVEL,NAO DISPONIVEL 
+821,Mogi Das Cruzes,2016,12,Masculino,NÃ£o DisponÃ­vel,ColisÃ£o,Motocicleta,18-24,-23.7033427039,-46.0849618968
+822,Mogi Das Cruzes,2016,12,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,35-39,-23.5314018212,-46.2137809135
+823,Mogi Das Cruzes,2016,12,Masculino,NÃ£o DisponÃ­vel,Choque,Motocicleta,35-39,-23.533018,-46.209522
+824,Mogi Das Cruzes,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,40-44,-23.4310290658,-46.2718739761
+825,Mogi Das Cruzes,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,50-54,-23.553367,-46.200454
+826,Mogi Das Cruzes,2017,1,Masculino,Madrugada,ColisÃ£o,Bicicleta,18-24,-23.4973049262,-46.2252854598
+827,Mogi Das Cruzes,2017,1,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,55-59,-23.6606722308,-46.2357955822
+828,Mogi Das Cruzes,2017,1,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,70-74,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+829,Mogi Das Cruzes,2017,2,Masculino,Madrugada,Colisao,Automovel,0-17,-23.498998,-46.179242
+830,Mogi Das Cruzes,2017,2,Masculino,ManhÃ£,Outros,Motocicleta,18-24,-23.508153,-46.14784
+831,Mogi Das Cruzes,2017,2,Masculino,Noite,Choque,Motocicleta,18-24,-23.492312,-46.147014
+832,Mogi Das Cruzes,2017,2,Masculino,Tarde,Choque,Nao Disponivel,35-39,-23.5023690113,-46.1909540852
+833,Mogi Das Cruzes,2017,2,Masculino,Noite,Atropelamento,Pedestre,50-54,-23.53896,-46.227729
+834,Mogi Das Cruzes,2017,2,Masculino,Noite,Outros,Bicicleta,60-64,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+835,Mogi Das Cruzes,2017,3,Masculino,Noite,Colisao,Automovel,40-44,-23.6127871182,-46.2552170776
+836,Mogi Das Cruzes,2017,3,Masculino,Tarde,Atropelamento,Pedestre,55-59,-23.561915,-46.186609
+837,Mogi Guacu,2016,12,Feminino,Tarde,Outros,AutomÃ³vel,45-49,-22.3435439387,-46.9474212542
+838,Mogi Guacu,2016,12,Masculino,Noite,Atropelamento,AutomÃ³vel,50-54,-22.3069937947,-47.1327622254
+839,Mogi Guacu,2016,12,Masculino,Tarde,Choque,AutomÃ³vel,70-74,-22.1932655738,-46.9853055991
+840,Mogi Guacu,2017,1,Masculino,Noite,ColisÃ£o,Motocicleta,25-29,-22.3546079881,-46.9625460497
+841,Mogi Guacu,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,35-39,-22.319981,-46.961624
+842,Mogi Guacu,2017,2,Masculino,Noite,Colisao,Motocicleta,18-24,-22.355613,-46.957264
+843,Mogi Guacu,2017,3,Masculino,Noite,Outros,Automovel,0-17,-22.315533,-46.842863
+844,Mogi Guacu,2017,3,Masculino,Madrugada,Choque,Motocicleta,25-29,-22.3394301985,-46.9578707086
+845,Mogi Guacu,2017,3,Feminino,Manha,Atropelamento,Pedestre,55-59,-22.397327,-46.947505
+846,Mogi Mirim,2016,12,Masculino,Madrugada,NÃ£o Especificado,Motocicleta,35-39,-22.4501915452,-47.0652859207
+847,Mogi Mirim,2017,1,Feminino,Noite,Choque,AutomÃ³vel,25-29,-22.4554130291,-46.9185537056
+848,Mogi Mirim,2017,3,Masculino,Manha,Outros,Caminhao,40-44,-22.5003578458,-46.9843105663
+849,Mongagua,2016,12,Masculino,Tarde,Atropelamento,Pedestre,30-34,-24.112624,-46.659426
+850,Mongagua,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,55-59,-24.106027,-46.647065
+851,Mongagua,2016,12,Feminino,Tarde,Atropelamento,Pedestre,75-79,-24.095496,-46.621732
+852,Mongagua,2017,3,Feminino,Noite,Outros,Automovel,75-79,-24.1125575927,-46.6594679411
+853,Monte Alto,2017,3,Masculino,Manha,Colisao,Bicicleta,18-24,-21.2611011465,-48.4564711308
+854,Monte Aprazivel,2017,1,Masculino,Madrugada,ColisÃ£o,Motocicleta,35-39,-20.7082637219,-49.8953153019
+855,Monte Aprazivel,2017,2,Masculino,Noite,Colisao,Motocicleta,30-34,-20.6840093693,-49.6877951758
+856,Monte Azul Paulista,2017,2,Feminino,Noite,Colisao,Automovel,45-49,-20.8985721735,-48.6083237319
+857,Monte Azul Paulista,2017,3,Masculino,Noite,Colisao,Automovel,35-39,-20.8951525583,-48.6212802195
+858,Monte Mor,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,18-24,-22.977968,-47.318149
+859,Monte Mor,2017,1,Feminino,Noite,ColisÃ£o,AutomÃ³vel,40-44,-22.9431067284,-47.2608961149
+860,Monte Mor,2017,1,Masculino,Noite,Atropelamento,Pedestre,50-54,-22.948893,-47.31655
+861,Nazare Paulista,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,35-39,-23.1689698808,-46.3939247868
+862,Nazare Paulista,2017,1,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,45-49,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+863,Nazare Paulista,2017,2,Masculino,Noite,Colisao,Automovel,0-17,-23.1689698808,-46.3939247868
+864,Nova Independencia,2017,3,Masculino,Noite,Colisao,Automovel,30-34,-21.1708350546,-51.4789446672
+865,Novo Horizonte,2016,12,Masculino,ManhÃ£,Choque,NÃ£o Especificado,25-29,-21.4760331955,-49.2326274777
+866,Novo Horizonte,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+867,Olimpia,2017,1,Masculino,ManhÃ£,ColisÃ£o,Bicicleta,45-49,-20.704501969,-48.912308166
+868,Olimpia,2017,1,Feminino,ManhÃ£,ColisÃ£o,AutomÃ³vel,65-69,-20.6733047816,-48.8808553297
+869,Olimpia,2017,1,Masculino,ManhÃ£,ColisÃ£o,AutomÃ³vel,65-69,-20.6733047816,-48.8808553297
+870,Olimpia,2017,2,Masculino,Madrugada,Choque,Caminhao,25-29,-20.718267,-49.006104
+871,Olimpia,2017,2,Masculino,Noite,Colisao,Automovel,45-49,-20.638183377,-48.91758138
+872,Olimpia,2017,2,Masculino,Noite,Colisao,Automovel,65-69,-20.638183377,-48.91758138
+873,Olimpia,2017,3,Masculino,Manha,Colisao,Bicicleta,0-17,-20.729332,-48.911618
+874,Olimpia,2017,3,Masculino,Tarde,Colisao,Automovel,50-54,-20.7013950182,-48.9414149622
+875,Onda Verde,2016,12,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,80 Ou Mais,-20.620230249,-49.3338306385
+876,Onda Verde,2017,3,Masculino,Nao Disponivel,Colisao,Motocicleta,25-29,-20.6580465066,-49.3411761193
+877,Oriente,2017,3,Masculino,Madrugada,Colisao,Motocicleta,25-29,-22.1418868485,-50.1087354067
+878,Orindiuva,2017,3,Masculino,Manha,Outros,Motocicleta,40-44,-20.1285260554,-49.3392973366
+879,Osasco,2016,12,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,18-24,-23.5777301941,-46.8096947257
+880,Osasco,2016,12,Masculino,NÃ£o DisponÃ­vel,ColisÃ£o,Motocicleta,18-24,-23.5256153929,-46.7550052409
+881,Osasco,2016,12,Masculino,Madrugada,ColisÃ£o,Motocicleta,30-34,-23.539411,-46.801023
+882,Osasco,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,35-39,-23.5202427707,-46.7793461132
+883,Osasco,2016,12,Feminino,Madrugada,Atropelamento,Pedestre,40-44,-23.5202427707,-46.7793461132
+884,Osasco,2016,12,Feminino,Madrugada,NÃ£o Especificado,NÃ£o Especificado,60-64,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+885,Osasco,2016,12,Masculino,Tarde,Atropelamento,Pedestre,80 Ou Mais,-23.549659,-46.816048
+886,Osasco,2016,12,Masculino,ManhÃ£,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+887,Osasco,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,55-59,-23.555823,-46.779538
+888,Osasco,2017,2,Masculino,ManhÃ£,Nao Disponivel,Motocicleta,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+889,Osasco,2017,2,Masculino,Noite,Nao Disponivel,Nao Disponivel,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+890,Osasco,2017,2,Masculino,Madrugada,Choque,Motocicleta,30-34,-23.535311,-46.787844
+891,Osasco,2017,2,Masculino,ManhÃ£,Atropelamento,Pedestre,70-74,-23.5325090246,-46.7846543965
+892,Osasco,2017,3,Masculino,Noite,Colisao,Motocicleta,0-17,-23.529472,-46.805763
+893,Osasco,2017,3,Masculino,Tarde,Choque,Automovel,40-44,-23.5211397813,-46.7850844013
+894,Osasco,2017,3,Masculino,Noite,Atropelamento,Pedestre,65-69,-23.494942,-46.797996
+895,Osasco,2017,3,Masculino,Noite,Atropelamento,Pedestre,75-79,-23.551544,-46.779069
+896,Osasco,2017,3,Masculino,Tarde,Choque,Automovel,75-79,-23.560372,-46.787643
+897,Osasco,2017,3,Feminino,Madrugada,Atropelamento,Pedestre,80 Ou Mais,NAO DISPONIVEL,NAO DISPONIVEL 
+898,Osasco,2017,3,Masculino,Noite,Atropelamento,Pedestre,Nao Disponivel,-23.5202427707,-46.7793461132
+899,Osvaldo Cruz,2016,12,Feminino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,30-34,-21.7635676597,-50.9148071067
+900,Osvaldo Cruz,2017,2,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,0-17,-21.813455,-50.913781
+901,Ourinhos,2016,12,Masculino,ManhÃ£,ColisÃ£o,Bicicleta,70-74,-22.9659003417,-49.8649593328
+902,Ourinhos,2017,1,Masculino,Noite,ColisÃ£o,Motocicleta,18-24,-22.9714230402,-49.8693984416
+903,Ourinhos,2017,2,Masculino,Noite,Nao Disponivel,Motocicleta,18-24,-22.962618,-49.910112
+904,Ourinhos,2017,2,Feminino,Noite,Atropelamento,Pedestre,35-39,-22.909350559,-49.771479484
+905,Ourinhos,2017,3,Masculino,Noite,Colisao,Bicicleta,60-64,-22.982755,-49.865246
+906,Palmares Paulista,2017,1,NÃ£o DisponÃ­vel,Noite,Choque,AutomÃ³vel,18-24,-21.121055565,-48.838229885
+907,Palmares Paulista,2017,1,Masculino,Noite,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-21.0841840763,-48.8044652135
+908,Palmares Paulista,2017,2,Masculino,Noite,Outros,Automovel,0-17,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+909,Palmares Paulista,2017,2,Masculino,Noite,Outros,Automovel,18-24,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+910,Palmeira D Oeste,2017,3,Feminino,Tarde,Outros,Automovel,50-54,-20.406975321,-50.76455162
+911,Palmital,2017,1,Masculino,Noite,Outros,Motocicleta,18-24,-22.76913,-50.21474
+912,Panorama,2017,2,Masculino,NÃ£o DisponÃ­vel,Colisao,Motocicleta,40-44,-21.3399923256,-51.8352380785
+913,Paraguacu Paulista,2016,12,Feminino,Madrugada,ColisÃ£o,AutomÃ³vel,40-44,-22.5855011777,-50.4995770326
+914,Paraguacu Paulista,2017,1,Masculino,Madrugada,Outros,AutomÃ³vel,25-29,-22.338798,-50.561472
+915,Paraiso,2016,12,Feminino,Madrugada,Outros,AutomÃ³vel,70-74,-20.985856,-48.804341
+916,Paranapanema,2016,12,Masculino,Madrugada,ColisÃ£o,Motocicleta,0-17,-23.449472,-48.888613
+917,Paranapanema,2017,2,Masculino,Noite,Atropelamento,Pedestre,0-17,-23.451904,-48.889973
+918,Pardinho,2016,12,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,50-54,-23.087963511,-48.381560967
+919,Pardinho,2017,2,Masculino,Noite,Colisao,Automovel,55-59,-23.1443960187,-48.412679045
+920,Pariquera-Acu,2016,12,Masculino,Noite,NÃ£o Especificado,Motocicleta,18-24,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+921,Pariquera-Acu,2017,2,Masculino,Noite,Colisao,Motocicleta,45-49,-24.709236968,-47.8847832506
+922,Pariquera-Acu,2017,3,Masculino,Noite,Atropelamento,Pedestre,18-24,-24.7256022945,-47.8774003234
+923,Paulinia,2016,12,Masculino,ManhÃ£,Choque,AutomÃ³vel,65-69,-22.778137,-47.169693
+924,Paulinia,2017,2,Masculino,Madrugada,Outros,Motocicleta,30-34,-22.7006309528,-47.1474380208
+925,Paulinia,2017,2,Masculino,NÃ£o DisponÃ­vel,Colisao,Motocicleta,30-34,-22.737263,-47.18224
+926,Paulinia,2017,3,Masculino,Noite,Atropelamento,Pedestre,45-49,-22.73984163,-47.1585907008
+927,Pederneiras,2017,3,Masculino,Noite,Outros,Automovel,45-49,-22.33049,-48.9196
+928,Pedreira,2017,2,Masculino,Tarde,Colisao,Motocicleta,25-29,-22.743195,-46.912248
+929,Pedreira,2017,3,Masculino,Nao Disponivel,Colisao,Motocicleta,18-24,-22.740928087,-46.895584999
+930,Penapolis,2016,12,Masculino,ManhÃ£,Atropelamento,Pedestre,75-79,-21.414143,-50.077638
+931,Pereira Barreto,2017,3,Masculino,Noite,Colisao,Bicicleta,50-54,-20.630524,-51.101841
+932,Pereiras,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,30-34,-23.0612763657,-47.9674137098
+933,Peruibe,2016,12,Feminino,ManhÃ£,ColisÃ£o,Motocicleta,18-24,-24.302337,-47.02198
+934,Peruibe,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,60-64,-24.2408941341,-46.9128937062
+935,Peruibe,2017,2,Feminino,Noite,Atropelamento,Pedestre,55-59,-24.315814,-47.008916
+936,Peruibe,2017,2,Masculino,Noite,Atropelamento,Pedestre,55-59,-24.300939145,-47.01477228
+937,Peruibe,2017,3,Feminino,Tarde,Colisao,Motocicleta,18-24,-24.285179,-46.965883
+938,Peruibe,2017,3,Masculino,Noite,Atropelamento,Pedestre,Nao Disponivel,-24.2628461076,-46.9494944494
+939,Piacatu,2017,2,Feminino,Noite,Colisao,Automovel,65-69,-21.611561,-50.614836
+940,Piedade,2017,2,Masculino,Tarde,Choque,Motocicleta,0-17,-23.7237911266,-47.4190805526
+941,Piedade,2017,2,Masculino,ManhÃ£,Colisao,Motocicleta,18-24,-23.7559907699,-47.4365473366
+942,Piedade,2017,3,Masculino,Nao Disponivel,Colisao,Motocicleta,25-29,-23.794232,-47.569913
+943,Piedade,2017,3,Masculino,Manha,Colisao,Motocicleta,35-39,-23.759041896,-47.4639464832
+944,Pilar Do Sul,2016,12,Masculino,Noite,ColisÃ£o,AutomÃ³vel,40-44,-23.787104,-47.788631
+945,Pilar Do Sul,2017,1,Masculino,Noite,Choque,Motocicleta,40-44,-23.794365,-47.741599
+946,Pilar Do Sul,2017,2,Feminino,Madrugada,Choque,Automovel,40-44,-23.802050327,-47.801138652
+947,Pilar Do Sul,2017,3,Masculino,Tarde,Colisao,Motocicleta,35-39,-23.8265819596,-47.7068866969
+948,Pindamonhangaba,2016,12,Feminino,Tarde,ColisÃ£o,Motocicleta,30-34,-22.956321,-45.507784
+949,Pindamonhangaba,2016,12,Masculino,Madrugada,ColisÃ£o,CaminhÃ£o,60-64,-22.9901584988,-45.4807368608
+950,Pindamonhangaba,2016,12,Masculino,Noite,ColisÃ£o,Bicicleta,70-74,-22.8854080533,-45.5313586334
+951,Pindamonhangaba,2016,12,Masculino,Noite,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-22.9523916567,-45.404902139
+952,Pindamonhangaba,2017,1,Masculino,Tarde,Choque,Motocicleta,50-54,-22.8901164654,-45.3788279993
+953,Pindamonhangaba,2017,1,Masculino,Noite,ColisÃ£o,Bicicleta,55-59,-22.9414001,-45.471981641
+954,Pindamonhangaba,2017,2,Masculino,Noite,Nao Disponivel,Motocicleta,30-34,-22.9816595355,-45.4633534079
+955,Pindamonhangaba,2017,2,Feminino,Madrugada,Atropelamento,Pedestre,65-69,-22.958978,-45.407575
+956,Pindamonhangaba,2017,2,Masculino,ManhÃ£,Colisao,Bicicleta,70-74,-22.9344832889,-45.4592292173
+957,Pindamonhangaba,2017,3,Masculino,Noite,Atropelamento,Pedestre,50-54,-22.9695167869,-45.4387591757
+958,Pinhalzinho,2016,12,Feminino,NÃ£o DisponÃ­vel,ColisÃ£o,AutomÃ³vel,35-39,-22.8293371925,-46.5582714621
+959,Pinhalzinho,2016,12,Masculino,NÃ£o DisponÃ­vel,ColisÃ£o,AutomÃ³vel,40-44,-22.8293371925,-46.5582714621
+960,Pinhalzinho,2016,12,Masculino,Noite,ColisÃ£o,AutomÃ³vel,40-44,-22.80877,-46.537034
+961,Pinhalzinho,2017,2,Masculino,Noite,Colisao,Motocicleta,50-54,-22.7924531363,-46.5554377425
+962,Pinhalzinho,2017,2,Masculino,Noite,Colisao,Automovel,70-74,-22.7767064928,-46.5632462322
+963,Piracaia,2016,12,Masculino,NÃ£o DisponÃ­vel,ColisÃ£o,Bicicleta,18-24,-23.0567502687,-46.364514963
+964,Piracaia,2016,12,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,25-29,-23.1071607297,-46.4653390531
+965,Piracaia,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,35-39,-23.1071607297,-46.4653390531
+966,Piracaia,2016,12,Feminino,ManhÃ£,ColisÃ£o,Motocicleta,50-54,-23.1071607297,-46.4653390531
+967,Piracaia,2016,12,Masculino,NÃ£o DisponÃ­vel,ColisÃ£o,Motocicleta,50-54,-23.0314501026,-46.3386503557
+968,Piracicaba,2016,12,Feminino,Noite,Choque,AutomÃ³vel,18-24,-22.702385,-47.647257
+969,Piracicaba,2016,12,Masculino,ManhÃ£,Choque,Motocicleta,18-24,-22.711046,-47.63861
+970,Piracicaba,2016,12,Masculino,Noite,Choque,AutomÃ³vel,18-24,-22.702385,-47.647257
+971,Piracicaba,2016,12,Feminino,ManhÃ£,Atropelamento,Pedestre,25-29,-22.729837,-47.648184
+972,Piracicaba,2016,12,Masculino,Noite,Atropelamento,Pedestre,50-54,-22.766101,-47.589674
+973,Piracicaba,2016,12,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,60-64,-22.751925,-47.687364
+974,Piracicaba,2016,12,Masculino,ManhÃ£,Atropelamento,Pedestre,80 Ou Mais,-22.753719,-47.647897
+975,Piracicaba,2017,1,Masculino,Noite,Outros,Motocicleta,0-17,-22.696199,-47.671693
+976,Piracicaba,2017,1,Masculino,Noite,Choque,Motocicleta,18-24,-22.742041,-47.675751
+977,Piracicaba,2017,1,Masculino,Noite,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+978,Piracicaba,2017,1,Masculino,Noite,ColisÃ£o,Motocicleta,35-39,-22.694565,-47.670482
+979,Piracicaba,2017,1,Masculino,Tarde,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,35-39,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+980,Piracicaba,2017,2,Feminino,Noite,Colisao,Bicicleta,0-17,-22.757675,-47.653576
+981,Piracicaba,2017,2,Masculino,Tarde,Colisao,Motocicleta,0-17,-22.749213,-47.685167
+982,Piracicaba,2017,2,Masculino,ManhÃ£,Colisao,Motocicleta,18-24,-22.6748266594,-47.7420547383
+983,Piracicaba,2017,2,Masculino,Noite,Choque,Automovel,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+984,Piracicaba,2017,2,Masculino,Tarde,Choque,Automovel,25-29,-22.7436008735,-47.7180354119
+985,Piracicaba,2017,2,Feminino,ManhÃ£,Colisao,Automovel,45-49,-22.702832,-47.648452
+986,Piracicaba,2017,2,Masculino,Tarde,Outros,Automovel,45-49,-22.758645,-47.947705
+987,Piracicaba,2017,3,Masculino,Madrugada,Choque,Automovel,18-24,-22.7337511819,-47.5526913909
+988,Piracicaba,2017,3,Masculino,Tarde,Choque,Motocicleta,30-34,-22.695697,-47.669106
+989,Piracicaba,2017,3,Masculino,Noite,Outros,Motocicleta,35-39,-22.7655354835,-47.6455527638
+990,Piracicaba,2017,3,Masculino,Noite,Outros,Motocicleta,40-44,-22.755074,-47.647082
+991,Piracicaba,2017,3,Masculino,Noite,Nao Disponivel,Nao Disponivel,65-69,NAO DISPONIVEL,NAO DISPONIVEL 
+992,Piracicaba,2017,3,Masculino,Manha,Colisao,Bicicleta,75-79,-22.6577759334,-47.7869150355
+993,Piraju,2017,3,Masculino,Noite,Colisao,Automovel,35-39,-23.2834334646,-49.2257933512
+994,Pirassununga,2017,1,Masculino,Madrugada,ColisÃ£o,Motocicleta,18-24,-22.005657,-47.409082
+995,Pirassununga,2017,1,Masculino,Noite,Atropelamento,Pedestre,40-44,-22.0265,-47.4362
+996,Pirassununga,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,40-44,-22.005608,-47.422793
+997,Pirassununga,2017,1,Masculino,Tarde,Atropelamento,Pedestre,75-79,-22.0091232487,-47.3621550627
+998,Piratininga,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-22.4625172759,-49.1970911829
+999,Pitangueiras,2017,2,Feminino,Noite,Outros,Automovel,18-24,-20.9805434722,-48.2772934038
+1000,Pitangueiras,2017,2,Feminino,Noite,Outros,Automovel,18-24,-20.9805434722,-48.2772934038
+1001,Pitangueiras,2017,2,Feminino,Noite,Outros,Automovel,18-24,-20.9805434722,-48.2772934038
+1002,Poa,2017,2,Feminino,Madrugada,Choque,Automovel,50-54,-23.51092,-46.337689
+1003,Poa,2017,2,Feminino,Madrugada,Choque,Automovel,NÃ£o DisponÃ­vel,-23.51092,-46.337689
+1004,Pompeia,2016,12,Masculino,NÃ£o DisponÃ­vel,ColisÃ£o,Motocicleta,25-29,-22.103267371,-50.2160019865
+1005,Pontal,2016,12,Masculino,NÃ£o DisponÃ­vel,Outros,AutomÃ³vel,18-24,-21.00203,-48.041746
+1006,Pontal,2017,3,Masculino,Noite,Colisao,Bicicleta,18-24,-20.881508,-47.976114
+1007,Pontes Gestal,2016,12,Masculino,Tarde,Choque,AutomÃ³vel,18-24,-20.13142,-49.762327
+1008,Porangaba,2017,2,Masculino,Madrugada,Colisao,Caminhao,45-49,-23.236433681,-48.130406068
+1009,Porto Feliz,2016,12,Masculino,NÃ£o DisponÃ­vel,ColisÃ£o,Motocicleta,30-34,-23.26384949,-47.5212843836
+1010,Porto Feliz,2017,3,Masculino,Madrugada,Colisao,Automovel,45-49,-23.3332268428,-47.5530093667
+1011,Porto Ferreira,2016,12,Feminino,Noite,Outros,Bicicleta,18-24,-21.842986,-47.474193
+1012,Porto Ferreira,2016,12,Masculino,ManhÃ£,Outros,Motocicleta,30-34,-21.8412275007,-47.4077788007
+1013,Porto Ferreira,2016,12,Masculino,Madrugada,NÃ£o Especificado,NÃ£o Especificado,45-49,-21.8024704184,-47.5051138054
+1014,Porto Ferreira,2017,2,Masculino,Tarde,Atropelamento,Pedestre,18-24,-21.86019646,-47.472073268
+1015,Praia Grande,2016,12,Masculino,ManhÃ£,Choque,Motocicleta,18-24,-24.053319,-46.547517
+1016,Praia Grande,2016,12,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,30-34,-24.036341,-46.520518
+1017,Praia Grande,2016,12,Masculino,Noite,ColisÃ£o,Bicicleta,45-49,-24.018448627,-46.471646917
+1018,Praia Grande,2016,12,Masculino,Noite,NÃ£o Especificado,Bicicleta,45-49,-24.087344,-46.605826
+1019,Praia Grande,2016,12,Masculino,Madrugada,Choque,Motocicleta,50-54,-24.022053,-46.469255
+1020,Praia Grande,2016,12,Masculino,Tarde,Atropelamento,Pedestre,80 Ou Mais,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1021,Praia Grande,2017,1,Feminino,Madrugada,Choque,Motocicleta,0-17,-24.022514,-46.483143
+1022,Praia Grande,2017,1,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,18-24,-24.02989,-46.516253
+1023,Praia Grande,2017,1,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,30-34,-24.025245429,-46.492883798
+1024,Praia Grande,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,35-39,-23.999072,-46.448693
+1025,Praia Grande,2017,1,Masculino,Noite,Atropelamento,Pedestre,40-44,-24.0822012968,-46.6006646944
+1026,Praia Grande,2017,1,Masculino,Noite,ColisÃ£o,Bicicleta,50-54,-24.0229006168,-46.5050503083
+1027,Praia Grande,2017,1,Masculino,Noite,NÃ£o DisponÃ­vel,Motocicleta,50-54,-24.030916,-46.524347
+1028,Praia Grande,2017,2,Masculino,Noite,Choque,Automovel,25-29,-24.032543,-46.50768
+1029,Praia Grande,2017,2,Masculino,Noite,Colisao,Motocicleta,35-39,-24.018448627,-46.471646917
+1030,Praia Grande,2017,2,Masculino,Tarde,Colisao,Motocicleta,45-49,-24.03475015,-46.5285810816
+1031,Praia Grande,2017,2,Masculino,NÃ£o DisponÃ­vel,Outros,Bicicleta,50-54,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1032,Praia Grande,2017,2,Masculino,Tarde,Colisao,Automovel,60-64,-24.045506,-46.530207
+1033,Praia Grande,2017,3,Masculino,Noite,Atropelamento,Pedestre,25-29,-24.012578576,-46.450091115
+1034,Praia Grande,2017,3,Masculino,Noite,Colisao,Bicicleta,40-44,-24.044854,-46.525047
+1035,Praia Grande,2017,3,Masculino,Noite,Choque,Motocicleta,45-49,-24.052182,-46.541268
+1036,Praia Grande,2017,3,Feminino,Manha,Atropelamento,Pedestre,80 Ou Mais,-24.033398,-46.500646
+1037,Praia Grande,2017,3,Feminino,Noite,Atropelamento,Pedestre,80 Ou Mais,-24.014446,-46.448554
+1038,Presidente Bernardes,2016,12,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,30-34,-22.024599831,-51.553039882
+1039,Presidente Epitacio,2017,1,Masculino,Noite,ColisÃ£o,AutomÃ³vel,60-64,-21.774242,-52.118556
+1040,Presidente Epitacio,2017,3,Masculino,Noite,Outros,Motocicleta,18-24,-21.774926,-52.119625
+1041,Presidente Prudente,2016,12,Feminino,Noite,Outros,Motocicleta,30-34,-22.139671,-51.451893
+1042,Presidente Prudente,2017,2,Feminino,Tarde,Atropelamento,Pedestre,75-79,-22.130812,-51.386227
+1043,Presidente Prudente,2017,3,Masculino,Nao Disponivel,Choque,Motocicleta,18-24,-22.097918,-51.388497
+1044,Presidente Prudente,2017,3,Masculino,Noite,Choque,Motocicleta,18-24,-22.13615,-51.448313
+1045,Presidente Prudente,2017,3,Masculino,Noite,Nao Disponivel,Nao Disponivel,30-34,NAO DISPONIVEL,NAO DISPONIVEL 
+1046,Presidente Prudente,2017,3,Masculino,Noite,Choque,Motocicleta,45-49,-22.114186,-51.418524
+1047,Presidente Prudente,2017,3,Masculino,Noite,Atropelamento,Pedestre,55-59,-22.114155,-51.391578
+1048,Presidente Prudente,2017,3,Masculino,Noite,Colisao,Motocicleta,55-59,-22.0356383071,-51.4108561159
+1049,Presidente Venceslau,2017,3,Masculino,Manha,Colisao,Caminhao,35-39,-21.870106087,-51.830117286
+1050,Presidente Venceslau,2017,3,Masculino,Tarde,Atropelamento,Pedestre,35-39,-21.889815,-51.843322
+1051,Presidente Venceslau,2017,3,Nao Disponivel,Manha,Colisao,Caminhao,Nao Disponivel,-21.870106087,-51.830117286
+1052,Promissao,2016,12,Masculino,Noite,NÃ£o Especificado,Motocicleta,18-24,-21.535629,-49.851376
+1053,Rafard,2017,2,Masculino,Madrugada,Choque,Automovel,25-29,-23.039898,-47.532744
+1054,Rafard,2017,3,Feminino,Tarde,Atropelamento,Pedestre,65-69,-23.011075,-47.526927
+1055,Rancharia,2017,2,Masculino,Noite,Colisao,Motocicleta,40-44,-22.2192401907,-50.9131878961
+1056,Rancharia,2017,3,Masculino,Madrugada,Outros,Caminhao,25-29,-22.4063147538,-51.0580483236
+1057,Reginopolis,2017,1,Feminino,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,70-74,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1058,Registro,2016,12,Feminino,Tarde,ColisÃ£o,NÃ£o Especificado,55-59,-24.4731070657,-47.825759189
+1059,Registro,2016,12,Feminino,Tarde,ColisÃ£o,NÃ£o Especificado,60-64,-24.4731070657,-47.825759189
+1060,Registro,2017,1,Masculino,Tarde,Atropelamento,Pedestre,75-79,-24.4876516279,-47.8349352013
+1061,Registro,2017,3,Masculino,Tarde,Colisao,Automovel,25-29,-24.5190048445,-47.8528965969
+1062,Registro,2017,3,Masculino,Madrugada,Atropelamento,Pedestre,Nao Disponivel,-24.5029461411,-47.8477286029
+1063,Restinga,2017,3,Masculino,Tarde,Colisao,Automovel,50-54,-20.6509712274,-47.4860942689
+1064,Ribeira,2016,12,Masculino,Tarde,Choque,Motocicleta,18-24,-24.610046,-49.069799
+1065,Ribeirao Bonito,2017,3,Masculino,Madrugada,Outros,Automovel,18-24,-22.077865816,-48.176404584
+1066,Ribeirao Pires,2016,12,Masculino,Tarde,NÃ£o Especificado,Motocicleta,25-29,-23.728742127,-46.4248396854
+1067,Ribeirao Pires,2016,12,Feminino,ManhÃ£,Atropelamento,Pedestre,45-49,-23.638083,-46.393612
+1068,Ribeirao Pires,2016,12,Masculino,Tarde,Outros,CaminhÃ£o,45-49,-23.731136,-46.421709
+1069,Ribeirao Pires,2016,12,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,60-64,-23.7172405346,-46.4015047396
+1070,Ribeirao Pires,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,0-17,-23.68215,-46.349492
+1071,Ribeirao Pires,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,75-79,-23.707948,-46.416786
+1072,Ribeirao Pires,2017,1,Masculino,Noite,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,75-79,-23.694438,-46.396574
+1073,Ribeirao Pires,2017,2,Feminino,Noite,Colisao,Motocicleta,18-24,-23.690341,-46.392869
+1074,Ribeirao Pires,2017,2,Masculino,Noite,Atropelamento,Pedestre,18-24,-23.6984612266,-46.40215399
+1075,Ribeirao Pires,2017,2,Masculino,Noite,Colisao,Motocicleta,18-24,-23.690341,-46.392869
+1076,Ribeirao Pires,2017,2,Masculino,Madrugada,Atropelamento,Pedestre,45-49,-22.7006309528,-47.1474380208
+1077,Ribeirao Pires,2017,3,Masculino,Madrugada,Choque,Automovel,18-24,-23.640169,-46.389994
+1078,Ribeirao Pires,2017,3,Masculino,Noite,Atropelamento,Pedestre,45-49,-23.6790594764,-46.3535190251
+1079,Ribeirao Pires,2017,3,Masculino,Noite,Atropelamento,Pedestre,50-54,-23.7172405346,-46.4015047396
+1080,Ribeirao Preto,2016,12,Masculino,Madrugada,ColisÃ£o,Motocicleta,18-24,-21.157434,-47.797365
+1081,Ribeirao Preto,2016,12,Masculino,Tarde,ColisÃ£o,Bicicleta,50-54,-21.145774,-47.842507
+1082,Ribeirao Preto,2016,12,Feminino,ManhÃ£,ColisÃ£o,AutomÃ³vel,55-59,-21.2077568703,-47.8549181888
+1083,Ribeirao Preto,2016,12,Masculino,Noite,ColisÃ£o,AutomÃ³vel,55-59,-21.285265309,-47.8087466851
+1084,Ribeirao Preto,2016,12,Feminino,Madrugada,Atropelamento,Pedestre,80 Ou Mais,-21.162936,-47.802111
+1085,Ribeirao Preto,2016,12,Feminino,Noite,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-21.2077568703,-47.8549181888
+1086,Ribeirao Preto,2017,1,Masculino,ManhÃ£,Choque,Motocicleta,25-29,-21.131477,-47.742225
+1087,Ribeirao Preto,2017,1,Feminino,Noite,ColisÃ£o,Motocicleta,35-39,-21.156972,-47.824049
+1088,Ribeirao Preto,2017,1,Masculino,Noite,Atropelamento,Pedestre,35-39,-21.109365059,-47.7731884088
+1089,Ribeirao Preto,2017,1,Masculino,Noite,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,45-49,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1090,Ribeirao Preto,2017,1,Masculino,ManhÃ£,ColisÃ£o,CaminhÃ£o,50-54,-21.0993925237,-47.7616865985
+1091,Ribeirao Preto,2017,1,Masculino,Noite,ColisÃ£o,Bicicleta,55-59,-21.206301,-47.749715
+1092,Ribeirao Preto,2017,1,Feminino,Noite,ColisÃ£o,NÃ£o DisponÃ­vel,60-64,-21.17059,-47.808787
+1093,Ribeirao Preto,2017,1,Masculino,Noite,Outros,Bicicleta,60-64,-21.173778,-47.858306
+1094,Ribeirao Preto,2017,2,Masculino,Noite,Atropelamento,Motocicleta,18-24,-21.172785594,-47.794332415
+1095,Ribeirao Preto,2017,2,Masculino,Tarde,Colisao,Motocicleta,18-24,-21.141116,-47.795817
+1096,Ribeirao Preto,2017,2,Masculino,Noite,Colisao,Motocicleta,25-29,-21.1773795944,-47.8440570339
+1097,Ribeirao Preto,2017,2,Masculino,Tarde,Colisao,Motocicleta,25-29,-21.1933325637,-47.7543739903
+1098,Ribeirao Preto,2017,2,Masculino,Tarde,Colisao,Motocicleta,35-39,-21.1158320833,-47.8255539055
+1099,Ribeirao Preto,2017,2,Masculino,ManhÃ£,Colisao,Bicicleta,65-69,-21.1688557549,-47.8031846329
+1100,Ribeirao Preto,2017,2,Masculino,Tarde,Colisao,Motocicleta,65-69,-21.221734743,-47.7820562208
+1101,Ribeirao Preto,2017,3,Masculino,Madrugada,Choque,Motocicleta,18-24,-21.133387,-47.816052
+1102,Ribeirao Preto,2017,3,Masculino,Noite,Colisao,Motocicleta,25-29,-21.267083605,-47.7560474106
+1103,Ribeirao Preto,2017,3,Masculino,Madrugada,Nao Disponivel,Motocicleta,30-34,-21.17988,-47.83148
+1104,Ribeirao Preto,2017,3,Masculino,Noite,Atropelamento,Pedestre,35-39,-21.1206009401,-47.8336991948
+1105,Ribeirao Preto,2017,3,Masculino,Noite,Colisao,Automovel,35-39,-21.2077568703,-47.8549181888
+1106,Ribeirao Preto,2017,3,Masculino,Manha,Atropelamento,Pedestre,50-54,NAO DISPONIVEL,NAO DISPONIVEL 
+1107,Ribeirao Preto,2017,3,Feminino,Nao Disponivel,Atropelamento,Pedestre,65-69,NAO DISPONIVEL,NAO DISPONIVEL 
+1108,Rincao,2016,12,Masculino,Madrugada,Choque,AutomÃ³vel,18-24,-21.551134,-48.119142
+1109,Rincao,2017,2,Masculino,Noite,Outros,Motocicleta,0-17,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1110,Rinopolis,2016,12,Feminino,Madrugada,ColisÃ£o,AutomÃ³vel,50-54,-21.6893629191,-50.6239353277
+1111,Rio Claro,2016,12,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,35-39,-22.324579,-47.543965
+1112,Rio Claro,2016,12,Masculino,Noite,Atropelamento,Pedestre,40-44,-22.514108938,-47.5846229067
+1113,Rio Claro,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,40-44,-22.429642,-47.581382
+1114,Rio Claro,2016,12,Masculino,ManhÃ£,NÃ£o Especificado,NÃ£o Especificado,50-54,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1115,Rio Claro,2017,1,Masculino,Tarde,Atropelamento,Pedestre,35-39,-22.418646,-47.574842
+1116,Rio Claro,2017,1,Masculino,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,50-54,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1117,Rio Claro,2017,2,Masculino,Noite,Colisao,Motocicleta,30-34,-22.356389662,-47.545413163
+1118,Rio Claro,2017,2,Masculino,Noite,Outros,Motocicleta,40-44,-22.2879,-47.548917
+1119,Rio Claro,2017,2,Masculino,ManhÃ£,Colisao,Nao Disponivel,70-74,-22.394759,-47.572523
+1120,Rio Claro,2017,3,Masculino,Manha,Colisao,Motocicleta,40-44,-22.377321,-47.542379
+1121,Rio Claro,2017,3,Masculino,Noite,Colisao,Motocicleta,40-44,-22.380235,-47.575613
+1122,Rio Das Pedras,2017,3,Masculino,Noite,Nao Disponivel,Nao Disponivel,50-54,NAO DISPONIVEL,NAO DISPONIVEL 
+1123,Riolandia,2017,3,Feminino,Noite,Atropelamento,Pedestre,0-17,-19.980885,-49.68522
+1124,Rosana,2016,12,Masculino,Madrugada,NÃ£o Especificado,NÃ£o Especificado,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1125,Sales Oliveira,2017,3,Masculino,Noite,Colisao,Automovel,45-49,-20.813798,-47.906549
+1126,Saltinho,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,60-64,-22.8555925102,-47.6845858166
+1127,Salto,2016,12,Masculino,Madrugada,Choque,AutomÃ³vel,0-17,-23.1903645484,-47.3175262058
+1128,Salto,2017,1,Masculino,Tarde,Choque,AutomÃ³vel,25-29,-23.211355,-47.302367
+1129,Salto,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.1796383462,-47.282878966
+1130,Salto,2017,2,Feminino,Noite,Colisao,Motocicleta,35-39,-23.163961308,-47.2651799267
+1131,Salto,2017,3,Masculino,Tarde,Nao Disponivel,Nao Disponivel,35-39,-23.1802908427,-47.3304176272
+1132,Salto De Pirapora,2016,12,Masculino,Madrugada,Outros,CaminhÃ£o,25-29,-23.6661332587,-47.599368629
+1133,Salto De Pirapora,2016,12,Masculino,Noite,Outros,AutomÃ³vel,35-39,-23.6921466061,-47.6071233082
+1134,Salto De Pirapora,2016,12,Masculino,Noite,Atropelamento,Pedestre,50-54,-23.6007465315,-47.5372045842
+1135,Salto De Pirapora,2017,1,Masculino,Noite,NÃ£o DisponÃ­vel,Motocicleta,40-44,-23.658486,-47.583357
+1136,Salto De Pirapora,2017,1,Feminino,Noite,ColisÃ£o,AutomÃ³vel,45-49,-23.6661332587,-47.599368629
+1137,Salto De Pirapora,2017,1,Masculino,Noite,ColisÃ£o,AutomÃ³vel,50-54,-23.6661332587,-47.599368629
+1138,Salto De Pirapora,2017,1,Feminino,Noite,ColisÃ£o,AutomÃ³vel,60-64,-23.6661332587,-47.599368629
+1139,Salto De Pirapora,2017,3,Masculino,Manha,Colisao,Motocicleta,18-24,-23.6252824866,-47.56282507
+1140,Salto Grande,2017,2,Masculino,Tarde,Outros,Automovel,18-24,-22.873999604,-49.971905362
+1141,Salto Grande,2017,3,Masculino,Tarde,Outros,Caminhao,45-49,-22.830754825,-50.0274447735
+1142,Salto Grande,2017,3,Masculino,Tarde,Colisao,Automovel,80 Ou Mais,-22.8789530911,-49.8895560476
+1143,Sandovalina,2017,3,Feminino,Nao Disponivel,Choque,Automovel,40-44,NAO DISPONIVEL,NAO DISPONIVEL 
+1144,Santa Barbara D Oeste,2017,3,Feminino,Manha,Atropelamento,Pedestre,18-24,-22.763835174,-47.385981811
+1145,Santa Barbara D Oeste,2017,3,Masculino,Madrugada,Outros,Motocicleta,25-29,-22.7230343816,-47.3644635822
+1146,Santa Barbara D'Oeste,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,45-49,-22.745965,-47.361682
+1147,Santa Barbara D'Oeste,2017,1,Feminino,Noite,ColisÃ£o,AutomÃ³vel,0-17,-22.785592,-47.427573
+1148,Santa Barbara D'Oeste,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,18-24,-22.7499156466,-47.4636772884
+1149,Santa Barbara D'Oeste,2017,1,Masculino,Noite,ColisÃ£o,Motocicleta,35-39,-22.7633052626,-47.3737410533
+1150,Santa Barbara D'Oeste,2017,2,Feminino,ManhÃ£,Colisao,Motocicleta,18-24,-22.741869,-47.359403
+1151,Santa Cruz Da Conceicao,2017,1,Feminino,Madrugada,Choque,Motocicleta,18-24,-22.113918761,-47.432026884
+1152,Santa Cruz Da Conceicao,2017,3,Masculino,Manha,Colisao,Motocicleta,30-34,-22.0791,-47.4222
+1153,Santa Cruz Do Rio Pardo,2017,1,Masculino,Madrugada,Outros,AutomÃ³vel,40-44,-22.8695513642,-49.5938661427
+1154,Santa Cruz Do Rio Pardo,2017,2,Masculino,Madrugada,Outros,Outros,80 Ou Mais,-22.9529988764,-49.6267471588
+1155,Santa Cruz Do Rio Pardo,2017,3,Masculino,Tarde,Colisao,Automovel,30-34,-22.7336194348,-49.4635772072
+1156,Santa Fe Do Sul,2017,2,Masculino,ManhÃ£,Colisao,Motocicleta,30-34,-20.211026,-50.932282
+1157,Santa Gertrudes,2017,2,Masculino,Tarde,Outros,Bicicleta,30-34,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1158,Santa Gertrudes,2017,3,Masculino,Noite,Colisao,Motocicleta,40-44,-22.45658,-47.54849
+1159,Santa Isabel,2017,1,Masculino,ManhÃ£,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,30-34,-23.308154,-46.231683
+1160,Santa Isabel,2017,2,Feminino,Noite,Choque,Automovel,0-17,-23.299292,-46.23879
+1161,Santa Isabel,2017,2,Masculino,ManhÃ£,Choque,Motocicleta,40-44,-23.32435,-46.222507
+1162,Santa Isabel,2017,3,Feminino,Noite,Atropelamento,Pedestre,50-54,-23.3776609942,-46.2538390531
+1163,Santa Isabel,2017,3,Feminino,Noite,Atropelamento,Pedestre,55-59,-23.3776609942,-46.2538390531
+1164,Santa Maria Da Serra,2017,2,Masculino,ManhÃ£,Colisao,Automovel,55-59,-22.6005984572,-48.1625472232
+1165,Santa Rita Do Passa Quatro,2016,12,Masculino,ManhÃ£,NÃ£o Especificado,NÃ£o Especificado,50-54,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1166,Santa Rita Do Passa Quatro,2017,1,Masculino,Noite,Choque,AutomÃ³vel,50-54,-21.6987488637,-47.4898010637
+1167,Santa Rita Do Passa Quatro,2017,2,Masculino,Madrugada,Choque,Motocicleta,18-24,-21.696478,-47.485066
+1168,Santa Rita Do Passa Quatro,2017,2,Masculino,Madrugada,Colisao,Caminhao,18-24,-21.75586031,-47.563843052
+1169,Santana De Parnaiba,2016,12,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,18-24,-23.461555755,-46.878473187
+1170,Santana De Parnaiba,2017,1,Masculino,Noite,Outros,Motocicleta,25-29,-23.4850818715,-46.9927471768
+1171,Santana De Parnaiba,2017,3,Feminino,Noite,Atropelamento,Pedestre,55-59,-23.4296030449,-46.8473154551
+1172,Santo Anastacio,2016,12,Feminino,Madrugada,Outros,AutomÃ³vel,30-34,-21.952879,-51.643075
+1173,Santo Anastacio,2017,1,Masculino,Tarde,Atropelamento,Pedestre,80 Ou Mais,-21.971532,-51.647578
+1174,Santo Andre,2016,12,Masculino,Noite,Choque,Bicicleta,0-17,-23.739083,-46.496251
+1175,Santo Andre,2016,12,Masculino,Noite,Choque,Motocicleta,25-29,-23.624628,-46.485407
+1176,Santo Andre,2016,12,Masculino,Madrugada,ColisÃ£o,Bicicleta,45-49,-23.682915,-46.505666
+1177,Santo Andre,2016,12,Masculino,ManhÃ£,Atropelamento,Pedestre,50-54,-23.697562,-46.495855
+1178,Santo Andre,2016,12,Feminino,Noite,Atropelamento,Pedestre,70-74,-23.644465,-46.523416
+1179,Santo Andre,2017,1,Masculino,Noite,ColisÃ£o,Motocicleta,25-29,-23.6569278783,-46.5549727445
+1180,Santo Andre,2017,1,Feminino,Noite,Atropelamento,Pedestre,50-54,-23.665441,-46.530837
+1181,Santo Andre,2017,1,Masculino,Tarde,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1182,Santo Andre,2017,2,Feminino,Noite,Colisao,Motocicleta,18-24,-23.6278435401,-46.5196529846
+1183,Santo Andre,2017,2,Masculino,Noite,Atropelamento,Pedestre,18-24,-23.656452,-46.49911
+1184,Santo Andre,2017,2,Masculino,Tarde,Colisao,Motocicleta,25-29,-23.703505,-46.503507
+1185,Santo Andre,2017,2,Masculino,Tarde,Choque,Motocicleta,40-44,-23.660732,-46.544734
+1186,Santo Andre,2017,3,Masculino,Noite,Nao Disponivel,Nao Disponivel,25-29,-23.7688483566,-46.3829996373
+1187,Santo Andre,2017,3,Masculino,Manha,Choque,Automovel,30-34,NAO DISPONIVEL,NAO DISPONIVEL 
+1188,Santo Andre,2017,3,Masculino,Manha,Atropelamento,Pedestre,65-69,-23.693416,-46.530592
+1189,Santo Andre,2017,3,Masculino,Manha,Atropelamento,Pedestre,80 Ou Mais,-23.653582,-46.52942
+1190,Santo Antonio Da Alegria,2017,3,Masculino,Nao Disponivel,Atropelamento,Pedestre,40-44,-21.0274563139,-47.2046070916
+1191,Santopolis Do Aguapei,2017,1,Masculino,ManhÃ£,Choque,AutomÃ³vel,55-59,-21.641863,-50.500785
+1192,Santos,2016,12,Masculino,Tarde,Choque,AutomÃ³vel,75-79,-23.967764,-46.346328
+1193,Santos,2016,12,Masculino,Noite,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.9283860707,-46.3659680655
+1194,Santos,2017,1,Feminino,Madrugada,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,18-24,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1195,Santos,2017,1,Masculino,ManhÃ£,ColisÃ£o,AutomÃ³vel,35-39,-23.8957113607,-46.2155605045
+1196,Santos,2017,1,Masculino,ManhÃ£,Outros,Bicicleta,35-39,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1197,Santos,2017,1,Masculino,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,Motocicleta,35-39,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1198,Santos,2017,1,Masculino,Madrugada,ColisÃ£o,Motocicleta,50-54,-23.8970471152,-46.2603269196
+1199,Santos,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,75-79,-23.951608,-46.367501
+1200,Santos,2017,2,Masculino,Noite,Outros,Motocicleta,25-29,-23.929472,-46.341938
+1201,Santos,2017,3,Feminino,Noite,Atropelamento,Pedestre,45-49,-23.964798,-46.323595
+1202,Santos,2017,3,Masculino,Nao Disponivel,Nao Disponivel,Automovel,70-74,NAO DISPONIVEL,NAO DISPONIVEL 
+1203,Santos,2017,3,Feminino,Madrugada,Colisao,Motocicleta,Nao Disponivel,-23.945829327,-46.321753448
+1204,Sao Bento Do Sapucai,2017,1,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,30-34,-22.768578,-45.70578
+1205,Sao Bento Do Sapucai,2017,3,Feminino,Madrugada,Outros,Automovel,65-69,NAO DISPONIVEL,NAO DISPONIVEL 
+1206,Sao Bernardo Do Campo,2016,12,Masculino,Noite,Outros,Motocicleta,18-24,-23.724168,-46.55018
+1207,Sao Bernardo Do Campo,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,18-24,-23.666649,-46.576017
+1208,Sao Bernardo Do Campo,2016,12,Masculino,Madrugada,Choque,Motocicleta,25-29,-23.7770374729,-46.6014202777
+1209,Sao Bernardo Do Campo,2016,12,Feminino,ManhÃ£,ColisÃ£o,Bicicleta,35-39,-23.7495805473,-46.537721505
+1210,Sao Bernardo Do Campo,2016,12,Masculino,Noite,Atropelamento,Pedestre,35-39,-23.7171008563,-46.5642877303
+1211,Sao Bernardo Do Campo,2016,12,Feminino,Tarde,Choque,AutomÃ³vel,45-49,-23.7324074746,-46.6044713395
+1212,Sao Bernardo Do Campo,2016,12,Masculino,NÃ£o DisponÃ­vel,Outros,Motocicleta,45-49,-23.8967208799,-46.5062393588
+1213,Sao Bernardo Do Campo,2016,12,Masculino,Madrugada,ColisÃ£o,Onibus,70-74,-23.8485372018,-46.5750178465
+1214,Sao Bernardo Do Campo,2016,12,Feminino,Noite,Atropelamento,Pedestre,75-79,-23.705967,-46.526884
+1215,Sao Bernardo Do Campo,2016,12,Feminino,Madrugada,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.7842069732,-46.597649795
+1216,Sao Bernardo Do Campo,2017,1,Feminino,ManhÃ£,Choque,Motocicleta,0-17,-23.758642,-46.585029
+1217,Sao Bernardo Do Campo,2017,1,Feminino,Noite,ColisÃ£o,Motocicleta,18-24,-23.9057362103,-46.5594707295
+1218,Sao Bernardo Do Campo,2017,1,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,18-24,-23.71953,-46.536747
+1219,Sao Bernardo Do Campo,2017,1,Masculino,Madrugada,Choque,Motocicleta,25-29,-23.7768808476,-46.5282321952
+1220,Sao Bernardo Do Campo,2017,1,Masculino,Noite,ColisÃ£o,Motocicleta,25-29,-23.9057362103,-46.5594707295
+1221,Sao Bernardo Do Campo,2017,1,Masculino,Noite,Atropelamento,Pedestre,35-39,-23.7567709136,-46.565517952
+1222,Sao Bernardo Do Campo,2017,1,Masculino,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,40-44,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1223,Sao Bernardo Do Campo,2017,1,Masculino,Noite,ColisÃ£o,AutomÃ³vel,40-44,-23.761369465,-46.5737801998
+1224,Sao Bernardo Do Campo,2017,1,Masculino,Noite,ColisÃ£o,Motocicleta,40-44,-23.845543249,-46.576095095
+1225,Sao Bernardo Do Campo,2017,1,Masculino,ManhÃ£,NÃ£o DisponÃ­vel,Motocicleta,45-49,-23.70121785,-46.576910714
+1226,Sao Bernardo Do Campo,2017,1,Masculino,Noite,Outros,Motocicleta,60-64,-23.6947148264,-46.5634029952
+1227,Sao Bernardo Do Campo,2017,2,Masculino,Madrugada,Choque,Automovel,18-24,-23.745637,-46.5628
+1228,Sao Bernardo Do Campo,2017,2,Masculino,ManhÃ£,Choque,Automovel,18-24,-23.7113528669,-46.5641121035
+1229,Sao Bernardo Do Campo,2017,2,Masculino,Madrugada,Choque,Motocicleta,30-34,-23.803128914,-46.589508686
+1230,Sao Bernardo Do Campo,2017,2,Masculino,Tarde,Choque,Automovel,35-39,-23.820652303,-46.5074057166
+1231,Sao Bernardo Do Campo,2017,2,Masculino,ManhÃ£,Atropelamento,Pedestre,40-44,-23.7348254366,-46.5848073983
+1232,Sao Bernardo Do Campo,2017,2,Masculino,Madrugada,Atropelamento,Pedestre,55-59,-23.759982,-46.606264
+1233,Sao Bernardo Do Campo,2017,2,Feminino,Tarde,Atropelamento,Pedestre,80 Ou Mais,-23.785619,-46.531855
+1234,Sao Bernardo Do Campo,2017,3,Feminino,Tarde,Colisao,Automovel,18-24,-23.763320074,-46.5482583245
+1235,Sao Bernardo Do Campo,2017,3,Feminino,Manha,Colisao,Motocicleta,25-29,-23.7763538325,-46.4811086281
+1236,Sao Bernardo Do Campo,2017,3,Masculino,Tarde,Colisao,Automovel,25-29,-23.763320074,-46.5482583245
+1237,Sao Bernardo Do Campo,2017,3,Masculino,Manha,Colisao,Motocicleta,30-34,-23.7763538325,-46.4811086281
+1238,Sao Bernardo Do Campo,2017,3,Masculino,Manha,Colisao,Motocicleta,30-34,-23.7447185013,-46.561016069
+1239,Sao Bernardo Do Campo,2017,3,Feminino,Tarde,Atropelamento,Pedestre,80 Ou Mais,-23.691216,-46.557963
+1240,Sao Caetano Do Sul,2017,1,Masculino,Madrugada,Choque,Motocicleta,18-24,-23.633091,-46.580692
+1241,Sao Carlos,2016,12,Masculino,ManhÃ£,Choque,AutomÃ³vel,30-34,-22.0691331007,-47.84627091
+1242,Sao Carlos,2016,12,Masculino,ManhÃ£,ColisÃ£o,AutomÃ³vel,45-49,-22.0459414747,-47.7968449033
+1243,Sao Carlos,2016,12,Masculino,Madrugada,ColisÃ£o,Motocicleta,50-54,-22.034602,-47.872568
+1244,Sao Carlos,2016,12,Feminino,Tarde,ColisÃ£o,AutomÃ³vel,80 Ou Mais,-22.017803,-47.886702
+1245,Sao Carlos,2017,1,Masculino,Noite,NÃ£o DisponÃ­vel,Motocicleta,18-24,-22.045815,-47.891302
+1246,Sao Carlos,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,18-24,-22.061682,-47.902667
+1247,Sao Carlos,2017,1,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,40-44,-22.06681,-47.84775
+1248,Sao Joao Da Boa Vista,2017,2,Masculino,NÃ£o DisponÃ­vel,Nao Disponivel,Nao Disponivel,18-24,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1249,Sao Joao Da Boa Vista,2017,2,Masculino,Madrugada,Atropelamento,Pedestre,80 Ou Mais,-21.984498249,-46.7864082269
+1250,Sao Joao Da Boa Vista,2017,3,Masculino,Nao Disponivel,Nao Disponivel,Motocicleta,30-34,NAO DISPONIVEL,NAO DISPONIVEL 
+1251,Sao Joao Da Boa Vista,2017,3,Masculino,Noite,Atropelamento,Pedestre,30-34,-21.9775941609,-46.7737850573
+1252,Sao Joaquim Da Barra,2017,1,Feminino,Tarde,ColisÃ£o,Motocicleta,30-34,-20.588054,-47.869564
+1253,Sao Jose Do Barreiro,2016,12,Masculino,Tarde,NÃ£o Especificado,Outros,75-79,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1254,Sao Jose Do Rio Pardo,2017,1,Masculino,Noite,Atropelamento,Pedestre,80 Ou Mais,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1255,Sao Jose Do Rio Pardo,2017,2,Feminino,ManhÃ£,Colisao,Automovel,25-29,-21.5996629932,-46.9377213146
+1256,Sao Jose Do Rio Preto,2016,12,Feminino,Madrugada,ColisÃ£o,Motocicleta,25-29,-20.7027880106,-49.3392955362
+1257,Sao Jose Do Rio Preto,2016,12,Feminino,Noite,NÃ£o Especificado,NÃ£o Especificado,40-44,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1258,Sao Jose Do Rio Preto,2016,12,Feminino,Madrugada,Outros,Motocicleta,50-54,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1259,Sao Jose Do Rio Preto,2016,12,Masculino,Noite,Atropelamento,Pedestre,60-64,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1260,Sao Jose Do Rio Preto,2016,12,Masculino,Tarde,Atropelamento,Pedestre,60-64,-20.765539,-49.404174
+1261,Sao Jose Do Rio Preto,2016,12,Masculino,Noite,NÃ£o Especificado,Motocicleta,65-69,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1262,Sao Jose Do Rio Preto,2016,12,Feminino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,70-74,-20.798575,-49.368688
+1263,Sao Jose Do Rio Preto,2016,12,Feminino,ManhÃ£,Atropelamento,Pedestre,80 Ou Mais,-20.781785,-49.39848
+1264,Sao Jose Do Rio Preto,2017,1,Masculino,Noite,ColisÃ£o,Motocicleta,0-17,-20.775855,-49.409674
+1265,Sao Jose Do Rio Preto,2017,1,Masculino,Madrugada,Choque,Motocicleta,25-29,-20.77125,-49.367033
+1266,Sao Jose Do Rio Preto,2017,1,Feminino,ManhÃ£,NÃ£o DisponÃ­vel,Motocicleta,35-39,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1267,Sao Jose Do Rio Preto,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,35-39,-20.82346,-49.39347
+1268,Sao Jose Do Rio Preto,2017,1,Masculino,ManhÃ£,Outros,Motocicleta,45-49,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1269,Sao Jose Do Rio Preto,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,75-79,-20.814579,-49.378632
+1270,Sao Jose Do Rio Preto,2017,1,Feminino,Madrugada,Atropelamento,Pedestre,80 Ou Mais,-20.802592,-49.394155
+1271,Sao Jose Do Rio Preto,2017,1,Masculino,Noite,Atropelamento,Pedestre,80 Ou Mais,-20.806933,-49.38958
+1272,Sao Jose Do Rio Preto,2017,2,Masculino,Noite,Colisao,Automovel,18-24,-20.786110778,-49.3854945652
+1273,Sao Jose Do Rio Preto,2017,2,Masculino,Tarde,Outros,Automovel,18-24,-20.794695,-49.355236
+1274,Sao Jose Do Rio Preto,2017,2,Feminino,Madrugada,Outros,Motocicleta,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1275,Sao Jose Do Rio Preto,2017,2,Masculino,Tarde,Outros,Motocicleta,25-29,-20.789161,-49.389833
+1276,Sao Jose Do Rio Preto,2017,2,Masculino,Madrugada,Nao Disponivel,Nao Disponivel,30-34,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1277,Sao Jose Do Rio Preto,2017,2,Masculino,ManhÃ£,Colisao,Motocicleta,40-44,-20.785929,-49.373376
+1278,Sao Jose Do Rio Preto,2017,2,Masculino,Madrugada,Atropelamento,Pedestre,50-54,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1279,Sao Jose Do Rio Preto,2017,3,Masculino,Manha,Nao Disponivel,Nao Disponivel,0-17,NAO DISPONIVEL,NAO DISPONIVEL 
+1280,Sao Jose Do Rio Preto,2017,3,Masculino,Tarde,Choque,Motocicleta,18-24,-20.76545,-49.404483
+1281,Sao Jose Do Rio Preto,2017,3,Masculino,Madrugada,Nao Disponivel,Motocicleta,25-29,-20.748242,-49.407489
+1282,Sao Jose Do Rio Preto,2017,3,Feminino,Noite,Colisao,Motocicleta,35-39,-20.842797,-49.398819
+1283,Sao Jose Do Rio Preto,2017,3,Masculino,Nao Disponivel,Nao Disponivel,Motocicleta,35-39,-20.782005,-49.412284
+1284,Sao Jose Do Rio Preto,2017,3,Masculino,Noite,Nao Disponivel,Nao Disponivel,70-74,NAO DISPONIVEL,NAO DISPONIVEL 
+1285,Sao Jose Dos Campos,2016,12,Masculino,Madrugada,Choque,Motocicleta,25-29,-23.171935,-45.891148
+1286,Sao Jose Dos Campos,2016,12,Masculino,Noite,Choque,AutomÃ³vel,25-29,-23.258687,-45.922704
+1287,Sao Jose Dos Campos,2016,12,Feminino,ManhÃ£,ColisÃ£o,Motocicleta,35-39,-23.210252,-45.898969
+1288,Sao Jose Dos Campos,2016,12,Masculino,Madrugada,ColisÃ£o,Motocicleta,35-39,-23.2100992141,-45.8900838227
+1289,Sao Jose Dos Campos,2016,12,Masculino,Tarde,Atropelamento,Pedestre,35-39,-23.1528359268,-45.7868140106
+1290,Sao Jose Dos Campos,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,55-59,-23.234574,-45.915326
+1291,Sao Jose Dos Campos,2016,12,Masculino,Noite,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.173492,-45.812496
+1292,Sao Jose Dos Campos,2017,1,Masculino,Noite,Choque,Motocicleta,25-29,-23.173701,-45.829414
+1293,Sao Jose Dos Campos,2017,1,Feminino,Noite,ColisÃ£o,AutomÃ³vel,30-34,-23.1877786299,-45.8573372134
+1294,Sao Jose Dos Campos,2017,1,Feminino,Noite,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,30-34,-23.1877786299,-45.8573372134
+1295,Sao Jose Dos Campos,2017,1,Masculino,Noite,Atropelamento,Pedestre,45-49,-23.161651,-45.804399
+1296,Sao Jose Dos Campos,2017,1,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,50-54,-23.2571809087,-45.8012979397
+1297,Sao Jose Dos Campos,2017,1,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,65-69,-23.0870482214,-45.9221124509
+1298,Sao Jose Dos Campos,2017,1,Masculino,ManhÃ£,Outros,AutomÃ³vel,65-69,-23.1130304633,-45.9164284564
+1299,Sao Jose Dos Campos,2017,1,Feminino,ManhÃ£,Atropelamento,Pedestre,75-79,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1300,Sao Jose Dos Campos,2017,1,Feminino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,80 Ou Mais,-23.196218,-45.883174
+1301,Sao Jose Dos Campos,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,80 Ou Mais,-23.181107,-45.8662
+1302,Sao Jose Dos Campos,2017,1,Masculino,Tarde,Atropelamento,Pedestre,80 Ou Mais,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1303,Sao Jose Dos Campos,2017,1,NÃ£o DisponÃ­vel,Madrugada,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.1794496584,-45.8394663945
+1304,Sao Jose Dos Campos,2017,2,Masculino,Tarde,Colisao,Automovel,35-39,-23.2571809087,-45.8012979397
+1305,Sao Jose Dos Campos,2017,2,Masculino,ManhÃ£,Colisao,Motocicleta,50-54,-23.1967527052,-45.8861703943
+1306,Sao Jose Dos Campos,2017,2,Masculino,ManhÃ£,Atropelamento,Pedestre,65-69,-23.174901,-45.830739
+1307,Sao Jose Dos Campos,2017,2,Masculino,ManhÃ£,Outros,Automovel,65-69,-23.2690502898,-45.8259411928
+1308,Sao Jose Dos Campos,2017,3,Masculino,Madrugada,Outros,Motocicleta,35-39,-23.1706753531,-45.8218567506
+1309,Sao Jose Dos Campos,2017,3,Masculino,Noite,Colisao,Motocicleta,35-39,-23.159399,-45.964897
+1310,Sao Lourenco Da Serra,2017,2,Masculino,Madrugada,Atropelamento,Pedestre,60-64,-23.8475079768,-46.9377246289
+1311,Sao Lourenco Da Serra,2017,3,Feminino,Tarde,Choque,Automovel,18-24,-23.8772366856,-46.9677476261
+1312,Sao Luis Do Paraitinga,2017,3,Masculino,Noite,Colisao,Automovel,80 Ou Mais,-23.2048233073,-45.3486972917
+1313,Sao Manuel,2017,1,Masculino,Tarde,Atropelamento,Pedestre,0-17,-22.74583935,-48.590384751
+1314,Sao Manuel,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,18-24,-22.744205,-48.573543
+1315,Sao Manuel,2017,1,Masculino,Tarde,Atropelamento,Pedestre,55-59,-22.74583935,-48.590384751
+1316,Sao Manuel,2017,3,Feminino,Tarde,Colisao,Motocicleta,55-59,-22.728567,-48.578604
+1317,Sao Miguel Arcanjo,2016,12,Masculino,Madrugada,Outros,AutomÃ³vel,35-39,-23.772618,-48.124486
+1318,Sao Miguel Arcanjo,2016,12,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,40-44,-23.990753586,-48.0159425598
+1319,Sao Miguel Arcanjo,2017,3,Masculino,Noite,Outros,Automovel,30-34,-23.8790692146,-48.0533614229
+1320,Sao Paulo,2016,12,Feminino,Madrugada,Atropelamento,Pedestre,0-17,-23.677197,-46.759689
+1321,Sao Paulo,2016,12,Feminino,Noite,Atropelamento,Pedestre,0-17,-23.536004,-46.444869
+1322,Sao Paulo,2016,12,Feminino,Noite,Atropelamento,Pedestre,0-17,-23.604176,-46.642862
+1323,Sao Paulo,2016,12,Masculino,NÃ£o DisponÃ­vel,ColisÃ£o,AutomÃ³vel,0-17,-23.51405,-46.376049
+1324,Sao Paulo,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,0-17,-23.447332,-46.581644
+1325,Sao Paulo,2016,12,Masculino,Tarde,Choque,Bicicleta,0-17,-23.758333,-46.677422
+1326,Sao Paulo,2016,12,Masculino,Tarde,Outros,Motocicleta,0-17,-23.573234,-46.402395
+1327,Sao Paulo,2016,12,Feminino,Madrugada,ColisÃ£o,Motocicleta,18-24,-23.481529,-46.593495
+1328,Sao Paulo,2016,12,Masculino,Madrugada,ColisÃ£o,Motocicleta,18-24,-23.70247,-46.645085
+1329,Sao Paulo,2016,12,Masculino,Madrugada,ColisÃ£o,Motocicleta,18-24,-23.70247,-46.645085
+1330,Sao Paulo,2016,12,Masculino,ManhÃ£,Choque,Motocicleta,18-24,-23.440753,-46.587868
+1331,Sao Paulo,2016,12,Masculino,ManhÃ£,NÃ£o Especificado,Motocicleta,18-24,-23.540385,-46.440281
+1332,Sao Paulo,2016,12,Masculino,ManhÃ£,NÃ£o Especificado,Motocicleta,18-24,-23.675204,-46.661258
+1333,Sao Paulo,2016,12,Masculino,NÃ£o DisponÃ­vel,ColisÃ£o,AutomÃ³vel,18-24,-23.514052,-46.376046
+1334,Sao Paulo,2016,12,Masculino,Noite,Atropelamento,Motocicleta,18-24,-23.512914,-46.468745
+1335,Sao Paulo,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,18-24,-23.831156,-46.722301
+1336,Sao Paulo,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,18-24,-23.49714,-46.467997
+1337,Sao Paulo,2016,12,Masculino,Tarde,Choque,Motocicleta,18-24,-23.506913,-46.715937
+1338,Sao Paulo,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,18-24,-23.523694,-46.63164
+1339,Sao Paulo,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,18-24,-23.598063,-46.732834
+1340,Sao Paulo,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,18-24,-23.405311,-46.738085
+1341,Sao Paulo,2016,12,Masculino,Tarde,Outros,Motocicleta,18-24,-23.636258,-46.618885
+1342,Sao Paulo,2016,12,Feminino,Noite,Choque,AutomÃ³vel,25-29,-23.577783,-46.500686
+1343,Sao Paulo,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1344,Sao Paulo,2016,12,Masculino,Madrugada,Outros,Motocicleta,25-29,-23.583325,-46.616497
+1345,Sao Paulo,2016,12,Masculino,ManhÃ£,Atropelamento,Pedestre,25-29,-23.618247,-46.730188
+1346,Sao Paulo,2016,12,Masculino,ManhÃ£,Choque,AutomÃ³vel,25-29,-23.54203,-46.534161
+1347,Sao Paulo,2016,12,Masculino,ManhÃ£,Choque,Bicicleta,25-29,-23.479647,-46.686054
+1348,Sao Paulo,2016,12,Masculino,NÃ£o DisponÃ­vel,ColisÃ£o,AutomÃ³vel,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1349,Sao Paulo,2016,12,Masculino,NÃ£o DisponÃ­vel,ColisÃ£o,AutomÃ³vel,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1350,Sao Paulo,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,25-29,-23.690397,-46.759219
+1351,Sao Paulo,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,25-29,-23.4312191717,-46.5677719611
+1352,Sao Paulo,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,25-29,-23.779125,-46.684297
+1353,Sao Paulo,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,25-29,-23.551888,-46.722467
+1354,Sao Paulo,2016,12,Masculino,Tarde,NÃ£o Especificado,Motocicleta,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1355,Sao Paulo,2016,12,Masculino,Madrugada,Choque,Motocicleta,30-34,-23.630937,-46.621861
+1356,Sao Paulo,2016,12,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,30-34,-23.696304,-46.668563
+1357,Sao Paulo,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,30-34,-23.481476,-46.682846
+1358,Sao Paulo,2016,12,Feminino,Noite,Atropelamento,Pedestre,35-39,-23.604176,-46.642862
+1359,Sao Paulo,2016,12,Feminino,Noite,Atropelamento,Pedestre,35-39,-23.5831868083,-46.7750740781
+1360,Sao Paulo,2016,12,Feminino,Tarde,Atropelamento,Pedestre,35-39,-23.5850222913,-46.7422669699
+1361,Sao Paulo,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,35-39,-23.649283,-46.676679
+1362,Sao Paulo,2016,12,Masculino,Madrugada,Choque,AutomÃ³vel,35-39,-23.574881,-46.729895
+1363,Sao Paulo,2016,12,Masculino,Madrugada,ColisÃ£o,Motocicleta,35-39,-23.622247,-46.760553
+1364,Sao Paulo,2016,12,Masculino,Madrugada,ColisÃ£o,Motocicleta,35-39,-23.488305,-46.434576
+1365,Sao Paulo,2016,12,Masculino,ManhÃ£,Choque,Motocicleta,35-39,-23.589856,-46.588464
+1366,Sao Paulo,2016,12,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,35-39,-23.542904,-46.48162
+1367,Sao Paulo,2016,12,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,35-39,-23.4842104592,-46.7700576238
+1368,Sao Paulo,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,35-39,-23.578311,-46.499818
+1369,Sao Paulo,2016,12,NÃ£o DisponÃ­vel,Tarde,Outros,Motocicleta,35-39,-23.492179,-46.452851
+1370,Sao Paulo,2016,12,Feminino,Madrugada,Choque,Motocicleta,40-44,-23.675279,-46.755939
+1371,Sao Paulo,2016,12,Masculino,Madrugada,NÃ£o Especificado,NÃ£o Especificado,40-44,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1372,Sao Paulo,2016,12,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,40-44,-23.770095,-46.724937
+1373,Sao Paulo,2016,12,Masculino,Tarde,Choque,Motocicleta,40-44,-23.726053,-46.78909
+1374,Sao Paulo,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,40-44,-23.642287,-46.448496
+1375,Sao Paulo,2016,12,Feminino,Noite,Atropelamento,Pedestre,45-49,-23.536254,-46.582823
+1376,Sao Paulo,2016,12,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,45-49,-23.448863,-46.70202
+1377,Sao Paulo,2016,12,Masculino,ManhÃ£,Outros,Motocicleta,45-49,-23.452110175,-46.7866594176
+1378,Sao Paulo,2016,12,Masculino,Noite,Atropelamento,Pedestre,45-49,-23.679979,-46.776577
+1379,Sao Paulo,2016,12,Masculino,Noite,Atropelamento,Pedestre,45-49,-23.418526807,-46.5792768098
+1380,Sao Paulo,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,45-49,-23.826884,-46.729567
+1381,Sao Paulo,2016,12,Masculino,Noite,Outros,AutomÃ³vel,45-49,-23.544389,-46.469078
+1382,Sao Paulo,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,45-49,-23.645981,-46.752814
+1383,Sao Paulo,2016,12,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,50-54,-23.538019,-46.486573
+1384,Sao Paulo,2016,12,Masculino,Noite,Atropelamento,Pedestre,50-54,-23.736671,-46.693915
+1385,Sao Paulo,2016,12,Masculino,Noite,Choque,AutomÃ³vel,50-54,-23.4783203072,-46.5599929826
+1386,Sao Paulo,2016,12,Masculino,Noite,NÃ£o Especificado,NÃ£o Especificado,50-54,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1387,Sao Paulo,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,55-59,-23.47592,-46.645354
+1388,Sao Paulo,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,55-59,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1389,Sao Paulo,2016,12,Masculino,ManhÃ£,Atropelamento,Pedestre,55-59,-23.739642,-46.688439
+1390,Sao Paulo,2016,12,Masculino,ManhÃ£,Choque,AutomÃ³vel,60-64,-23.550293,-46.510132
+1391,Sao Paulo,2016,12,Feminino,ManhÃ£,Atropelamento,Pedestre,65-69,-23.628458,-46.769933
+1392,Sao Paulo,2016,12,Masculino,Noite,Atropelamento,Pedestre,65-69,-23.676677,-46.643364
+1393,Sao Paulo,2016,12,Masculino,Noite,Atropelamento,Pedestre,70-74,-23.548752,-46.732602
+1394,Sao Paulo,2016,12,Masculino,Noite,Atropelamento,Pedestre,70-74,-23.524811,-46.628955
+1395,Sao Paulo,2016,12,Masculino,Tarde,Atropelamento,Pedestre,70-74,-23.549927283,-46.631977458
+1396,Sao Paulo,2016,12,Masculino,Tarde,ColisÃ£o,Pedestre,70-74,-23.542266,-46.5771
+1397,Sao Paulo,2016,12,Feminino,Noite,Atropelamento,Pedestre,75-79,-23.45746,-46.681929
+1398,Sao Paulo,2016,12,Masculino,Tarde,Atropelamento,Pedestre,75-79,-23.610078,-46.474511
+1399,Sao Paulo,2016,12,Feminino,ManhÃ£,Atropelamento,Pedestre,80 Ou Mais,-23.521012,-46.586659
+1400,Sao Paulo,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,80 Ou Mais,-23.673142,-46.643737
+1401,Sao Paulo,2016,12,Masculino,Tarde,Atropelamento,Pedestre,80 Ou Mais,-23.542088,-46.425274
+1402,Sao Paulo,2016,12,Feminino,Noite,ColisÃ£o,Motocicleta,NÃ£o DisponÃ­vel,-23.592966,-46.692368
+1403,Sao Paulo,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1404,Sao Paulo,2016,12,Masculino,ManhÃ£,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.513856,-46.57678
+1405,Sao Paulo,2016,12,Masculino,Noite,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.61039,-46.697861
+1406,Sao Paulo,2017,1,Masculino,Madrugada,ColisÃ£o,Motocicleta,0-17,-23.686706,-46.790011
+1407,Sao Paulo,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,0-17,-23.621696,-46.733569
+1408,Sao Paulo,2017,1,Masculino,NÃ£o DisponÃ­vel,Choque,Motocicleta,0-17,-23.50631,-46.376659
+1409,Sao Paulo,2017,1,Masculino,Noite,Atropelamento,Pedestre,0-17,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1410,Sao Paulo,2017,1,Masculino,Noite,ColisÃ£o,Motocicleta,0-17,-23.740218,-46.664499
+1411,Sao Paulo,2017,1,Masculino,Noite,ColisÃ£o,Motocicleta,0-17,-23.499852486,-46.754524112
+1412,Sao Paulo,2017,1,Masculino,Noite,Outros,Motocicleta,0-17,-23.482217,-46.665609
+1413,Sao Paulo,2017,1,Feminino,ManhÃ£,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,18-24,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1414,Sao Paulo,2017,1,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,18-24,-23.628069,-46.590867
+1415,Sao Paulo,2017,1,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,18-24,-23.506332,-46.46834
+1416,Sao Paulo,2017,1,Masculino,Noite,Choque,Motocicleta,18-24,-23.678253,-46.639493
+1417,Sao Paulo,2017,1,Masculino,Noite,ColisÃ£o,Motocicleta,18-24,-23.535077,-46.428448
+1418,Sao Paulo,2017,1,Masculino,Madrugada,Choque,Motocicleta,25-29,-23.76396,-46.707593
+1419,Sao Paulo,2017,1,Masculino,Madrugada,ColisÃ£o,Motocicleta,25-29,-23.684116,-46.714521
+1420,Sao Paulo,2017,1,Masculino,Madrugada,ColisÃ£o,Motocicleta,25-29,-23.418526807,-46.5792768098
+1421,Sao Paulo,2017,1,Masculino,Madrugada,NÃ£o DisponÃ­vel,Motocicleta,25-29,-23.647981,-46.65279
+1422,Sao Paulo,2017,1,Masculino,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,Motocicleta,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1423,Sao Paulo,2017,1,Masculino,Noite,Atropelamento,Pedestre,25-29,-23.571463,-46.537242
+1424,Sao Paulo,2017,1,Masculino,Noite,ColisÃ£o,Motocicleta,25-29,-23.671531,-46.779853
+1425,Sao Paulo,2017,1,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,30-34,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1426,Sao Paulo,2017,1,Masculino,Noite,Choque,Motocicleta,30-34,-23.51984,-46.63673
+1427,Sao Paulo,2017,1,Feminino,Noite,Atropelamento,Pedestre,35-39,-23.502909,-46.51206
+1428,Sao Paulo,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,35-39,-23.6467276521,-46.7471654038
+1429,Sao Paulo,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,35-39,-23.4449806827,-46.7784567147
+1430,Sao Paulo,2017,1,Feminino,Noite,Atropelamento,Pedestre,40-44,-23.550133,-46.573292
+1431,Sao Paulo,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,40-44,-23.48096,-46.628939
+1432,Sao Paulo,2017,1,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,40-44,-23.507052,-46.749681
+1433,Sao Paulo,2017,1,Masculino,Madrugada,ColisÃ£o,Onibus,40-44,-23.58665,-46.72428
+1434,Sao Paulo,2017,1,Masculino,NÃ£o DisponÃ­vel,Outros,Bicicleta,40-44,-23.533468,-46.539274
+1435,Sao Paulo,2017,1,Masculino,Noite,Choque,Bicicleta,40-44,-23.658459,-46.652325
+1436,Sao Paulo,2017,1,Masculino,Noite,Outros,AutomÃ³vel,40-44,-23.526524,-46.5537
+1437,Sao Paulo,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,45-49,-23.594169,-46.423102
+1438,Sao Paulo,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,45-49,-23.619317,-46.506746
+1439,Sao Paulo,2017,1,Masculino,Madrugada,ColisÃ£o,CaminhÃ£o,45-49,-23.3938754238,-46.7683314433
+1440,Sao Paulo,2017,1,Masculino,Madrugada,NÃ£o DisponÃ­vel,Motocicleta,45-49,-23.5853372166,-46.7643269193
+1441,Sao Paulo,2017,1,Masculino,ManhÃ£,Outros,Bicicleta,45-49,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1442,Sao Paulo,2017,1,Masculino,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,45-49,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1443,Sao Paulo,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,45-49,-23.4449806827,-46.7784567147
+1444,Sao Paulo,2017,1,Masculino,ManhÃ£,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,50-54,-23.439279693,-46.7693630968
+1445,Sao Paulo,2017,1,Masculino,Noite,Atropelamento,Pedestre,50-54,-23.599284,-46.514067
+1446,Sao Paulo,2017,1,Masculino,Noite,NÃ£o DisponÃ­vel,Motocicleta,50-54,-23.587635,-46.59119
+1447,Sao Paulo,2017,1,Feminino,ManhÃ£,Choque,Motocicleta,55-59,-23.48922,-46.413201
+1448,Sao Paulo,2017,1,Feminino,Tarde,Atropelamento,Pedestre,55-59,-23.486323,-46.69279
+1449,Sao Paulo,2017,1,Feminino,Tarde,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,55-59,-23.66625,-46.656269
+1450,Sao Paulo,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,55-59,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1451,Sao Paulo,2017,1,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,55-59,-23.506326,-46.4885
+1452,Sao Paulo,2017,1,Feminino,ManhÃ£,Atropelamento,Pedestre,60-64,-23.648039,-46.779052
+1453,Sao Paulo,2017,1,Feminino,ManhÃ£,Atropelamento,Pedestre,60-64,-23.604104,-46.397218
+1454,Sao Paulo,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,60-64,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1455,Sao Paulo,2017,1,Feminino,ManhÃ£,Atropelamento,Pedestre,65-69,-23.606559,-46.502522
+1456,Sao Paulo,2017,1,Feminino,Tarde,Choque,AutomÃ³vel,65-69,-23.675116,-46.666088
+1457,Sao Paulo,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,65-69,-23.546006,-46.735083
+1458,Sao Paulo,2017,1,Feminino,ManhÃ£,Atropelamento,Pedestre,70-74,-23.64516,-46.714926
+1459,Sao Paulo,2017,1,Feminino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,70-74,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1460,Sao Paulo,2017,1,Feminino,Tarde,Atropelamento,Pedestre,75-79,-23.439278,-46.572134
+1461,Sao Paulo,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,80 Ou Mais,-23.651375,-46.790841
+1462,Sao Paulo,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.438764,-46.721538
+1463,Sao Paulo,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.621703,-46.733574
+1464,Sao Paulo,2017,1,Masculino,Noite,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.536608,-46.729293
+1465,Sao Paulo,2017,1,Masculino,Noite,ColisÃ£o,AutomÃ³vel,NÃ£o DisponÃ­vel,-23.619304,-46.723279
+1466,Sao Paulo,2017,2,Feminino,Madrugada,Colisao,Automovel,0-17,-23.601387,-46.526152
+1467,Sao Paulo,2017,2,Masculino,Madrugada,Colisao,Automovel,0-17,-23.601387,-46.526152
+1468,Sao Paulo,2017,2,Masculino,Madrugada,Outros,Motocicleta,0-17,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1469,Sao Paulo,2017,2,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,0-17,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1470,Sao Paulo,2017,2,Masculino,Noite,Choque,Motocicleta,0-17,-23.667451,-46.761914
+1471,Sao Paulo,2017,2,Masculino,Noite,Colisao,Motocicleta,0-17,-23.4942522822,-46.4645321086
+1472,Sao Paulo,2017,2,Masculino,Tarde,Nao Disponivel,Motocicleta,0-17,-23.441821,-46.707397
+1473,Sao Paulo,2017,2,Masculino,Madrugada,Atropelamento,Pedestre,18-24,-23.6145193105,-46.501838772
+1474,Sao Paulo,2017,2,Masculino,Madrugada,Choque,Automovel,18-24,-23.4576861402,-46.571258847
+1475,Sao Paulo,2017,2,Masculino,Madrugada,Choque,Motocicleta,18-24,-23.6325955473,-46.7393032165
+1476,Sao Paulo,2017,2,Masculino,Madrugada,Colisao,Motocicleta,18-24,-23.626269,-46.619149
+1477,Sao Paulo,2017,2,Masculino,ManhÃ£,Choque,Motocicleta,18-24,-23.513219,-46.443761
+1478,Sao Paulo,2017,2,Masculino,ManhÃ£,Colisao,Motocicleta,18-24,-23.6881805472,-46.6445874682
+1479,Sao Paulo,2017,2,Masculino,Tarde,Colisao,Motocicleta,18-24,-23.7104037733,-46.6599865835
+1480,Sao Paulo,2017,2,Feminino,ManhÃ£,Choque,Automovel,25-29,-23.569479,-46.71604
+1481,Sao Paulo,2017,2,Feminino,NÃ£o DisponÃ­vel,Nao Disponivel,Nao Disponivel,25-29,-23.5732490052,-46.71228591
+1482,Sao Paulo,2017,2,Masculino,ManhÃ£,Nao Disponivel,Bicicleta,25-29,-23.631441,-46.748821
+1483,Sao Paulo,2017,2,Masculino,Noite,Choque,Automovel,25-29,-23.674238,-46.788006
+1484,Sao Paulo,2017,2,Masculino,Noite,Colisao,Motocicleta,25-29,-23.638993,-46.779796
+1485,Sao Paulo,2017,2,Masculino,Tarde,Colisao,Motocicleta,25-29,-23.708089,-46.627093
+1486,Sao Paulo,2017,2,Feminino,ManhÃ£,Outros,Automovel,30-34,-23.499749,-46.536467
+1487,Sao Paulo,2017,2,Masculino,Noite,Atropelamento,Pedestre,30-34,-23.5812563826,-46.5719439175
+1488,Sao Paulo,2017,2,Masculino,Noite,Colisao,Bicicleta,30-34,-23.6191450967,-46.4939381127
+1489,Sao Paulo,2017,2,Masculino,Noite,Outros,Motocicleta,30-34,-23.612292,-46.607306
+1490,Sao Paulo,2017,2,Masculino,Tarde,Atropelamento,Pedestre,30-34,-23.5537446031,-46.6457318084
+1491,Sao Paulo,2017,2,Masculino,Tarde,Choque,Motocicleta,30-34,-23.4998221629,-46.5279710569
+1492,Sao Paulo,2017,2,Masculino,Tarde,Choque,Nao Disponivel,30-34,-23.652028,-46.725004
+1493,Sao Paulo,2017,2,Feminino,ManhÃ£,Outros,Automovel,35-39,-23.499749,-46.536467
+1494,Sao Paulo,2017,2,Feminino,Noite,Atropelamento,Pedestre,35-39,-23.6777740491,-46.6829804996
+1495,Sao Paulo,2017,2,Masculino,Madrugada,Atropelamento,Pedestre,35-39,-23.628879113,-46.641378488
+1496,Sao Paulo,2017,2,Masculino,Noite,Atropelamento,Pedestre,35-39,-23.4493240764,-46.5695177789
+1497,Sao Paulo,2017,2,Masculino,Noite,Outros,Motocicleta,35-39,-23.4881551791,-46.507881389
+1498,Sao Paulo,2017,2,Feminino,Madrugada,Atropelamento,Pedestre,40-44,-23.6521443419,-46.7055172863
+1499,Sao Paulo,2017,2,Masculino,Madrugada,Choque,Automovel,40-44,-23.5013268027,-46.382908601
+1500,Sao Paulo,2017,2,Masculino,Noite,Atropelamento,Pedestre,40-44,-23.5225266257,-46.4948081887
+1501,Sao Paulo,2017,2,Feminino,ManhÃ£,Colisao,Motocicleta,45-49,-23.7413319165,-46.7058965489
+1502,Sao Paulo,2017,2,Masculino,Madrugada,Colisao,Motocicleta,45-49,-23.481476,-46.716301
+1503,Sao Paulo,2017,2,Masculino,ManhÃ£,Atropelamento,Pedestre,45-49,-23.584988,-46.742269
+1504,Sao Paulo,2017,2,Masculino,Noite,Atropelamento,Pedestre,45-49,-23.604579,-46.508969
+1505,Sao Paulo,2017,2,Masculino,Noite,Atropelamento,Pedestre,45-49,-23.444332,-46.707669
+1506,Sao Paulo,2017,2,Masculino,Noite,Colisao,Motocicleta,45-49,-23.592978,-46.406695
+1507,Sao Paulo,2017,2,Masculino,Madrugada,Colisao,Motocicleta,50-54,-23.551021,-46.724294
+1508,Sao Paulo,2017,2,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,50-54,-23.494136,-46.415527
+1509,Sao Paulo,2017,2,Masculino,Noite,Atropelamento,Pedestre,50-54,-23.6064511325,-46.5937069059
+1510,Sao Paulo,2017,2,Masculino,Tarde,Atropelamento,Pedestre,50-54,-23.4500051039,-46.7105503418
+1511,Sao Paulo,2017,2,Masculino,Tarde,Atropelamento,Pedestre,50-54,-23.6897229766,-46.6457820569
+1512,Sao Paulo,2017,2,Masculino,Madrugada,Choque,Motocicleta,55-59,-23.5951415947,-46.4394618119
+1513,Sao Paulo,2017,2,Masculino,Tarde,Colisao,Motocicleta,55-59,-23.541013947,-46.6027299359
+1514,Sao Paulo,2017,2,Feminino,ManhÃ£,Atropelamento,Pedestre,60-64,-23.612032,-46.463733
+1515,Sao Paulo,2017,2,Feminino,Tarde,Atropelamento,Pedestre,60-64,-23.51754,-46.680907
+1516,Sao Paulo,2017,2,Masculino,ManhÃ£,Atropelamento,Pedestre,60-64,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1517,Sao Paulo,2017,2,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,60-64,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1518,Sao Paulo,2017,2,Feminino,Noite,Atropelamento,Pedestre,65-69,-23.4022876213,-46.7479275507
+1519,Sao Paulo,2017,2,Masculino,ManhÃ£,Atropelamento,Pedestre,65-69,-23.543439244,-46.635822628
+1520,Sao Paulo,2017,2,Masculino,NÃ£o DisponÃ­vel,Outros,Pedestre,65-69,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1521,Sao Paulo,2017,2,Masculino,Noite,Atropelamento,Pedestre,65-69,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1522,Sao Paulo,2017,2,Masculino,Noite,Atropelamento,Pedestre,65-69,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1523,Sao Paulo,2017,2,Masculino,Tarde,Atropelamento,Pedestre,65-69,-23.5054067962,-46.521686585
+1524,Sao Paulo,2017,2,Feminino,Madrugada,Choque,Automovel,70-74,-23.650622,-46.760358
+1525,Sao Paulo,2017,2,Feminino,Noite,Atropelamento,Pedestre,70-74,-23.517912,-46.455929
+1526,Sao Paulo,2017,2,Masculino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,70-74,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1527,Sao Paulo,2017,2,Feminino,Tarde,Atropelamento,Pedestre,75-79,-23.5918262115,-46.5019300212
+1528,Sao Paulo,2017,2,Masculino,ManhÃ£,Atropelamento,Pedestre,75-79,-23.551173,-46.43657
+1529,Sao Paulo,2017,2,Feminino,ManhÃ£,Atropelamento,Pedestre,80 Ou Mais,-23.6388348452,-46.7616129951
+1530,Sao Paulo,2017,2,Feminino,ManhÃ£,Atropelamento,Pedestre,80 Ou Mais,-23.469625,-46.686266
+1531,Sao Paulo,2017,2,Feminino,Tarde,Atropelamento,Pedestre,80 Ou Mais,-23.575589087,-46.641198955
+1532,Sao Paulo,2017,2,Masculino,ManhÃ£,Atropelamento,Pedestre,80 Ou Mais,-23.552587,-46.503713
+1533,Sao Paulo,2017,2,Masculino,Noite,Atropelamento,Pedestre,80 Ou Mais,-23.5407207064,-46.6044030605
+1534,Sao Paulo,2017,2,Masculino,Tarde,Choque,Automovel,80 Ou Mais,-23.5815785929,-46.644166788
+1535,Sao Paulo,2017,2,Feminino,ManhÃ£,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.4576861402,-46.571258847
+1536,Sao Paulo,2017,2,Masculino,Madrugada,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.5605477521,-46.6434380857
+1537,Sao Paulo,2017,2,Masculino,Madrugada,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.5391624242,-46.470208718
+1538,Sao Paulo,2017,2,Masculino,Madrugada,Colisao,Motocicleta,NÃ£o DisponÃ­vel,-23.490814,-46.574442
+1539,Sao Paulo,2017,2,Masculino,Noite,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.56052,-46.567616
+1540,Sao Paulo,2017,3,Masculino,Madrugada,Choque,Motocicleta,0-17,-23.7547801919,-46.6748607904
+1541,Sao Paulo,2017,3,Masculino,Madrugada,Colisao,Motocicleta,0-17,-23.6455401199,-46.6590423209
+1542,Sao Paulo,2017,3,Masculino,Manha,Colisao,Onibus,0-17,-23.746099,-46.664076
+1543,Sao Paulo,2017,3,Masculino,Manha,Colisao,Onibus,0-17,-23.746099,-46.664076
+1544,Sao Paulo,2017,3,Masculino,Noite,Atropelamento,Pedestre,0-17,-23.752724,-46.697034
+1545,Sao Paulo,2017,3,Feminino,Noite,Choque,Automovel,18-24,-23.600021,-46.676989
+1546,Sao Paulo,2017,3,Feminino,Tarde,Atropelamento,Pedestre,18-24,-23.555352,-46.626816
+1547,Sao Paulo,2017,3,Feminino,Tarde,Atropelamento,Pedestre,18-24,-23.606679,-46.665275
+1548,Sao Paulo,2017,3,Masculino,Madrugada,Choque,Motocicleta,18-24,NAO DISPONIVEL,NAO DISPONIVEL 
+1549,Sao Paulo,2017,3,Masculino,Madrugada,Outros,Motocicleta,18-24,NAO DISPONIVEL,NAO DISPONIVEL 
+1550,Sao Paulo,2017,3,Masculino,Manha,Colisao,Onibus,18-24,-23.746099,-46.664076
+1551,Sao Paulo,2017,3,Masculino,Manha,Colisao,Onibus,18-24,-23.746099,-46.664076
+1552,Sao Paulo,2017,3,Masculino,Manha,Outros,Motocicleta,18-24,-23.691194,-46.787717
+1553,Sao Paulo,2017,3,Masculino,Manha,Outros,Motocicleta,18-24,-23.508060538,-46.70604897
+1554,Sao Paulo,2017,3,Masculino,Noite,Choque,Motocicleta,18-24,-23.523919,-46.457235
+1555,Sao Paulo,2017,3,Masculino,Noite,Choque,Motocicleta,18-24,-23.467731,-46.694984
+1556,Sao Paulo,2017,3,Masculino,Noite,Colisao,Motocicleta,18-24,-23.523712052,-46.606388286
+1557,Sao Paulo,2017,3,Masculino,Noite,Colisao,Motocicleta,18-24,-23.629573,-46.618442
+1558,Sao Paulo,2017,3,Masculino,Noite,Colisao,Motocicleta,18-24,-23.58181,-46.518686
+1559,Sao Paulo,2017,3,Masculino,Noite,Colisao,Motocicleta,18-24,-23.801514,-46.627923
+1560,Sao Paulo,2017,3,Masculino,Noite,Outros,Motocicleta,18-24,-23.739373,-46.666922
+1561,Sao Paulo,2017,3,Masculino,Tarde,Colisao,Motocicleta,18-24,-23.572168,-46.403112
+1562,Sao Paulo,2017,3,Masculino,Madrugada,Colisao,Automovel,25-29,-23.532302,-46.551341
+1563,Sao Paulo,2017,3,Masculino,Madrugada,Colisao,Motocicleta,25-29,-23.651372,-46.669589
+1564,Sao Paulo,2017,3,Masculino,Manha,Outros,Motocicleta,25-29,-23.578831,-46.646933
+1565,Sao Paulo,2017,3,Masculino,Noite,Atropelamento,Pedestre,25-29,-23.496471,-46.442089
+1566,Sao Paulo,2017,3,Masculino,Noite,Colisao,Motocicleta,25-29,-23.685791,-46.71464
+1567,Sao Paulo,2017,3,Masculino,Noite,Colisao,Motocicleta,25-29,-23.550610754,-46.725099777
+1568,Sao Paulo,2017,3,Masculino,Madrugada,Colisao,Bicicleta,30-34,NAO DISPONIVEL,NAO DISPONIVEL 
+1569,Sao Paulo,2017,3,Masculino,Noite,Atropelamento,Pedestre,30-34,-23.590394,-46.736615
+1570,Sao Paulo,2017,3,Masculino,Noite,Colisao,Bicicleta,30-34,-23.517648,-46.584939
+1571,Sao Paulo,2017,3,Masculino,Madrugada,Atropelamento,Pedestre,35-39,-23.541745,-46.415893
+1572,Sao Paulo,2017,3,Masculino,Manha,Choque,Motocicleta,35-39,-23.59415,-46.742965
+1573,Sao Paulo,2017,3,Masculino,Manha,Colisao,Motocicleta,35-39,-23.497988,-46.46235
+1574,Sao Paulo,2017,3,Masculino,Manha,Colisao,Motocicleta,35-39,-23.611907,-46.723931
+1575,Sao Paulo,2017,3,Masculino,Nao Disponivel,Choque,Automovel,35-39,-23.6533347617,-46.7775193826
+1576,Sao Paulo,2017,3,Masculino,Noite,Nao Disponivel,Motocicleta,35-39,NAO DISPONIVEL,NAO DISPONIVEL 
+1577,Sao Paulo,2017,3,Masculino,Madrugada,Colisao,Automovel,40-44,-23.535080667,-46.548264075
+1578,Sao Paulo,2017,3,Masculino,Madrugada,Colisao,Bicicleta,40-44,-23.4783203072,-46.5599929826
+1579,Sao Paulo,2017,3,Masculino,Manha,Nao Disponivel,Motocicleta,40-44,-23.583818,-46.716203
+1580,Sao Paulo,2017,3,Masculino,Noite,Outros,Automovel,40-44,NAO DISPONIVEL,NAO DISPONIVEL 
+1581,Sao Paulo,2017,3,Feminino,Manha,Atropelamento,Pedestre,45-49,-23.5592762221,-46.5609511377
+1582,Sao Paulo,2017,3,Masculino,Madrugada,Atropelamento,Pedestre,45-49,-23.677178,-46.758505
+1583,Sao Paulo,2017,3,Masculino,Madrugada,Colisao,Motocicleta,45-49,NAO DISPONIVEL,NAO DISPONIVEL 
+1584,Sao Paulo,2017,3,Masculino,Manha,Colisao,Motocicleta,45-49,-23.654817,-46.716598
+1585,Sao Paulo,2017,3,Masculino,Nao Disponivel,Nao Disponivel,Motocicleta,45-49,NAO DISPONIVEL,NAO DISPONIVEL 
+1586,Sao Paulo,2017,3,Masculino,Tarde,Atropelamento,Pedestre,45-49,-23.656455,-46.763097
+1587,Sao Paulo,2017,3,Masculino,Tarde,Atropelamento,Pedestre,45-49,-23.510897,-46.437665
+1588,Sao Paulo,2017,3,Masculino,Tarde,Atropelamento,Pedestre,45-49,-23.6135417397,-46.4557964963
+1589,Sao Paulo,2017,3,Feminino,Noite,Atropelamento,Pedestre,50-54,-23.515188,-46.69195
+1590,Sao Paulo,2017,3,Feminino,Tarde,Atropelamento,Pedestre,50-54,-23.618258,-46.604291
+1591,Sao Paulo,2017,3,Masculino,Manha,Atropelamento,Pedestre,50-54,-23.578598,-46.442975
+1592,Sao Paulo,2017,3,Masculino,Manha,Outros,Motocicleta,50-54,-23.578004,-46.514996
+1593,Sao Paulo,2017,3,Masculino,Tarde,Atropelamento,Pedestre,50-54,-23.586021176,-46.51655375
+1594,Sao Paulo,2017,3,Masculino,Tarde,Atropelamento,Pedestre,50-54,-23.6425826765,-46.7381452169
+1595,Sao Paulo,2017,3,Masculino,Tarde,Choque,Bicicleta,50-54,-23.452228,-46.601319
+1596,Sao Paulo,2017,3,Masculino,Manha,Atropelamento,Pedestre,55-59,-23.644809,-46.700486
+1597,Sao Paulo,2017,3,Masculino,Manha,Atropelamento,Pedestre,55-59,-23.52644,-46.397713
+1598,Sao Paulo,2017,3,Feminino,Noite,Atropelamento,Pedestre,60-64,-23.557982,-46.690112
+1599,Sao Paulo,2017,3,Feminino,Tarde,Atropelamento,Pedestre,60-64,-23.598298,-46.644057
+1600,Sao Paulo,2017,3,Masculino,Manha,Atropelamento,Pedestre,60-64,-23.673702,-46.677403
+1601,Sao Paulo,2017,3,Masculino,Noite,Atropelamento,Pedestre,60-64,-23.5642882631,-46.6910789869
+1602,Sao Paulo,2017,3,Feminino,Manha,Atropelamento,Pedestre,65-69,-23.5190844697,-46.5760659414
+1603,Sao Paulo,2017,3,Feminino,Tarde,Atropelamento,Pedestre,65-69,-23.815152,-46.735343
+1604,Sao Paulo,2017,3,Masculino,Madrugada,Atropelamento,Pedestre,65-69,-23.551071,-46.62501
+1605,Sao Paulo,2017,3,Masculino,Noite,Atropelamento,Pedestre,65-69,-23.646386,-46.674407
+1606,Sao Paulo,2017,3,Masculino,Noite,Atropelamento,Pedestre,65-69,-23.6812682017,-46.7857953741
+1607,Sao Paulo,2017,3,Masculino,Noite,Choque,Automovel,65-69,-23.492065,-46.494185
+1608,Sao Paulo,2017,3,Masculino,Noite,Colisao,Pedestre,65-69,-23.5237,-46.697755
+1609,Sao Paulo,2017,3,Feminino,Manha,Atropelamento,Pedestre,70-74,-23.553034,-46.634696
+1610,Sao Paulo,2017,3,Feminino,Tarde,Atropelamento,Pedestre,70-74,-23.642798,-46.776651
+1611,Sao Paulo,2017,3,Feminino,Tarde,Atropelamento,Pedestre,70-74,-23.6048526216,-46.4711565774
+1612,Sao Paulo,2017,3,Masculino,Noite,Atropelamento,Pedestre,70-74,NAO DISPONIVEL,NAO DISPONIVEL 
+1613,Sao Paulo,2017,3,Feminino,Noite,Atropelamento,Pedestre,75-79,-23.668466,-46.787274
+1614,Sao Paulo,2017,3,Feminino,Noite,Atropelamento,Pedestre,75-79,-23.511797,-46.653144
+1615,Sao Paulo,2017,3,Masculino,Madrugada,Atropelamento,Pedestre,75-79,NAO DISPONIVEL,NAO DISPONIVEL 
+1616,Sao Paulo,2017,3,Masculino,Manha,Atropelamento,Pedestre,75-79,-23.580000198,-46.50894041
+1617,Sao Paulo,2017,3,Masculino,Noite,Atropelamento,Pedestre,75-79,-23.434539808,-46.786286831
+1618,Sao Paulo,2017,3,Masculino,Tarde,Atropelamento,Pedestre,75-79,-23.746234,-46.707522
+1619,Sao Paulo,2017,3,Feminino,Tarde,Atropelamento,Pedestre,80 Ou Mais,-23.7546700027,-46.6680770715
+1620,Sao Paulo,2017,3,Masculino,Nao Disponivel,Atropelamento,Pedestre,80 Ou Mais,-23.60118,-46.511747
+1621,Sao Paulo,2017,3,Masculino,Noite,Nao Disponivel,Nao Disponivel,80 Ou Mais,NAO DISPONIVEL,NAO DISPONIVEL 
+1622,Sao Paulo,2017,3,Feminino,Manha,Colisao,Onibus,Nao Disponivel,-23.746099,-46.664076
+1623,Sao Paulo,2017,3,Feminino,Manha,Colisao,Onibus,Nao Disponivel,-23.746099,-46.664076
+1624,Sao Paulo,2017,3,Masculino,Madrugada,Atropelamento,Pedestre,Nao Disponivel,-23.6364379861,-46.595118966
+1625,Sao Paulo,2017,3,Masculino,Noite,Atropelamento,Pedestre,Nao Disponivel,-23.59718865,-46.5330500878
+1626,Sao Paulo,2017,3,Masculino,Noite,Atropelamento,Pedestre,Nao Disponivel,-23.612008,-46.487575
+1627,Sao Pedro,2016,12,Masculino,ManhÃ£,ColisÃ£o,AutomÃ³vel,55-59,-22.5634502931,-47.852933619
+1628,Sao Pedro,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,70-74,-22.580098408,-47.860414804
+1629,Sao Pedro,2017,1,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,40-44,-22.5677579979,-48.0134036495
+1630,Sao Pedro,2017,1,Masculino,Tarde,ColisÃ£o,CaminhÃ£o,40-44,-22.5636052094,-47.9436060742
+1631,Sao Roque,2016,12,Masculino,Noite,Outros,Motocicleta,0-17,-23.544266927,-47.1282321696
+1632,Sao Roque,2017,2,Masculino,ManhÃ£,Choque,Motocicleta,30-34,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1633,Sao Roque,2017,3,Masculino,Noite,Colisao,Motocicleta,18-24,-23.422346754,-47.16277615
+1634,Sao Roque,2017,3,Masculino,Noite,Nao Disponivel,Nao Disponivel,25-29,-23.518813,-47.140049
+1635,Sao Roque,2017,3,Masculino,Madrugada,Colisao,Automovel,35-39,-23.5552632769,-47.1089457301
+1636,Sao Roque,2017,3,Masculino,Noite,Colisao,Motocicleta,40-44,-23.548679,-47.067516
+1637,Sao Roque,2017,3,Masculino,Noite,Atropelamento,Pedestre,75-79,-23.524116,-47.134691
+1638,Sao Sebastiao,2016,12,Masculino,Madrugada,Outros,CaminhÃ£o,18-24,-23.7879972569,-45.5863165705
+1639,Sao Sebastiao,2016,12,Masculino,Madrugada,Outros,CaminhÃ£o,30-34,-23.7879972569,-45.5863165705
+1640,Sao Sebastiao,2017,1,Masculino,Tarde,Outros,Motocicleta,18-24,-23.7971014374,-45.5463323516
+1641,Sao Sebastiao,2017,1,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,55-59,-23.773809051,-45.672974088
+1642,Sao Sebastiao,2017,1,Masculino,ManhÃ£,Outros,CaminhÃ£o,55-59,-23.7879972569,-45.5863165705
+1643,Sao Sebastiao,2017,1,Masculino,Noite,NÃ£o DisponÃ­vel,Motocicleta,55-59,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1644,Sao Sebastiao,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,60-64,-23.773809051,-45.672974088
+1645,Sao Sebastiao Da Grama,2017,2,Masculino,NÃ£o DisponÃ­vel,Colisao,Automovel,35-39,-21.7053928497,-46.8452406722
+1646,Sao Simao,2017,1,Masculino,Noite,ColisÃ£o,Motocicleta,30-34,-21.52777833,-47.642481023
+1647,Sao Simao,2017,3,Feminino,Tarde,Choque,Automovel,18-24,-21.460923,-47.451996
+1648,Sao Vicente,2016,12,Masculino,ManhÃ£,Choque,Motocicleta,18-24,-23973,-46.390422
+1649,Sao Vicente,2016,12,Masculino,Noite,Atropelamento,Pedestre,25-29,-23.9755454814,-46.4015783181
+1650,Sao Vicente,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,25-29,-23.970309,-46.38422
+1651,Sao Vicente,2016,12,Masculino,Tarde,Choque,AutomÃ³vel,30-34,-23.95489,-46.461181
+1652,Sao Vicente,2016,12,Feminino,Noite,Atropelamento,Pedestre,50-54,-23.950564,-46.384757
+1653,Sao Vicente,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,55-59,-23.985136,-46.467488
+1654,Sao Vicente,2016,12,Masculino,Tarde,ColisÃ£o,AutomÃ³vel,60-64,-23.950649,-46.39831
+1655,Sao Vicente,2017,1,Feminino,Noite,Atropelamento,Pedestre,0-17,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1656,Sao Vicente,2017,1,Masculino,Madrugada,ColisÃ£o,Motocicleta,18-24,-23.966233,-46.376114
+1657,Sao Vicente,2017,1,Masculino,ManhÃ£,ColisÃ£o,AutomÃ³vel,18-24,-23.977302,-46.441155
+1658,Sao Vicente,2017,1,Masculino,Madrugada,Atropelamento,Pedestre,30-34,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1659,Sao Vicente,2017,1,Masculino,Madrugada,ColisÃ£o,Motocicleta,30-34,-23.98860977,-46.493789857
+1660,Sao Vicente,2017,1,Masculino,Tarde,Outros,Motocicleta,45-49,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1661,Sao Vicente,2017,2,Feminino,Tarde,Atropelamento,Pedestre,35-39,-23.969023,-46.362065
+1662,Sao Vicente,2017,2,Masculino,Noite,Atropelamento,Pedestre,40-44,-23.988805,-46.491841
+1663,Sao Vicente,2017,2,Feminino,Noite,Atropelamento,Motocicleta,50-54,-23.944622163,-46.463399139
+1664,Sao Vicente,2017,3,Masculino,Tarde,Outros,Motocicleta,18-24,-23.9521154286,-46.4116240202
+1665,Sao Vicente,2017,3,Masculino,Tarde,Atropelamento,Pedestre,80 Ou Mais,-23.972324,-46.406365
+1666,Serra Negra,2016,12,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,50-54,-22.605754518,-46.725830626
+1667,Serra Negra,2017,1,Masculino,Madrugada,ColisÃ£o,Motocicleta,50-54,-22.587142,-46.637929
+1668,Serrana,2016,12,Masculino,ManhÃ£,Atropelamento,Pedestre,80 Ou Mais,-21.203668,-47.611735
+1669,Serrana,2017,3,Feminino,Tarde,Colisao,Automovel,30-34,-21.2071556467,-47.6610788789
+1670,Sertaozinho,2017,2,Masculino,NÃ£o DisponÃ­vel,Colisao,Motocicleta,18-24,-21.153760193,-47.972346039
+1671,Sertaozinho,2017,2,Masculino,Madrugada,Colisao,Automovel,30-34,-21.077071422,-47.901291376
+1672,Sertaozinho,2017,2,Masculino,NÃ£o DisponÃ­vel,Colisao,Motocicleta,60-64,-21.14548,-48.004409
+1673,Sertaozinho,2017,3,Masculino,Noite,Choque,Automovel,18-24,-21.058188,-47.881176
+1674,Sete Barras,2016,12,Masculino,Noite,NÃ£o Especificado,NÃ£o Especificado,75-79,-24.383106,-47.926795
+1675,Severinia,2017,1,Masculino,Noite,ColisÃ£o,AutomÃ³vel,50-54,-20.8334041923,-48.7723166089
+1676,Silveiras,2017,3,Masculino,Tarde,Outros,Motocicleta,70-74,NAO DISPONIVEL,NAO DISPONIVEL 
+1677,Socorro,2016,12,Masculino,Tarde,Choque,Bicicleta,45-49,-22.605025,-46.529139
+1678,Socorro,2017,2,Masculino,ManhÃ£,Colisao,Motocicleta,30-34,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1679,Socorro,2017,3,Masculino,Nao Disponivel,Colisao,Motocicleta,Nao Disponivel,-22.6730673206,-46.5598459859
+1680,Sorocaba,2016,12,Masculino,ManhÃ£,Atropelamento,Pedestre,18-24,-23.491116,-47.471919
+1681,Sorocaba,2016,12,Masculino,Noite,Choque,Motocicleta,25-29,-23.486154,-47.510701
+1682,Sorocaba,2016,12,Feminino,ManhÃ£,Choque,AutomÃ³vel,50-54,-23.492805,-47.484879
+1683,Sorocaba,2017,1,Feminino,ManhÃ£,ColisÃ£o,AutomÃ³vel,0-17,-23.432128,-47.442837
+1684,Sorocaba,2017,1,NÃ£o DisponÃ­vel,Noite,Choque,NÃ£o DisponÃ­vel,18-24,-23.483905,-47.427194
+1685,Sorocaba,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,25-29,-23.469898,-47.491608
+1686,Sorocaba,2017,1,Masculino,Madrugada,ColisÃ£o,Motocicleta,35-39,-23.510358869,-47.549433168
+1687,Sorocaba,2017,1,Feminino,Noite,Atropelamento,Pedestre,45-49,-23.516351,-47.501469
+1688,Sorocaba,2017,1,Feminino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,75-79,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1689,Sorocaba,2017,1,Feminino,Noite,Atropelamento,Pedestre,75-79,-23.481324,-47.478549
+1690,Sorocaba,2017,1,Masculino,Tarde,Atropelamento,Pedestre,75-79,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1691,Sorocaba,2017,2,Masculino,ManhÃ£,Outros,Automovel,18-24,-23.444001,-47.52143
+1692,Sorocaba,2017,2,Masculino,Madrugada,Nao Disponivel,Motocicleta,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1693,Sorocaba,2017,2,Masculino,ManhÃ£,Outros,Automovel,30-34,-23.444001,-47.52143
+1694,Sorocaba,2017,2,Masculino,Tarde,Outros,Motocicleta,30-34,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1695,Sorocaba,2017,2,Feminino,Madrugada,Atropelamento,Pedestre,35-39,-23.4685940223,-47.4222148084
+1696,Sorocaba,2017,2,Feminino,ManhÃ£,Outros,Automovel,35-39,-23.444001,-47.52143
+1697,Sorocaba,2017,2,Feminino,Madrugada,Outros,Motocicleta,40-44,-23.506596,-47.482914
+1698,Sorocaba,2017,2,Masculino,Tarde,Choque,Automovel,45-49,-23.43926,-47.516177
+1699,Sorocaba,2017,3,Masculino,Madrugada,Choque,Automovel,25-29,-23.503523,-47.452444
+1700,Sorocaba,2017,3,Masculino,Madrugada,Colisao,Onibus,25-29,-23.4587570704,-47.4064471349
+1701,Sorocaba,2017,3,Masculino,Manha,Colisao,Motocicleta,25-29,-23.458626,-47.437905
+1702,Sorocaba,2017,3,Masculino,Noite,Colisao,Motocicleta,25-29,-23.375172449,-47.526074562
+1703,Sorocaba,2017,3,Masculino,Noite,Atropelamento,Pedestre,35-39,-23.5105349805,-47.3396543593
+1704,Sorocaba,2017,3,Masculino,Tarde,Colisao,Motocicleta,35-39,-23.5334441507,-47.5042391662
+1705,Sorocaba,2017,3,Masculino,Tarde,Choque,Motocicleta,40-44,-23.5137572974,-47.3258498662
+1706,Sorocaba,2017,3,Feminino,Tarde,Atropelamento,Pedestre,60-64,-23.485783,-47.489126
+1707,Sorocaba,2017,3,Feminino,Nao Disponivel,Colisao,Pedestre,75-79,-23.487708,-47.492477
+1708,Sorocaba,2017,3,Feminino,Manha,Atropelamento,Pedestre,80 Ou Mais,-23.504837,-47.48001
+1709,Sud Mennucci,2017,1,Masculino,ManhÃ£,ColisÃ£o,AutomÃ³vel,50-54,-20.6108585502,-50.8148816327
+1710,Sumare,2016,12,Masculino,Madrugada,ColisÃ£o,Motocicleta,18-24,-22.823523,-47.267247
+1711,Sumare,2016,12,Masculino,Noite,Outros,Motocicleta,18-24,-22.808314157,-47.184940947
+1712,Sumare,2016,12,Masculino,Madrugada,NÃ£o Especificado,AutomÃ³vel,40-44,-22.8268252704,-47.1848244205
+1713,Sumare,2016,12,Masculino,ManhÃ£,ColisÃ£o,AutomÃ³vel,65-69,-22.836356,-47.274966
+1714,Sumare,2017,1,Masculino,Madrugada,ColisÃ£o,Motocicleta,30-34,-22.838522,-47.256604
+1715,Sumare,2017,2,Masculino,Tarde,Choque,Outros,18-24,-22.7956,-47.19439
+1716,Suzano,2016,12,Masculino,Noite,Atropelamento,Outros,0-17,-23.6391264511,-46.3218419152
+1717,Suzano,2017,2,Masculino,Noite,Atropelamento,Pedestre,0-17,-23.549596,-46.293247
+1718,Suzano,2017,2,Feminino,ManhÃ£,Atropelamento,Pedestre,55-59,-23.526855,-46.304897
+1719,Suzano,2017,3,Masculino,Nao Disponivel,Outros,Motocicleta,18-24,-23.49793,-46.33072
+1720,Suzano,2017,3,Masculino,Noite,Colisao,Bicicleta,18-24,-23.63013399,-46.309185526
+1721,Suzano,2017,3,Masculino,Noite,Colisao,Motocicleta,45-49,-23.5835432194,-46.3553261091
+1722,Suzano,2017,3,Masculino,Tarde,Outros,Bicicleta,65-69,-23.525277,-46.30615
+1723,Tabatinga,2017,1,Masculino,Noite,Choque,Motocicleta,30-34,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1724,Taboao Da Serra,2016,12,Masculino,Noite,Atropelamento,Pedestre,18-24,-23.630746,-46.80144
+1725,Taboao Da Serra,2017,2,Masculino,ManhÃ£,Colisao,Motocicleta,18-24,-23.6077163524,-46.7665963358
+1726,Taboao Da Serra,2017,2,Masculino,Tarde,Colisao,Motocicleta,30-34,-23.608518,-46.754167
+1727,Taboao Da Serra,2017,2,Masculino,Noite,Atropelamento,Pedestre,35-39,-23.6179630193,-46.8000202454
+1728,Taboao Da Serra,2017,3,Masculino,Manha,Colisao,Motocicleta,18-24,-23.6247459771,-46.7874811007
+1729,Taiacu,2017,2,Masculino,Noite,Colisao,Motocicleta,18-24,-21.14317,-48.513051
+1730,Taiuva,2017,3,Masculino,Noite,Colisao,Motocicleta,18-24,-21.09867,-48.39866
+1731,Tanabi,2017,3,Feminino,Nao Disponivel,Outros,Automovel,80 Ou Mais,-20.6171809758,-49.6677960828
+1732,Tapirai,2017,1,Masculino,Tarde,ColisÃ£o,Motocicleta,25-29,-24.0305550928,-47.5583222763
+1733,Tapirai,2017,3,Masculino,Noite,Atropelamento,Pedestre,45-49,-23.9797761892,-47.5093395724
+1734,Taquaritinga,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1735,Taquaritinga,2016,12,Masculino,ManhÃ£,NÃ£o Especificado,Bicicleta,75-79,-21.41332,-48.511381
+1736,Taquaritinga,2017,1,Masculino,ManhÃ£,Atropelamento,Pedestre,40-44,-21.40568,-48.47677
+1737,Taquaritinga,2017,1,Masculino,Noite,ColisÃ£o,AutomÃ³vel,50-54,-21.47697,-48.60111
+1738,Taquarituba,2017,1,Masculino,Madrugada,Outros,CaminhÃ£o,18-24,-23.558905964,-49.2499838577
+1739,Tatui,2016,12,Masculino,ManhÃ£,NÃ£o Especificado,NÃ£o Especificado,18-24,-23.301192,-47.891748
+1740,Tatui,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,35-39,-23.355049,-47.862184
+1741,Tatui,2017,2,Masculino,Tarde,Colisao,Caminhao,35-39,-23.265048,-47.840685
+1742,Tatui,2017,2,Feminino,Tarde,Colisao,Motocicleta,40-44,-23.346789876,-47.8386285152
+1743,Tatui,2017,2,Masculino,Noite,Outros,Bicicleta,60-64,-23.34295,-47.849479
+1744,Tatui,2017,2,Masculino,Noite,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-23.35857865,-47.87735702
+1745,Tatui,2017,3,Masculino,Noite,Colisao,Motocicleta,35-39,-23.3961808388,-47.7650805164
+1746,Taubate,2016,12,Feminino,Tarde,ColisÃ£o,AutomÃ³vel,18-24,-23.1987130625,-45.4730960086
+1747,Taubate,2016,12,Masculino,Madrugada,NÃ£o Especificado,AutomÃ³vel,25-29,-23.1251504512,-45.511292999
+1748,Taubate,2016,12,Masculino,ManhÃ£,ColisÃ£o,Motocicleta,25-29,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1749,Taubate,2016,12,Feminino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,45-49,-23.0020135211,-45.5040430341
+1750,Taubate,2017,1,Masculino,NÃ£o DisponÃ­vel,ColisÃ£o,Motocicleta,30-34,-23.159183195,-45.4854168169
+1751,Taubate,2017,1,Masculino,NÃ£o DisponÃ­vel,Outros,Bicicleta,30-34,-22.994577,-45.651855
+1752,Taubate,2017,1,Masculino,Tarde,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,60-64,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1753,Taubate,2017,3,Feminino,Noite,Colisao,Automovel,18-24,-23.1892217208,-45.4596871495
+1754,Taubate,2017,3,Masculino,Tarde,Colisao,Automovel,50-54,-23.142013769,-45.4940383
+1755,Taubate,2017,3,Masculino,Noite,Colisao,Bicicleta,55-59,-22.994257,-45.528799
+1756,Taubate,2017,3,Masculino,Nao Disponivel,Nao Disponivel,Motocicleta,70-74,NAO DISPONIVEL,NAO DISPONIVEL 
+1757,Teodoro Sampaio,2017,1,Feminino,Noite,ColisÃ£o,AutomÃ³vel,18-24,-22.5197617575,-52.317152449
+1758,Teodoro Sampaio,2017,1,Masculino,Noite,ColisÃ£o,AutomÃ³vel,25-29,-22.5197617575,-52.317152449
+1759,Teodoro Sampaio,2017,1,Masculino,Noite,ColisÃ£o,AutomÃ³vel,25-29,-22.5197617575,-52.317152449
+1760,Teodoro Sampaio,2017,1,Feminino,Noite,ColisÃ£o,AutomÃ³vel,30-34,-22.5197617575,-52.317152449
+1761,Teodoro Sampaio,2017,3,Masculino,Nao Disponivel,Nao Disponivel,Nao Disponivel,55-59,NAO DISPONIVEL,NAO DISPONIVEL 
+1762,Tiete,2017,3,Masculino,Noite,Colisao,Motocicleta,18-24,-23.1186316345,-47.7118820567
+1763,Tiete,2017,3,Masculino,Noite,Colisao,Motocicleta,18-24,-23.1186316345,-47.7118820567
+1764,Tiete,2017,3,Masculino,Noite,Colisao,Automovel,50-54,NAO DISPONIVEL,NAO DISPONIVEL 
+1765,Tremembe,2016,12,Feminino,Madrugada,NÃ£o Especificado,NÃ£o Especificado,35-39,-22.986254,-45.52067
+1766,Tremembe,2017,2,Masculino,NÃ£o DisponÃ­vel,Outros,Automovel,55-59,-22.992344,-45.563111
+1767,Tupa,2017,1,Feminino,ManhÃ£,ColisÃ£o,Motocicleta,50-54,-21.945223,-50.508086
+1768,Tupa,2017,2,Masculino,ManhÃ£,Choque,Motocicleta,30-34,-21.943687,-50.495193
+1769,Tupa,2017,2,Masculino,Noite,Outros,Motocicleta,30-34,-22.065542,-50.57424
+1770,Tupa,2017,2,Feminino,Noite,Outros,Motocicleta,45-49,-22.065542,-50.57424
+1771,Tupa,2017,3,Masculino,Noite,Choque,Motocicleta,18-24,-21.937335,-50.488924
+1772,Tupa,2017,3,Masculino,Manha,Colisao,Bicicleta,65-69,-21.939754,-50.497342
+1773,Ubarana,2017,2,Masculino,Madrugada,Colisao,Motocicleta,45-49,-21.1539641956,-49.7071757936
+1774,Ubatuba,2016,12,Masculino,Tarde,NÃ£o Especificado,Motocicleta,25-29,-23.438651,-45.091124
+1775,Ubatuba,2016,12,Masculino,Noite,ColisÃ£o,AutomÃ³vel,30-34,-23.4138406065,-45.0278434541
+1776,Ubatuba,2016,12,Masculino,Tarde,NÃ£o Especificado,Motocicleta,30-34,-23.438617,-45.091105
+1777,Ubatuba,2016,12,Feminino,ManhÃ£,Choque,AutomÃ³vel,65-69,-23.378801693,-45.1190762624
+1778,Ubatuba,2016,12,Masculino,ManhÃ£,Choque,AutomÃ³vel,75-79,-23.378801693,-45.1190762624
+1779,Uchoa,2016,12,Masculino,Madrugada,ColisÃ£o,AutomÃ³vel,18-24,-21.0321882652,-49.1518860456
+1780,Uchoa,2016,12,Masculino,ManhÃ£,Atropelamento,Pedestre,45-49,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1781,Urupes,2016,12,Masculino,Noite,Choque,CaminhÃ£o,60-64,-21.243914,-49.296458
+1782,Urupes,2017,3,Masculino,Tarde,Colisao,Automovel,50-54,-21.218529112,-49.3523736365
+1783,Urupes,2017,3,Masculino,Tarde,Colisao,Automovel,65-69,-21.218529112,-49.3523736365
+1784,Valinhos,2016,12,Masculino,Tarde,NÃ£o Especificado,NÃ£o Especificado,40-44,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1785,Valinhos,2016,12,Masculino,Tarde,ColisÃ£o,Motocicleta,45-49,-22.944563,-46.974711
+1786,Valinhos,2016,12,Masculino,Madrugada,Atropelamento,Pedestre,NÃ£o DisponÃ­vel,-22.9981251364,-47.0326970299
+1787,Valinhos,2017,1,Feminino,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel,45-49,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1788,Valinhos,2017,3,Masculino,Noite,Choque,Automovel,30-34,-23.001061736,-47.010106183
+1789,Valparaiso,2017,2,Masculino,NÃ£o DisponÃ­vel,Nao Disponivel,Automovel,18-24,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel
+1790,Vargem,2017,2,Feminino,Noite,Atropelamento,Pedestre,60-64,-22.887686135,-46.4119230193
+1791,Vargem Grande Do Sul,2016,12,Masculino,Noite,Atropelamento,Pedestre,40-44,-21.830882948,-46.8790908877
+1792,Vargem Grande Do Sul,2017,3,Masculino,Tarde,Colisao,Automovel,55-59,-21.8294113676,-46.8785900132
+1793,Vargem Grande Paulista,2017,1,Masculino,Tarde,Choque,AutomÃ³vel,60-64,-23.648266,-47.001796
+1794,Vargem Grande Paulista,2017,3,Masculino,Tarde,Colisao,Motocicleta,40-44,-23.6125290444,-47.0030449558
+1795,Vinhedo,2016,12,Masculino,NÃ£o DisponÃ­vel,Outros,Bicicleta,40-44,NÃ£o DisponÃ­vel,NÃ£o DisponÃ­vel 
+1796,Vinhedo,2017,3,Masculino,Nao Disponivel,Colisao,Motocicleta,25-29,-23.068341,-46.98838
+1797,Vinhedo,2017,3,Feminino,Noite,Colisao,Automovel,70-74,-23.112032726,-47.002000809
+1798,Vista Alegre Do Alto,2017,3,Masculino,Manha,Nao Disponivel,Nao Disponivel,35-39,-21.159475389,-48.641863429
+1799,Votorantim,2017,1,Masculino,Noite,Choque,AutomÃ³vel,70-74,-23.578202,-47.45857
+1800,Votorantim,2017,2,Masculino,Noite,Atropelamento,Pedestre,25-29,-23.550285,-47.457564
+1801,Votorantim,2017,3,Feminino,Tarde,Outros,Motocicleta,25-29,-23.595445,-47.351225
+1802,Votuporanga,2016,12,Masculino,Madrugada,Choque,Motocicleta,18-24,-20.404424,-49.984005
+1803,Votuporanga,2016,12,Masculino,Noite,ColisÃ£o,Motocicleta,35-39,-20.425555,-49.958521
+1804,Votuporanga,2017,2,Masculino,Noite,Nao Disponivel,Nao Disponivel,25-29,-20.352616,-49.98831
+1805,Votuporanga,2017,2,Masculino,Tarde,Colisao,Caminhao,50-54,-20.3916943797,-50.0121069111
+1806,Votuporanga,2017,3,Masculino,Madrugada,Nao Disponivel,Nao Disponivel,18-24,NAO DISPONIVEL,NAO DISPONIVEL 
+1807,Votuporanga,2017,3,Feminino,Manha,Atropelamento,Pedestre,60-64,-21.135136,-48.977713
+1808,Zacarias,2017,1,Feminino,NÃ£o DisponÃ­vel,Atropelamento,Pedestre,65-69,-21.073679,-50.086164
